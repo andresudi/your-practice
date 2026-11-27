@@ -1,0 +1,3 @@
+export function moveStep(steps,stepId,direction){if(!['up','down'].includes(direction))throw Error('Choose up or down');const index=steps.findIndex(s=>s.id===stepId),next=index+(direction==='up'?-1:1);const result=[...steps];if(index<0||next<0||next>=steps.length)return result;[result[index],result[next]]=[result[next],result[index]];return result;}
+export function getPlannedSeconds(steps){return steps.reduce((sum,s)=>{if(typeof s.seconds!=='number'||!Number.isFinite(s.seconds)||s.seconds<0||s.seconds>86400)throw Error('Duration must be from 0 to 86,400 seconds');return sum+s.seconds},0);}
+export function getElapsedSeconds(accumulated,startedAt,now){return accumulated+(startedAt===null?0:Math.max(0,Math.floor((now-startedAt)/1000)));}

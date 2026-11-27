@@ -1,0 +1,647 @@
+[
+  {
+    "id": "M1-T01",
+    "moduleId": "M1",
+    "title": "Asana fundamentals",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "practice-map",
+      "pose-observation"
+    ]
+  },
+  {
+    "id": "M1-T02",
+    "moduleId": "M1",
+    "title": "Hatha",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "yoga-styles"
+    ]
+  },
+  {
+    "id": "M1-T03",
+    "moduleId": "M1",
+    "title": "Creative Vinyasa",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "yoga-styles"
+    ]
+  },
+  {
+    "id": "M1-T04",
+    "moduleId": "M1",
+    "title": "Ashtanga Vinyasa",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "yoga-styles"
+    ]
+  },
+  {
+    "id": "M1-T05",
+    "moduleId": "M1",
+    "title": "Yin",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "yoga-styles"
+    ]
+  },
+  {
+    "id": "M1-T06",
+    "moduleId": "M1",
+    "title": "Pranayama",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "practice-map"
+    ]
+  },
+  {
+    "id": "M1-T07",
+    "moduleId": "M1",
+    "title": "Kriyas",
+    "teacherPrompt": "Ask which kriyas belong to your training and how they are taught safely; practise them with your teacher.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T08",
+    "moduleId": "M1",
+    "title": "Chanting and music",
+    "teacherPrompt": "Ask which chants or musical practices your cohort uses and where their words and meanings come from.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T09",
+    "moduleId": "M1",
+    "title": "Mantras",
+    "teacherPrompt": "Ask your teacher which mantra, pronunciation and tradition are part of your course.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T10",
+    "moduleId": "M1",
+    "title": "Meditation",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "practice-map"
+    ]
+  },
+  {
+    "id": "M1-T11",
+    "moduleId": "M1",
+    "title": "Traditional practices",
+    "teacherPrompt": "Ask your teacher to name the practice, its source tradition and how it fits your course.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T12",
+    "moduleId": "M1",
+    "title": "Guided practice",
+    "teacherPrompt": "Join a teacher-led session, then note one cue you understood and one you want explained.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T13",
+    "moduleId": "M1",
+    "title": "Teaching analysis",
+    "teacherPrompt": "Observe a class with your teacher and discuss how its sequence and cues served that group.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M1-T14",
+    "moduleId": "M1",
+    "title": "Restorative principles",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["restorative-principles"]
+  },
+  {
+    "id": "M1-T15",
+    "moduleId": "M1",
+    "title": "Yoga Nidra",
+    "teacherPrompt": "Ask which Yoga Nidra approach your course teaches; experience it with a qualified guide before trying to teach it.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M2-T01",
+    "moduleId": "M2",
+    "title": "Physical structures",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "body-language"
+    ]
+  },
+  {
+    "id": "M2-T02",
+    "moduleId": "M2",
+    "title": "Organs and systems",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "breathing-basics"
+    ]
+  },
+  {
+    "id": "M2-T03",
+    "moduleId": "M2",
+    "title": "Movement vocabulary",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "movement-words"
+    ]
+  },
+  {
+    "id": "M2-T04",
+    "moduleId": "M2",
+    "title": "Yoga applications",
+    "teacherPrompt": "Ask your trainer how your cohort applies a body concept to yoga, and where individual safety questions need qualified advice.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M2-T05",
+    "moduleId": "M2",
+    "title": "Benefits and contraindications",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["benefits-and-cautions"]
+  },
+  {
+    "id": "M2-T06",
+    "moduleId": "M2",
+    "title": "Chakras",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "energy-context"
+    ]
+  },
+  {
+    "id": "M2-T07",
+    "moduleId": "M2",
+    "title": "Nadis",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "energy-context"
+    ]
+  },
+  {
+    "id": "M2-T08",
+    "moduleId": "M2",
+    "title": "Bones",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "skeleton-basics"
+    ]
+  },
+  {
+    "id": "M2-T09",
+    "moduleId": "M2",
+    "title": "Muscles",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "muscle-roles"
+    ]
+  },
+  {
+    "id": "M2-T10",
+    "moduleId": "M2",
+    "title": "Joints",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "connective-basics"
+    ]
+  },
+  {
+    "id": "M2-T11",
+    "moduleId": "M2",
+    "title": "Connective tissues",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "connective-basics"
+    ]
+  },
+  {
+    "id": "M2-T12",
+    "moduleId": "M2",
+    "title": "Individual variation",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": ["individual-variation"]
+  },
+  {
+    "id": "M2-T13",
+    "moduleId": "M2",
+    "title": "Respiratory system",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "breathing-basics"
+    ]
+  },
+  {
+    "id": "M2-T14",
+    "moduleId": "M2",
+    "title": "Circulatory system",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "circulation-basics"
+    ]
+  },
+  {
+    "id": "M2-T15",
+    "moduleId": "M2",
+    "title": "Nervous system",
+    "evidenceBasis": "school-article",
+    "sourceIds": [
+      "anatomy-outline"
+    ],
+    "lessonIds": [
+      "nervous-basics"
+    ]
+  },
+  {
+    "id": "M3-T01",
+    "moduleId": "M3",
+    "title": "Communication",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "clear-cues"
+    ]
+  },
+  {
+    "id": "M3-T02",
+    "moduleId": "M3",
+    "title": "Group dynamics",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "read-the-room"
+    ]
+  },
+  {
+    "id": "M3-T03",
+    "moduleId": "M3",
+    "title": "Time management",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "read-the-room"
+    ]
+  },
+  {
+    "id": "M3-T04",
+    "moduleId": "M3",
+    "title": "Priorities and boundaries",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["teaching-boundaries"]
+  },
+  {
+    "id": "M3-T05",
+    "moduleId": "M3",
+    "title": "Individual and population needs",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["read-the-room"]
+  },
+  {
+    "id": "M3-T06",
+    "moduleId": "M3",
+    "title": "Demonstration",
+    "teacherPrompt": "Ask your teacher to demonstrate how they choose what to show and what to say, then rehearse with their feedback.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M3-T07",
+    "moduleId": "M3",
+    "title": "Observation",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "clear-cues"
+    ]
+  },
+  {
+    "id": "M3-T08",
+    "moduleId": "M3",
+    "title": "Assisting",
+    "teacherPrompt": "Ask your teacher to demonstrate consent, boundaries and any hands-on assistance expected in your cohort.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M3-T09",
+    "moduleId": "M3",
+    "title": "Correcting",
+    "teacherPrompt": "Observe how your teacher offers feedback and alternatives, then ask when a correction is appropriate.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M3-T10",
+    "moduleId": "M3",
+    "title": "Teacher qualities",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["teaching-essentials"]
+  },
+  {
+    "id": "M3-T11",
+    "moduleId": "M3",
+    "title": "Learning process",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["teaching-essentials"]
+  },
+  {
+    "id": "M3-T12",
+    "moduleId": "M3",
+    "title": "Marketing",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["teaching-essentials"]
+  },
+  {
+    "id": "M3-T13",
+    "moduleId": "M3",
+    "title": "Legal and business matters",
+    "teacherPrompt": "Ask your trainer which business questions apply where you plan to teach, then check local legal and insurance details with qualified advisers.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M4-T01",
+    "moduleId": "M4",
+    "title": "Yoga Sutras",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["ahimsa-in-action"]
+  },
+  {
+    "id": "M4-T02",
+    "moduleId": "M4",
+    "title": "Hatha Yoga Pradipika",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["hatha-first-light"]
+  },
+  {
+    "id": "M4-T03",
+    "moduleId": "M4",
+    "title": "Bhagavad Gita",
+    "teacherPrompt": "Ask your trainer which Bhagavad Gita translation and passages your cohort studies; compare one passage with their interpretation.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M4-T04",
+    "moduleId": "M4",
+    "title": "Ahimsa",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": ["ahimsa-in-action"]
+  },
+  {
+    "id": "M4-T05",
+    "moduleId": "M4",
+    "title": "Dharma",
+    "teacherPrompt": "Ask your trainer which passage and tradition frame dharma in your course, then write one question about that context.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M4-T06",
+    "moduleId": "M4",
+    "title": "Karma",
+    "teacherPrompt": "Ask your trainer whether your assigned reading discusses action, consequence or karma yoga; note the exact passage and their explanation.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M4-T07",
+    "moduleId": "M4",
+    "title": "Seva",
+    "teacherPrompt": "Ask your trainer how seva is understood in your course and how they discuss service, consent and context in practice.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M4-T08",
+    "moduleId": "M4",
+    "title": "Teacher–student relationships",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "ethics-reflection"
+    ]
+  },
+  {
+    "id": "M4-T09",
+    "moduleId": "M4",
+    "title": "Community and ethical conduct",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "ethics-reflection"
+    ]
+  },
+  {
+    "id": "M5-T01",
+    "moduleId": "M5",
+    "title": "Practice teaching",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "feedback-loop"
+    ]
+  },
+  {
+    "id": "M5-T02",
+    "moduleId": "M5",
+    "title": "Giving and receiving feedback",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "feedback-loop"
+    ]
+  },
+  {
+    "id": "M5-T03",
+    "moduleId": "M5",
+    "title": "Observing teaching",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": [
+      "feedback-loop"
+    ]
+  },
+  {
+    "id": "M5-T04",
+    "moduleId": "M5",
+    "title": "Assisting during class",
+    "teacherPrompt": "Assist only within your teacher's supervision; ask for feedback on consent and communication afterward.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  },
+  {
+    "id": "M5-T05",
+    "moduleId": "M5",
+    "title": "Written assessment revision",
+    "teacherPrompt": "Ask your trainer for the actual written assessment format and expectations; use this site's recall only as independent practice.",
+    "evidenceBasis": "course-outline",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonIds": []
+  }
+]

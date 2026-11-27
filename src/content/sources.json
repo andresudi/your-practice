@@ -1,0 +1,287 @@
+[
+  {
+    "id": "training-outline",
+    "title": "Public 200-hour subject outline",
+    "retrievedAt": "2026-10-02",
+    "supports": "Broad training subjects; not a cohort lesson sequence or marking rubric."
+  },
+  {
+    "id": "anatomy-outline",
+    "title": "Public yoga anatomy topic guide",
+    "retrievedAt": "2026-10-02",
+    "supports": "Anatomy topic suggestions, not a cohort syllabus."
+  },
+  {
+    "id": "os-terms",
+    "title": "OpenStax · Anatomical terminology",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "supports": "Directional vocabulary and Figure 1.12, body regions.",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "id": "os-movement",
+    "title": "OpenStax · Types of body movements",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-5-types-of-body-movements",
+    "supports": "Flexion, extension, abduction and adduction.",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "id": "os-nerves",
+    "title": "OpenStax · Structure and function of the nervous system",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
+    "supports": "CNS, PNS and the distinction between anatomical and functional divisions; Figure 12.2.",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "id": "yj-warrior",
+    "title": "Yoga Journal · Warrior II",
+    "url": "https://www.yogajournal.com/poses/warrior-ii-pose/",
+    "supports": "English and Sanskrit pose names and broad visual identification only; generated art has not been educator-reviewed.",
+    "retrievedAt": "2026-09-30"
+  },
+  {
+    "id": "ya-conduct",
+    "title": "Yoga Alliance · Code of Conduct",
+    "url": "https://yogaalliance.org/policies-priorities-progress/code-of-conduct/",
+    "retrievedAt": "2026-10-01",
+    "supports": "Principles 6 and 7: inclusion and respect for student–teacher relationships. Used for reflection, not an exhaustive legal or professional guide."
+  },
+  {
+    "id": "ye-mountain",
+    "title": "YogaEasy · Mountain Pose",
+    "url": "https://www.yogaeasy.com/artikel/mountain-pose",
+    "supports": "Mountain / Tadasana naming and broad pose recognition.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "ye-tree",
+    "title": "YogaEasy · Tree Pose",
+    "url": "https://www.yogaeasy.com/artikel/tree-pose",
+    "supports": "Tree / Vrksasana naming and broad pose recognition.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "aol-chair",
+    "title": "Art of Living · Chair Pose",
+    "url": "https://www.artofliving.org/uk-en/yoga/yoga-poses/chair-pose-utkatasana",
+    "supports": "Chair / Utkatasana naming and broad pose recognition.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "ye-dog",
+    "title": "YogaEasy · Downward Dog Pose",
+    "url": "https://www.yogaeasy.com/artikel/downward-dog-pose",
+    "supports": "Downward Dog / Adho Mukha Svanasana naming and broad pose recognition.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "os-breath",
+    "title": "OpenStax · The process of breathing",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+    "supports": "Quiet inspiration and expiration: diaphragm, thoracic volume, pressure and elastic recoil.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "os-muscles",
+    "title": "OpenStax · Interactions of skeletal muscles",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems",
+    "supports": "Agonist, antagonist and synergist roles; biceps/triceps elbow action example.",
+    "retrievedAt": "2026-10-01"
+  },
+  {
+    "id": "ye-hatha",
+    "title": "YogaEasy · What is Hatha Yoga?",
+    "url": "https://www.yogaeasy.com/artikel/what-is-hatha-yoga",
+    "supports": "Modern Hatha class format; the wider meaning of Hatha.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "ye-vinyasa",
+    "title": "YogaEasy · Vinyasa Yoga",
+    "url": "https://www.yogaeasy.com/artikel/vinyasa-yoga",
+    "supports": "Breath-linked movement and variable class sequences.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "ye-ashtanga",
+    "title": "YogaEasy · Ashtanga Yoga",
+    "url": "https://www.yogaeasy.com/artikel/ashtanga-yoga",
+    "supports": "Set series, breath-linked movement and gradual learning.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "ye-yin",
+    "title": "YogaEasy · Yin Yoga",
+    "url": "https://www.yogaeasy.com/artikel/yin-yoga",
+    "supports": "Longer-held, passive, mostly floor-based poses only; no health or tissue claims reproduced.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "os-connective",
+    "title": "OpenStax · Connective tissue supports and protects",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/4-3-connective-tissue-supports-and-protects",
+    "retrievedAt": "2026-10-02",
+    "supports": "Tendons attaching muscle to bone; connective-tissue types. No treatment or stretching advice used."
+  },
+  {
+    "id": "os-joints",
+    "title": "OpenStax · Synovial joints",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/9-4-synovial-joints",
+    "retrievedAt": "2026-10-02",
+    "supports": "Ligaments linking bones and supporting joints; articular cartilage covering joint surfaces; joint cavity."
+  },
+  {
+    "id": "yj-restorative",
+    "title": "Yoga Journal · Restorative Yoga",
+    "url": "https://www.yogajournal.com/poses/types/restorative-types-of-yoga/",
+    "retrievedAt": "2026-10-08",
+    "supports": "Restorative practice uses a small number of supported positions and time for rest; no pose setup, hold time or health benefit is reproduced."
+  },
+  {
+    "id": "cys-hatha-1",
+    "title": "Centre for Yoga Studies · Haṭha Pradīpikā, chapter 1",
+    "url": "https://yogastudies.org/text-section/hatha-pradipika/hp-chapter-1/",
+    "retrievedAt": "2026-10-08",
+    "supports": "The centre's translation of verses 1 and 17: Haṭha as a ladder toward Rāja Yoga, and āsana introduced first among the text's Haṭha limbs. Historical verse claims are not medical advice."
+  },
+  {
+    "id": "os-skeleton",
+    "title": "OpenStax · Divisions of the skeletal system",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system",
+    "supports": "Axial versus appendicular divisions; skull, vertebral column and thoracic cage; sacrum and coccyx are axial.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "os-shoulder-girdle",
+    "title": "OpenStax · The pectoral girdle",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle",
+    "supports": "Clavicles and scapulae form the shoulder girdles and belong to the appendicular skeleton.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "os-pelvic-girdle",
+    "title": "OpenStax · The pelvic girdle and pelvis",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis",
+    "supports": "Hip bones form the pelvic girdle; distinguish them from the axial sacrum and coccyx.",
+    "retrievedAt": "2026-10-02"
+  },
+  {
+    "id": "os-circulation",
+    "title": "OpenStax · Structure and function of blood vessels",
+    "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels",
+    "supports": "Pulmonary and systemic circulation; right heart to lungs and back; left heart to body and back; arteries carry blood away from the heart and veins return it.",
+    "retrievedAt": "2026-10-07"
+  },
+  {
+    "id": "ya-rys200",
+    "title": "Yoga Alliance · RYS 200 standards",
+    "url": "https://yogaalliance.org/Standards-for-RYS-Credentials",
+    "supports": "RYS 200 common-core categories include teaching environment, pace, cueing, professionalism, feedback and introductory marketing; Yoga Humanities names major texts. A benchmark, not this cohort's lesson plan.",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "harvard-ahimsa",
+    "title": "Harvard Divinity School · Nonviolence (Ahiṃsā)",
+    "url": "https://cswr.hds.harvard.edu/news/2026/08/03/nonviolence-ahimsa",
+    "supports": "Author's translation of Yoga Sūtra II.30 places ahiṃsā among the yamas, with wider historical context. One interpretation, not this cohort's assigned translation.",
+    "retrievedAt": "2026-10-07"
+  },
+  {
+    "id": "ya-code",
+    "title": "Yoga Alliance · Code of Conduct",
+    "url": "https://yogaalliance.org/policies-priorities-progress/code-of-conduct/",
+    "supports": "A modern teacher-ethics comparison: do no harm, actively include individuals and seek explicit informed consent before physical assistance. Not a cohort-specific policy.",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "nccih-yoga-safety",
+    "title": "NIH NCCIH · Yoga: Effectiveness and Safety",
+    "url": "https://www.nccih.nih.gov/health/yoga-effectiveness-and-safety",
+    "supports": "Research suggests some possible benefits but results and practices vary; health conditions can change individual safety needs.",
+    "retrievedAt": "2026-10-07"
+  },
+  {
+    "id": "ya-scope",
+    "title": "Yoga Alliance · Scope of Practice",
+    "url": "https://yogaalliance.org/policies-priorities-progress/scope-of-practice/",
+    "supports": "Modern professional boundary for Yoga Alliance members: teach within training and do not provide unlicensed advice. Not this cohort's exact policy.",
+    "retrievedAt": "2026-10-07"
+  },
+  {
+    "id": "yj-pose-finder",
+    "title": "Yoga Journal · Pose A–Z",
+    "url": "https://www.yogajournal.com/pose-finder/pose-finder/",
+    "retrievedAt": "2026-10-08",
+    "supports": "English and Sanskrit names and broad pose families for illustrative recognition studies; no instructional sequence or course-specific required list is inferred."
+  },
+  {
+    "id": "yi-plank",
+    "title": "Yoga International · Plank naming",
+    "url": "https://yogainternational.com/article/view/handstand-tutorial/",
+    "supports": "Uses Phalakasana as the name for Plank Pose; no practice directions or benefits copied.",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "yj-supine-twist",
+    "title": "Yoga Journal · Supine Spinal Twist",
+    "url": "https://www.yogajournal.com/practice/yoga-sequences/yoga-to-ground-and-uplift/",
+    "supports": "Uses Supta Matsyendrasana for Supine Spinal Twist and shows a reclining, bent-knee silhouette; no health claims or instructions copied.",
+    "retrievedAt": "2026-10-08"
+  },
+  {
+    "id": "yj-camel",
+    "title": "Yoga Journal · Camel Pose",
+    "url": "https://www.yogajournal.com/poses/camel-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Ustrasana for Camel Pose and shows a kneeling backbend silhouette; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-fish",
+    "title": "Yoga Journal · Fish Pose",
+    "url": "https://www.yogajournal.com/poses/fish-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Matsyasana for Fish Pose and shows a reclining backbend with the chest lifted on the forearms; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-locust",
+    "title": "Yoga Journal · Locust Pose",
+    "url": "https://www.yogajournal.com/poses/locust-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Salabhasana for Locust Pose and shows a face-down backbend with the chest and legs lifted; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-boat",
+    "title": "Yoga Journal · Boat Pose",
+    "url": "https://www.yogajournal.com/poses/full-boat-pose-2/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Paripurna Navasana for Boat Pose and shows a seated V-shaped balance; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-happy-baby",
+    "title": "Yoga Journal · Happy Baby Pose",
+    "url": "https://www.yogajournal.com/poses/happy-baby-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Ananda Balasana for Happy Baby Pose and shows a reclining shape with knees bent wide and hands holding the feet; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-dolphin",
+    "title": "Yoga Journal · Dolphin Pose",
+    "url": "https://www.yogajournal.com/practice/beginners/how-to/dolphin-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Names Ardha Pincha Mayurasana as another name for Dolphin Pose and shows a forearm-supported inverted-V shape; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-pigeon",
+    "title": "Yoga Journal · One-Legged King Pigeon Pose",
+    "url": "https://www.yogajournal.com/poses/one-legged-king-pigeon-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Uses Eka Pada Rajakapotasana for One-Legged King Pigeon Pose and shows the upright pigeon shape with one shin forward and the other leg extended back; no practice directions, benefits or health claims copied."
+  },
+  {
+    "id": "yj-crow",
+    "title": "Yoga Journal · Crow Pose or Crane Pose",
+    "url": "https://www.yogajournal.com/poses/crane-pose/",
+    "retrievedAt": "2026-10-09",
+    "supports": "Distinguishes Kakasana (Crow, bent arms with knees on the upper arms) from Bakasana (Crane, straighter arms) and notes the two are often practised as variations of each other; no practice directions, benefits or health claims copied."
+  }
+]

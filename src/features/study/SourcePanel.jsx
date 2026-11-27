@@ -1,0 +1,3 @@
+import {content,lang,t} from '../../i18n/index.js';
+import {ArrowUpRight} from '@phosphor-icons/react';
+export default function SourcePanel({sourceIds=[]}){return <details className="sources"><summary lang={lang}>{t('sources.summary')}</summary>{sourceIds.map(id=>{const s=content.sources.find(x=>x.id===id);return s&&<div key={id}>{s.url?<a lang="en" href={s.url} target="_blank" rel="noreferrer">{s.title} <ArrowUpRight size={14}/></a>:<span lang="en">{s.title}</span>}<p><span lang="en">{s.supports}</span> <small lang={lang}>{t('sources.accessed',{date:s.retrievedAt})}</small></p></div>})}<p lang={lang}>{t('sources.note')}</p></details>}

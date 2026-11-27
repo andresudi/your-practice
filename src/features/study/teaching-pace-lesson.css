@@ -1,0 +1,12 @@
+.teaching-pace-stage{display:grid;grid-template-columns:minmax(0,1.18fr) minmax(0,.82fr);gap:30px;align-items:center;min-height:455px;padding:24px 38px;border:1px solid #dfd2bf;border-radius:28px;background:#f0e9dc}
+.teaching-pace-stage.focus-pace{background:#e7eee5;border-color:#d1ddcc}
+.teaching-pace-stage.focus-individual{background:#eee9f2;border-color:#dcd2e1}
+.teaching-pace-picture{text-align:center;min-width:0}
+.teaching-pace-art{display:block;width:100%;max-width:520px;height:365px;margin:auto}
+.teaching-pace-art text{font:600 12px var(--sans);letter-spacing:.15em;fill:#4b624f}
+.teaching-pace-copy h2{font:clamp(30px,3.5vw,43px)/1.2 var(--serif);margin:16px 0 18px;max-width:350px}
+.teaching-pace-copy>p:not(.eyebrow){font-size:16px;line-height:1.75;max-width:350px}
+.teaching-pace-copy .micro{display:block;line-height:1.6;margin-top:26px}
+.teaching-pace-lesson .style-play{margin-top:0}
+@media(max-width:700px){.teaching-pace-stage{grid-template-columns:1fr;gap:8px;min-height:0;padding:14px 18px 25px}.teaching-pace-art{height:270px}.teaching-pace-copy{padding:0 5px}.teaching-pace-copy h2{font-size:31px;margin:8px 0}.teaching-pace-copy>p:not(.eyebrow){font-size:14px;line-height:1.65}.teaching-pace-copy .micro{margin-top:12px}.teaching-pace-lesson .learning-heading h1{font-size:36px}}
+@media(prefers-reduced-motion:reduce){.teaching-pace-art path,.teaching-pace-art circle{transition:none!important}}

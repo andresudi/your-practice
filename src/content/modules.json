@@ -1,0 +1,37 @@
+[
+  {
+    "id": "M1",
+    "slug": "practice",
+    "title": "Practice foundations",
+    "summary": "Build a vocabulary for your time on the mat.",
+    "icon": "FlowerLotus"
+  },
+  {
+    "id": "M2",
+    "slug": "anatomy",
+    "title": "Anatomy & physiology",
+    "summary": "Make connections between the body and movement.",
+    "icon": "PersonSimple"
+  },
+  {
+    "id": "M3",
+    "slug": "teaching",
+    "title": "The art of teaching",
+    "summary": "Find your words, notice your students, make room to learn.",
+    "icon": "ChatsCircle"
+  },
+  {
+    "id": "M4",
+    "slug": "philosophy",
+    "title": "Philosophy & ethics",
+    "summary": "Bring reflection into your practice and relationships.",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "M5",
+    "slug": "practicum",
+    "title": "Teaching practice & revision",
+    "summary": "Rehearse, listen to feedback, and take one next step.",
+    "icon": "Plant"
+  }
+]

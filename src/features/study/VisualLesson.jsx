@@ -1,0 +1,21 @@
+import PhysiologyLab from '../body/PhysiologyVisual.jsx';
+import {useState} from 'react';
+import {ArrowLeft,ArrowRight,BookmarkSimple,Check} from '@phosphor-icons/react';
+import {Link} from '../../app/Link.jsx';
+import {content,lang,t} from '../../i18n/index.js';
+import {getLessonCollection} from '../../domain/study-path.js';
+import SourcePanel from './SourcePanel.jsx';
+import {MovementLab,NervousLab,DirectionLab} from '../body/AnatomyVisual.jsx';
+import '../body/body-learning.css';
+import './blend-system.css';
+export default function VisualLesson({lesson:l,state,update}){
+ const [step,setStep]=useState(0),status=state.lessonStatuses[l.id]||'not-started';
+ const isPose=l.id==='pose-observation';
+ const collection=getLessonCollection(l,content.modules);
+ const visual=l.id==='breathing-basics'?<PhysiologyLab kind="breathing"/>:l.id==='muscle-roles'?<PhysiologyLab kind="muscles"/>:l.id==='body-language'?<DirectionLab/>:l.id==='movement-words'?<MovementLab key={step} initialJoint={step===1?'shoulder':'knee'} chooseJoint/>:l.id==='nervous-basics'?<NervousLab/>:<Link href="/poses/warrior-ii" className="lesson-pose-art"><img src="/assets/warrior-ii.webp" alt="Warrior II sample illustration"/><span className="button">Open the 3D pose studio <ArrowRight/></span></Link>;
+ const headings={'breathing-basics':['Space','Pressure','Recoil'],'muscle-roles':['Attach','Name','Compare'],'body-language':['Orient','Compare','Connect'],'movement-words':['Bend','Reach','Observe'],'nervous-basics':['Structure','Function','Reflect'],'pose-observation':['Observe','Name','Ask']};
+ return <div className="body-learning-page visual-lesson blend-lesson"><Link className="back" href={collection.href} lang={lang}><ArrowLeft/>{collection.label}</Link><div className="learning-heading"><div><p className="eyebrow" lang={lang}>{t('lesson.visualEyebrow')}</p><h1>{l.id==='body-language'?'Read the body.':l.id==='movement-words'?'Give movement a name.':l.id==='nervous-basics'?'Meet your nervous system.':l.id==='breathing-basics'?'How breathing moves.':l.id==='muscle-roles'?'Muscles work together.':'Look a little closer.'}</h1></div><span className="pill" lang={lang}>{t(l.publication==='published'?'lesson.introPill':'lesson.samplePill')}</span></div>{visual}
+ <section className="lesson-bites"><div className="lesson-steps" aria-label="Lesson sections">{l.sections.map((s,i)=><button key={s.heading} aria-pressed={step===i} onClick={()=>setStep(i)}><span>0{i+1}</span>{headings[l.id]?.[i]||s.heading}</button>)}</div><div className="lesson-bite" aria-live="polite"><div><p className="eyebrow" lang={lang}>{t('lesson.stepOf',{n:step+1,total:l.sections.length})}</p><h2>{l.sections[step].heading}</h2></div><p>{l.sections[step].text}</p><button className="round-next" aria-label={step===l.sections.length-1?'Back to first section':'Next lesson section'} onClick={()=>setStep((step+1)%l.sections.length)}><ArrowRight size={22}/></button></div></section>
+ <div className="visual-lesson-actions"><Link className="button" href={`/review?lesson=${l.id}`} lang={lang}>{t('lesson.tryRecall')} <ArrowRight/></Link><div className="visual-study-status"><label htmlFor="visual-review-status" lang={lang}>{t('lesson.status')}</label><select lang={lang} id="visual-review-status" value={status} onChange={e=>update({...state,lastLessonId:l.id,lessonStatuses:{...state.lessonStatuses,[l.id]:e.target.value}})}><option value="not-started">{t('lesson.status.notStarted')}</option><option value="reviewed">{t('lesson.status.reviewed')}</option><option value="revisit">{t('lesson.status.revisit')}</option></select></div></div>
+ {state.notes.some(n=>n.type==='reflection'&&n.contentRef===l.id)&&<details className="learning-details"><summary lang={lang}>{t('lesson.previousReflections')}</summary>{state.notes.filter(n=>n.type==='reflection'&&n.contentRef===l.id).map(n=><p className="saved-reflection" key={n.id}>{n.text}</p>)}</details>}<details className="learning-details"><summary lang={lang}>{t('lesson.sourcesContext')}</summary><p>{l.goal}</p><p>{l.reflection}</p><p>{isPose?'The illustration supports observation; your teacher’s reviewed demonstrations guide physical practice.':'Personal review status is a study bookmark, not a course grade.'}</p><SourcePanel sourceIds={l.sourceIds}/></details></div>;
+}

@@ -1,0 +1,533 @@
+[
+  {
+    "id": "warrior-ii",
+    "path": "/assets/warrior-ii.png",
+    "source": "OpenAI built-in image generation, 2026-09-30",
+    "rights": "Generated for this project from selected design reference.",
+    "intendedUse": "Decorative sample pose observation; not validated practical instruction.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "prompt": "Full-body purple-haired woman in Warrior II, clay crop tank, sage leggings, lavender circle and sage foliage on ivory background. No labels or UI. Reference: design/quiet-studio-selected.png.",
+    "deliveredAs": "/assets/warrior-ii.webp (1024 px wide WebP, quality 80, derived 2026-10-09 for mobile load time; PNG kept as source)"
+  },
+  {
+    "id": "warrior-ii-playful-home",
+    "path": "/assets/warrior-ii-playful.png",
+    "source": "OpenAI built-in image generation, 2026-10-06; style reinterpretation of the project's generated warrior-ii asset.",
+    "rights": "Generated for this project; original visual direction, not a reproduction of Headspace artwork.",
+    "intendedUse": "Decorative Home hero in the warmer two-screen visual trial; not validated yoga instruction.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "prompt": "Friendly original 2D cut-paper illustration of the existing Warrior II character, broad flat colors, warm apricot circle and foliage, clay top, sage leggings, full grounded pose. No text, branding or copied wellness characters.",
+    "deliveredAs": "/assets/warrior-ii-playful.webp (1024 px wide WebP, quality 80, derived 2026-10-09 for mobile load time; PNG kept as source)"
+  },
+  {
+    "id": "os-regions",
+    "url": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/83c2b51d5892328f3e0352519cfc434c867247e8",
+    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "rights": "OpenStax Anatomy and Physiology 2e, Figure 1.12, CC BY 4.0, unmodified remote image.",
+    "intendedUse": "Authoritative body-region diagram.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex source comparison",
+      "date": "2026-09-30"
+    }
+  },
+  {
+    "id": "os-nervous",
+    "url": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/37beec4ad5ed1d7d66aa510af01f5abf5d0070c8",
+    "source": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
+    "rights": "OpenStax Anatomy and Physiology 2e, Figure 12.2, CC BY 4.0, unmodified remote image.",
+    "intendedUse": "CNS/PNS reference diagram.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex source comparison",
+      "date": "2026-09-30"
+    }
+  },
+  {
+    "id": "warrior-ii-motion-concept",
+    "path": "src/features/body/PoseScene.jsx",
+    "source": "Procedural Three.js illustration authored for this project, 2026-09-30",
+    "rights": "Project-authored geometry and animation; Three.js dependency retains its package license.",
+    "intendedUse": "Interactive design prototype with three pose stages and body-region exploration; educator review required before practical instruction.",
+    "review": {
+      "status": "unreviewed"
+    }
+  },
+  {
+    "id": "anatomy-schematics",
+    "path": "src/features/body/AnatomyVisual.jsx",
+    "source": "Project-authored SVG schematics, informed by OpenStax Anatomy and Physiology 2e sections 1.6, 9.5, 12.1",
+    "rights": "Original illustrative diagrams, not reproductions of textbook figures.",
+    "intendedUse": "Vocabulary and system-organisation study; not precise anatomy, neural pathways, or physical movement targets.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex source comparison",
+      "date": "2026-09-30"
+    }
+  },
+  {
+    "id": "study-subject-art",
+    "path": "src/features/study/StudyArt.jsx",
+    "source": "Original project-authored SVG illustrations, 2026-10-01",
+    "rights": "Original symbolic artwork authored for this project.",
+    "intendedUse": "Decorative subject illustrations; no anatomical or practical instruction claim.",
+    "review": {
+      "status": "visual-inspected",
+      "reviewer": "Codex browser inspection",
+      "date": "2026-10-01"
+    }
+  },
+  {
+    "id": "mountain-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original SVG pose recognition illustration, authored 2026-10-01",
+    "rights": "Project-authored geometry; not copied from referenced photography.",
+    "intendedUse": "Pose recognition with a small illustrative movement and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "chair-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original SVG pose recognition illustration, authored 2026-10-01",
+    "rights": "Project-authored geometry; not copied from referenced photography.",
+    "intendedUse": "Pose recognition with a small illustrative movement and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "tree-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original SVG pose recognition illustration, authored 2026-10-01",
+    "rights": "Project-authored geometry; not copied from referenced photography.",
+    "intendedUse": "Pose recognition with a small illustrative movement and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "downward-dog-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original SVG pose recognition illustration, authored 2026-10-01",
+    "rights": "Project-authored geometry; not copied from referenced photography.",
+    "intendedUse": "Pose recognition with a small illustrative movement and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "physiology-schematics",
+    "path": "src/features/body/PhysiologyVisual.jsx",
+    "source": "Project-authored SVG with facts checked against OpenStax 22.3 and 11.1",
+    "rights": "Original simplified geometry, not reproductions of textbook diagrams.",
+    "intendedUse": "Quiet breathing mechanism and muscle-role vocabulary; not physical exercise targets.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex source comparison",
+      "date": "2026-10-01"
+    }
+  },
+  {
+    "id": "yoga-style-rhythms",
+    "path": "src/features/study/YogaStylesLesson.jsx",
+    "source": "Original SVG memory aids authored for this project, 2026-10-02",
+    "rights": "Original project artwork; no external images copied.",
+    "intendedUse": "Abstract class-format comparison. Symbols are not pose sequences, physiological models or practice timers. Seated StudyArt illustration is decorative.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-02"
+    }
+  },
+  {
+    "id": "connective-relationships",
+    "path": "src/features/body/ConnectiveArt.jsx",
+    "source": "Original SVG relationship diagrams authored for this project, 2026-10-02",
+    "rights": "Original project artwork; not a reproduction of textbook figures.",
+    "intendedUse": "Tendon and ligament attachment relationships and articular cartilage vocabulary. Highlight traces tissue without deforming it; not a complete anatomical section or stretching model.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with OpenStax 4.3 and 9.4; not educator review",
+      "date": "2026-10-02"
+    }
+  },
+  {
+    "id": "skeletal-divisions",
+    "path": "src/features/body/SkeletonArt.jsx",
+    "source": "Original SVG regional map authored for this project, 2026-10-02",
+    "rights": "Original project artwork, not a reproduction of a textbook figure.",
+    "intendedUse": "See-through map of major axial/appendicular groups. Shoulder girdles and hip bones are appendicular; sacrum/coccyx remain axial. Small bones, counts and proportions are simplified. Highlight opacity changes, geometry does not.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with OpenStax 7.1, 8.1 and 8.3; not educator review",
+      "date": "2026-10-02"
+    }
+  },
+  {
+    "id": "circulation-loops",
+    "path": "src/features/study/CirculationLesson.jsx",
+    "source": "Original SVG route diagram authored for this project, 2026-10-07",
+    "rights": "Original project artwork, not a reproduction of the textbook figure.",
+    "intendedUse": "Two simplified routes: right heart to lungs and left heart to body, with returning flow. Animation traces the selected circuit; its speed is not physiological timing. Chambers, valves, vessels and proportions are omitted.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with OpenStax 20.1; not educator review",
+      "date": "2026-10-07"
+    }
+  },
+  {
+    "id": "teaching-people-and-pace",
+    "path": "src/features/study/TeachingPaceLesson.jsx",
+    "source": "Original abstract SVG illustration authored for this project, 2026-10-07; individual-needs view added 2026-10-08",
+    "rights": "Project-authored geometry; no source artwork copied.",
+    "intendedUse": "People, pace and individual-needs memory aid. Moving paths and circles suggest attention, time and distinct learners; they are not a class sequence, recommended duration, student assessment, visual diagnosis or practical teaching demonstration.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with Yoga Alliance RYS 200 Professional Essentials, Code of Conduct and the public course outline; not educator review",
+      "date": "2026-10-08"
+    }
+  },
+  {
+    "id": "restorative-variation-teaching-concepts",
+    "path": "src/features/study/ConceptPairLesson.jsx",
+    "source": "Original abstract SVG memory aids authored for this project, 2026-10-08",
+    "rights": "Project-authored geometry; no external artwork copied.",
+    "intendedUse": "Supported rest, joint variation and professional teaching growth concepts. The drawings are not pose setups, anatomical measurements, movement targets, teaching demonstrations or practice instructions.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with Yoga Journal, OpenStax and Yoga Alliance; not educator review",
+      "date": "2026-10-08"
+    }
+  },
+  {
+    "id": "hatha-text-window",
+    "path": "src/features/study/ConceptPairLesson.jsx",
+    "source": "Original abstract book, ladder and first-step SVG authored for this project, 2026-10-08",
+    "rights": "Project-authored geometry; no manuscript or source illustration copied.",
+    "intendedUse": "Memory aid for one translation of Haṭha Pradīpikā chapter 1 verses 1 and 17. Not a pose, sequence, historical reconstruction or full interpretation of the text.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex comparison with Centre for Yoga Studies translation; not educator or tradition review",
+      "date": "2026-10-08"
+    }
+  },
+  {
+    "id": "easy-pose-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "savasana-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "warrior-i-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "triangle-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "low-lunge-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "cobra-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "childs-pose-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "standing-forward-bend-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "extended-side-angle-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "warrior-iii-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "eagle-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "plank-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "upward-facing-dog-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "cat-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "cow-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "bound-angle-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "seated-forward-bend-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "bridge-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "supine-twist-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-08",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "yoga-fieldbook-mark",
+    "path": "/brand-mark.svg",
+    "source": "Original project-authored SVG brand mark, 2026-10-09",
+    "rights": "Original vector geometry created for this project.",
+    "intendedUse": "Yoga Fieldbook header wordmark and favicon.",
+    "review": {
+      "status": "source-inspected",
+      "reviewer": "Codex visual QA",
+      "date": "2026-10-09"
+    }
+  },
+  {
+    "id": "camel-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "fish-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "locust-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "boat-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "happy-baby-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "dolphin-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "pigeon-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  },
+  {
+    "id": "crow-study",
+    "path": "src/features/body/PoseArt.jsx",
+    "source": "Original project-authored SVG pose recognition illustration, 2026-10-09",
+    "rights": "Project-authored geometry; not copied from referenced photographs.",
+    "intendedUse": "Pose recognition with small illustrative motion and body-region observations; not a reviewed physical entry/exit sequence.",
+    "review": {
+      "status": "unreviewed"
+    },
+    "motionPath": "src/features/body/pose-sketch-motion.js"
+  }
+]

@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {moveStep,getPlannedSeconds,getElapsedSeconds} from '../src/domain/sequence.js';
+const steps=[{id:'a',poseId:'same',cue:'first side',seconds:30},{id:'b',poseId:'same',cue:'second side',seconds:45}];
+test('moving duplicate poses keeps cues attached to independent step IDs',()=>{const moved=moveStep(steps,'b','up');assert.deepEqual(moved.map(s=>[s.id,s.cue]),[['b','second side'],['a','first side']]);assert.equal(steps[0].id,'a');});
+test('boundary and missing step moves do not lose steps',()=>{assert.deepEqual(moveStep(steps,'a','up'),steps);assert.deepEqual(moveStep(steps,'b','down'),steps);assert.deepEqual(moveStep(steps,'missing','up'),steps);assert.throws(()=>moveStep(steps,'a','left'));});
+test('planned durations reject negative, nonnumeric and unbounded input',()=>{assert.equal(getPlannedSeconds(steps),75);assert.equal(getPlannedSeconds([]),0);for(const seconds of [-1,NaN,Infinity,'30',86401])assert.throws(()=>getPlannedSeconds([{seconds}]));});
+test('timer derives elapsed duration from clock time including background gaps',()=>{assert.equal(getElapsedSeconds(5,1000,61500),65);assert.equal(getElapsedSeconds(5,null,999999),5);});

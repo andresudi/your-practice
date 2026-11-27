@@ -1,0 +1,12 @@
+.circulation-stage{display:grid;grid-template-columns:minmax(0,1.2fr) minmax(0,.8fr);gap:28px;align-items:center;min-height:470px;padding:24px 36px;border:1px solid #d9cfbf;border-radius:28px;background:#eee9dd}
+.circulation-stage.circuit-systemic{background:#e7eee5;border-color:#cfdccb}
+.circulation-picture{text-align:center;min-width:0}
+.circulation-art{display:block;width:100%;max-width:510px;height:385px;margin:auto}
+.circulation-art text{font:600 12px var(--sans);letter-spacing:.12em;fill:#43594b}
+.circulation-art .circulation-side{font-size:12px;letter-spacing:.05em;fill:#45574a}
+.circulation-copy h2{font:clamp(29px,3.5vw,43px)/1.2 var(--serif);margin:16px 0 18px;max-width:350px}
+.circulation-copy>p:not(.eyebrow){font-size:16px;line-height:1.75;max-width:350px}
+.circulation-copy .micro{display:block;line-height:1.6;margin-top:28px}
+.circulation-lesson .style-play{margin-top:0}
+@media(max-width:700px){.circulation-stage{grid-template-columns:1fr;gap:10px;min-height:0;padding:14px 18px 26px}.circulation-art{height:285px}.circulation-art .circulation-side{font-size:17px}.circulation-copy{padding:0 5px}.circulation-copy h2{font-size:31px;margin:8px 0}.circulation-copy>p:not(.eyebrow){font-size:14px;line-height:1.65;margin:0}.circulation-copy .micro{margin-top:12px}.circulation-lesson .learning-heading h1{font-size:36px}}
+@media(prefers-reduced-motion:reduce){.circulation-art path{transition:none!important}}

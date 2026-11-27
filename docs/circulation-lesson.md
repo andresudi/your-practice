@@ -1,0 +1,9 @@
+# Follow the circulation — content and visual record
+
+Added 2026-10-07 as an introductory Anatomy & physiology lesson. It maps only to `M2-T14`, the circulatory-system topic derived from Joga Yoga's public anatomy article. Joga Yoga's 200-hour outline names anatomy and physiology; its anatomy article explicitly mentions the circulatory system. Neither source supplies this cohort's exact manual, lesson order or assessment.
+
+[OpenStax Anatomy and Physiology 2e, section 20.1](https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels) supports the two circuits and the artery/vein direction distinction. The pulmonary circuit carries blood from the right heart to the lungs and back to the left heart; the systemic circuit carries blood from the left heart to body tissues and back to the right heart. Oxygen level does not define an artery or a vein. The short lesson and three scored questions stay within those facts and make no yoga benefit, contraindication or treatment claim.
+
+The original SVG shows two loops and traces one at a time. It is a memory aid: it omits heart chambers, valves, individual vessels, blood oxygen colors and physiological timing. The right/left labels refer to the person's heart, not a viewer's body. A qualified educator has not reviewed the art or explanation.
+
+The content route, mapping, three question answers and integrity checks have a focused automated test in `tests/circulation-lesson.test.js`. Initial browser inspection covered Anatomy collection → lesson, the two circuit controls, source/progress disclosure, lesson → recall → answer feedback → lesson, and desktop appearance. A later phone and progress QA pass checked 390 px and 320 px layouts, completed and saved the recall attempt on an isolated origin, exported and restored it, measured selected text contrast, and emulated reduced motion. A real screen-reader or qualified educator review remains open.

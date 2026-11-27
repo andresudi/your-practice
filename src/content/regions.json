@@ -1,0 +1,133 @@
+[
+  {
+    "id": "shoulder",
+    "slug": "shoulder",
+    "title": "Shoulder",
+    "kind": "region",
+    "description": "A familiar starting point for the upper limb.",
+    "heading": "Locate it. Then name it.",
+    "detail": "Use abduction and adduction to describe movement away from and toward the body’s midline. The schematic introduces vocabulary, not a prescribed range of movement.",
+    "prompt": "Which is closer to the shoulder: elbow or wrist?",
+    "answer": "The elbow is proximal to the wrist: closer to the limb’s attachment.",
+    "image": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/83c2b51d5892328f3e0352519cfc434c867247e8",
+    "imageAlt": "OpenStax anatomical position diagram with front and back views and labelled body regions.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "sourceIds": [
+      "os-terms",
+      "os-movement"
+    ],
+    "lessonSlug": "describe-a-movement",
+    "lessonId": "movement-words",
+    "overview": "The shoulder lets the arm move in several directions relative to the trunk. Moving the arm sideways away from the body's midline is abduction; bringing it back is adduction. The animation pairs those names with the arm's changing path."
+  },
+  {
+    "id": "hip",
+    "slug": "hip",
+    "title": "Hip",
+    "kind": "region",
+    "description": "Notice where the trunk meets the lower limb.",
+    "heading": "Locate it. Then name it.",
+    "detail": "Use abduction and adduction to describe movement away from and toward the body’s midline. The schematic introduces vocabulary, not a prescribed range of movement.",
+    "prompt": "What does “medial” mean?",
+    "answer": "Toward the body’s midline.",
+    "image": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/83c2b51d5892328f3e0352519cfc434c867247e8",
+    "imageAlt": "OpenStax anatomical position diagram with front and back views and labelled body regions.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "sourceIds": [
+      "os-terms",
+      "os-movement"
+    ],
+    "lessonSlug": "describe-a-movement",
+    "lessonId": "movement-words",
+    "overview": "The hip is where the lower limb meets the pelvis. Moving a leg sideways away from the body's midline is abduction, while bringing it back is adduction. Watch how the leg's path changes while the trunk stays as a visual reference."
+  },
+  {
+    "id": "knee",
+    "slug": "knee",
+    "title": "Knee",
+    "kind": "region",
+    "description": "Connect a visible bend with movement vocabulary.",
+    "heading": "Locate it. Then name it.",
+    "detail": "Compare a bent knee and a straightened knee in the pose illustration.",
+    "prompt": "What is the movement term for bending the knee?",
+    "answer": "Flexion. At the knee, it reduces the angle between the bones.",
+    "image": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/83c2b51d5892328f3e0352519cfc434c867247e8",
+    "imageAlt": "OpenStax anatomical position diagram with front and back views and labelled body regions.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-6-anatomical-terminology",
+    "sourceIds": [
+      "os-terms",
+      "os-movement"
+    ],
+    "lessonSlug": "describe-a-movement",
+    "lessonId": "movement-words",
+    "overview": "The knee changes the angle between the thigh and lower leg. Bending it is flexion; straightening it is extension. The animation makes that angle change visible, so you can connect the movement you see with its anatomical name."
+  },
+  {
+    "id": "nervous",
+    "slug": "nervous-system",
+    "title": "The nervous system",
+    "kind": "system",
+    "description": "Begin with the central and peripheral divisions.",
+    "heading": "Two divisions, one connected system.",
+    "detail": "CNS and PNS describe anatomical organisation. Sensation, integration and response describe functions. Keep those two kinds of description distinct.",
+    "prompt": "Which structures make up the CNS?",
+    "answer": "The brain and spinal cord.",
+    "image": "https://openstax.org/apps/image-cdn/v1/f%3Dwebp/apps/archive/20260604.144757/resources/37beec4ad5ed1d7d66aa510af01f5abf5d0070c8",
+    "imageAlt": "OpenStax diagram distinguishes the brain and spinal cord of the central nervous system from peripheral nerves and ganglia.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system",
+    "sourceIds": [
+      "os-nerves"
+    ],
+    "lessonSlug": "meet-your-nervous-system",
+    "lessonId": "nervous-basics",
+    "overview": "The nervous system can be viewed as a central part—the brain and spinal cord—and peripheral connections throughout the body. Switch between those two structural divisions on the map. Signal story then shows a simplified sequence from sensation to processing and response."
+  },
+  {
+    "id": "tradition",
+    "slug": "yoga-traditions",
+    "title": "Energy concepts",
+    "kind": "tradition",
+    "description": "A separate collection for the traditional frameworks discussed in class.",
+    "heading": "Let the tradition give it context.",
+    "detail": "Chakras and nadis belong to traditional frameworks. Record your teacher’s text and interpretation alongside the terms. Keep these notes distinct from the biomedical body map.",
+    "prompt": "What source would you record with a traditional diagram?",
+    "answer": "Name the text or tradition, and the interpretation used by your teacher. There is no single answer to score here.",
+    "sourceIds": [
+      "training-outline"
+    ],
+    "lessonSlug": "energy-in-yoga-traditions",
+    "lessonId": "energy-context"
+  },
+  {
+    "id": "breathing",
+    "slug": "breathing",
+    "title": "Breathing",
+    "kind": "system",
+    "description": "How breathing moves",
+    "heading": "How breathing moves",
+    "detail": "A simplified mechanism and vocabulary study; not a physical practice protocol.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing",
+    "sourceIds": [
+      "os-breath"
+    ],
+    "lessonId": "breathing-basics",
+    "lessonSlug": "how-breathing-moves",
+    "overview": "Breathing changes the volume and pressure within the chest. During quiet inspiration, the diaphragm contracts and descends as air enters; during quiet expiration, it relaxes as the lungs recoil. Compare the two phases in the animation without using its timing as a breathing pace."
+  },
+  {
+    "id": "muscles",
+    "slug": "muscles",
+    "title": "Muscle roles",
+    "kind": "system",
+    "description": "Muscles work together",
+    "heading": "Muscles work together",
+    "detail": "A simplified mechanism and vocabulary study; not a physical practice protocol.",
+    "sourceUrl": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems",
+    "sourceIds": [
+      "os-muscles"
+    ],
+    "lessonId": "muscle-roles",
+    "lessonSlug": "muscles-work-together",
+    "overview": "Muscles can play different roles depending on the action being described. In this elbow example, the highlighted biceps and triceps exchange the leading and opposing roles as the arm bends or straightens. Switch actions to see why agonist and antagonist are roles, not permanent labels."
+  }
+]

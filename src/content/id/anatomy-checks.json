@@ -1,0 +1,56 @@
+{
+  "breathing": {
+    "prompt": "Saat menarik napas tenang, diafragma…",
+    "options": [
+      "Berkontraksi dan turun",
+      "Mengendur dan naik"
+    ],
+    "correct": "Berkontraksi dan turun",
+    "why": "Ini membantu memperbesar rongga dada."
+  },
+  "muscles": {
+    "prompt": "Otot dengan aksi yang berlawanan disebut…",
+    "options": [
+      "Antagonis (antagonist)",
+      "Agonis (agonist)"
+    ],
+    "correct": "Antagonis (antagonist)",
+    "why": "Perannya tergantung aksi mana yang sedang kamu jelaskan."
+  },
+  "shoulder": {
+    "prompt": "Lengan bergerak ke samping. Apa nama gerakan itu?",
+    "options": [
+      "Abduksi (abduction)",
+      "Aduksi (adduction)"
+    ],
+    "correct": "Abduksi (abduction)",
+    "why": "Abduksi menggerakkan anggota gerak menjauhi garis tengah tubuh."
+  },
+  "hip": {
+    "prompt": "Kaki bergerak kembali ke arah garis tengah. Apa nama gerakan itu?",
+    "options": [
+      "Abduksi (abduction)",
+      "Aduksi (adduction)"
+    ],
+    "correct": "Aduksi (adduction)",
+    "why": "Aduksi membawa anggota gerak mendekati garis tengah tubuh."
+  },
+  "knee": {
+    "prompt": "Menekuk lutut disebut…",
+    "options": [
+      "Fleksi (flexion)",
+      "Ekstensi (extension)"
+    ],
+    "correct": "Fleksi (flexion)",
+    "why": "Fleksi memperkecil sudut antartulang di lutut."
+  },
+  "nervous": {
+    "prompt": "Pasangan mana yang termasuk CNS (sistem saraf pusat)?",
+    "options": [
+      "Otak + sumsum tulang belakang",
+      "Saraf tepi + ganglion"
+    ],
+    "correct": "Otak + sumsum tulang belakang",
+    "why": "Otak dan sumsum tulang belakang membentuk sistem saraf pusat."
+  }
+}

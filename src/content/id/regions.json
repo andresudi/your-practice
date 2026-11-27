@@ -1,0 +1,71 @@
+{
+  "shoulder": {
+    "title": "Bahu",
+    "description": "Titik awal yang akrab untuk mengenal lengan.",
+    "heading": "Temukan dulu, lalu beri nama.",
+    "overview": "Bahu memungkinkan lengan bergerak ke beberapa arah terhadap batang tubuh. Menggerakkan lengan ke samping menjauhi garis tengah tubuh disebut abduksi (abduction); membawanya kembali disebut aduksi (adduction). Animasinya memasangkan nama-nama itu dengan jalur gerak lengan.",
+    "detail": "Pakai abduksi (abduction) dan aduksi (adduction) untuk menjelaskan gerak menjauhi dan mendekati garis tengah tubuh. Skema ini mengenalkan kosakata, bukan rentang gerak yang harus dicapai.",
+    "prompt": "Mana yang lebih dekat ke bahu: siku atau pergelangan tangan?",
+    "answer": "Siku lebih proksimal (proximal) daripada pergelangan tangan: lebih dekat ke tempat lengan menempel.",
+    "imageAlt": "Diagram posisi anatomi dari OpenStax, tampak depan dan belakang, dengan label bagian-bagian tubuh.",
+    "searchTerms": "shoulder bahu lengan sendi"
+  },
+  "hip": {
+    "title": "Pinggul",
+    "description": "Perhatikan tempat batang tubuh bertemu tungkai bawah.",
+    "heading": "Temukan dulu, lalu beri nama.",
+    "overview": "Pinggul adalah tempat tungkai bawah bertemu panggul (pelvis). Menggerakkan kaki ke samping menjauhi garis tengah tubuh disebut abduksi (abduction), sedangkan membawanya kembali disebut aduksi (adduction). Lihat bagaimana jalur kaki berubah sementara batang tubuh tetap jadi patokan.",
+    "detail": "Pakai abduksi (abduction) dan aduksi (adduction) untuk menjelaskan gerak menjauhi dan mendekati garis tengah tubuh. Skema ini mengenalkan kosakata, bukan rentang gerak yang harus dicapai.",
+    "prompt": "Apa arti “medial”?",
+    "answer": "Ke arah garis tengah tubuh.",
+    "imageAlt": "Diagram posisi anatomi dari OpenStax, tampak depan dan belakang, dengan label bagian-bagian tubuh.",
+    "searchTerms": "hip pinggul panggul sendi"
+  },
+  "knee": {
+    "title": "Lutut",
+    "description": "Hubungkan tekukan yang terlihat dengan kosakata gerak.",
+    "heading": "Temukan dulu, lalu beri nama.",
+    "overview": "Lutut mengubah sudut antara paha dan tungkai bawah. Menekuknya disebut fleksi (flexion); meluruskannya disebut ekstensi (extension). Animasinya memperlihatkan perubahan sudut itu, jadi kamu bisa menghubungkan gerakan yang terlihat dengan nama anatominya.",
+    "detail": "Bandingkan lutut yang ditekuk dan yang diluruskan pada ilustrasi pose.",
+    "prompt": "Apa istilah gerak untuk menekuk lutut?",
+    "answer": "Fleksi (flexion). Di lutut, gerakan ini memperkecil sudut antartulang.",
+    "imageAlt": "Diagram posisi anatomi dari OpenStax, tampak depan dan belakang, dengan label bagian-bagian tubuh.",
+    "searchTerms": "knee lutut tekuk sendi"
+  },
+  "nervous": {
+    "title": "Sistem saraf",
+    "description": "Mulai dari bagian pusat dan bagian tepi.",
+    "heading": "Dua bagian, satu sistem yang terhubung.",
+    "overview": "Sistem saraf bisa dilihat sebagai bagian pusat (otak dan sumsum tulang belakang) dan sambungan tepi di seluruh tubuh. Ganti tampilan antara dua bagian struktural itu di peta. Lalu Alur sinyal menunjukkan urutan sederhana dari sensasi, pengolahan, sampai respons.",
+    "detail": "CNS dan PNS (sistem saraf pusat dan tepi) menjelaskan susunan anatomi. Sensasi, integrasi, dan respons menjelaskan fungsi. Pisahkan kedua jenis penjelasan itu.",
+    "prompt": "Struktur apa saja yang membentuk CNS (sistem saraf pusat)?",
+    "answer": "Otak dan sumsum tulang belakang.",
+    "imageAlt": "Diagram OpenStax yang membedakan otak dan sumsum tulang belakang (sistem saraf pusat) dari saraf tepi dan ganglion.",
+    "searchTerms": "nervous system sistem saraf otak sumsum tulang belakang"
+  },
+  "tradition": {
+    "title": "Konsep energi",
+    "description": "Koleksi terpisah untuk kerangka tradisional yang dibahas di kelas.",
+    "heading": "Biarkan tradisinya memberi konteks.",
+    "detail": "Chakra dan nadi berasal dari kerangka tradisional. Catat teks dan tafsiran dari gurumu bersama istilah-istilahnya. Pisahkan catatan ini dari peta tubuh biomedis.",
+    "prompt": "Sumber apa yang perlu kamu catat bersama diagram tradisional?",
+    "answer": "Sebutkan teks atau tradisinya, dan tafsiran yang dipakai gurumu. Tidak ada satu jawaban yang dinilai di sini.",
+    "searchTerms": "energy concepts konsep energi chakra nadi"
+  },
+  "breathing": {
+    "title": "Pernapasan",
+    "description": "Cara napas bergerak",
+    "heading": "Cara napas bergerak",
+    "overview": "Bernapas mengubah volume dan tekanan di dalam dada. Saat menarik napas tenang (inspirasi), diafragma berkontraksi dan turun ketika udara masuk; saat mengembuskan napas tenang (ekspirasi), diafragma mengendur ketika paru-paru kembali mengempis. Bandingkan kedua fase di animasi tanpa menjadikan temponya sebagai irama bernapas.",
+    "detail": "Studi mekanisme dan kosakata yang disederhanakan; bukan panduan praktik fisik.",
+    "searchTerms": "breathing pernapasan napas diafragma paru-paru"
+  },
+  "muscles": {
+    "title": "Peran otot",
+    "description": "Otot bekerja sama",
+    "heading": "Otot bekerja sama",
+    "overview": "Otot bisa memegang peran berbeda, tergantung gerakan yang dijelaskan. Pada contoh siku ini, biceps dan triceps yang disorot bertukar peran sebagai penggerak utama dan penentang saat lengan menekuk atau meluruskan. Ganti aksinya untuk melihat kenapa agonis (agonist) dan antagonis (antagonist) adalah peran, bukan label tetap.",
+    "detail": "Studi mekanisme dan kosakata yang disederhanakan; bukan panduan praktik fisik.",
+    "searchTerms": "muscle roles peran otot agonis antagonis"
+  }
+}

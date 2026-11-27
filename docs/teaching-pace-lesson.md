@@ -1,0 +1,15 @@
+# Read the room — content and illustration record
+
+Checked 2026-10-07. The public Joga Yoga 200-hour outline names group dynamics and time management within teaching methodology. [Yoga Alliance RYS 200 standards](https://yogaalliance.org/Standards-for-RYS-Credentials) place **pace** and **class management**, including group dynamics, in Professional Essentials. The standards are an interim comparison framework, not this cohort's lesson plan.
+
+`read-the-room` is a short conceptual introduction mapped to `M3-T02` and `M3-T03`. The two illustrations show an abstract group and an abstract time arc. They provide a memory aid for noticing people and time; no class duration, physical cue, safety decision, observation rubric or assessment method is prescribed. The lesson links to the existing personal rehearsal tool, which does not assess teaching quality.
+
+The original recall had two scored concept checks and one ungraded personal reflection. The source panel keeps the school's title as text without a school link; Yoga Alliance remains an external reference link. Artwork provenance is recorded in `content-review/asset-register.json`. A qualified educator has **not** reviewed this lesson or graphic, and the friend's actual syllabus and exam criteria remain unavailable.
+
+## Individual-needs extension — 2026-10-08
+
+The school's public outline also names addressing individual and special-population needs to the degree possible in a group setting. [Yoga Alliance RYS 200 standards](https://yogaalliance.org/Standards-for-RYS-Credentials) ask how a training creates a safe, accessible and welcoming environment; they do not prescribe this cohort's method. [Yoga Alliance's Code of Conduct](https://yogaalliance.org/policies-priorities-progress/code-of-conduct/) asks its members to actively include individuals. These support a narrow third visual view: notice difference and ask what helps participation, rather than assume from appearance.
+
+`read-the-room` now also links to `M3-T05`. Three separate rings represent distinct learners; they do **not** diagnose anyone or depict a prescribed accommodation. The added choice question checks an inclusion concept, and the personal reflection remains ungraded. The lesson now has three scored concepts and one reflection. It gives no condition-specific pose modification, population guidance, clinical advice or required school response. Those decisions need the friend's teacher and, where relevant, qualified professionals. The art and language still need qualified educator review.
+
+Verification: both updated content tests failed for the absent extension before implementation and passed afterward; the full 61-domain-test suite, four Sites tests, zero-issue content check and production build passed. The Individual state changed text, selected state and accessible diagram description in the live browser. The four-question recall opened. Desktop and 320 px views were inspected; the 320 px document width was 305 px. No user answer or saved progress was changed during the check.

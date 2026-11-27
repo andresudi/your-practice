@@ -1,0 +1,262 @@
+/* The approved visual blend, scoped to the main study journey. */
+.blend-study,.blend-module,.blend-collection,.blend-review{
+ --blend-forest:#2f5b43;
+ --blend-ink:#263e32;
+ --blend-cream:#fffaf0;
+ --blend-apricot:#f6d8b8;
+ --blend-sage:#e4ecd9;
+ color:var(--blend-ink);
+}
+.blend-study h1,.blend-module h1,.blend-collection h1,.blend-review h1,
+.blend-study h2,.blend-module h2,.blend-collection h2,.blend-review h2{
+ font-family:var(--sans);font-weight:650;letter-spacing:-.045em;line-height:1.13;
+}
+.blend-study .eyebrow,.blend-module .eyebrow,.blend-collection .eyebrow,.blend-review .eyebrow{color:#46654d}
+.blend-intro{max-width:520px;color:#536457;font-size:16px;line-height:1.55;margin-top:13px}
+.blend-study .button,.blend-module .button,.blend-review .button{border-radius:999px}
+
+/* Pick one of the five public-outline subject collections. */
+.blend-study .learning-heading{align-items:end;margin:8px 0 34px}
+.blend-study .learning-heading h1{font-size:clamp(45px,5.2vw,70px);margin:15px 0 0}
+.blend-loop{display:flex;align-items:center;gap:10px;background:#e9eddf;border-radius:999px;padding:10px 16px;color:#47634d;font-size:12px;font-weight:650;white-space:nowrap}
+.blend-loop span{padding:3px 6px}.blend-loop svg{width:14px;height:14px;opacity:.55}
+.blend-loop a{padding:3px 6px;border-radius:999px}.blend-loop a:hover{background:#dbe4d4}.blend-loop a:focus-visible{outline-offset:2px}
+.blend-study .study-map-grid{gap:18px;margin:0 0 25px}
+.blend-study .study-map-card{border:0;border-radius:26px;background:var(--blend-cream);box-shadow:0 7px 22px #263e320a;animation:blend-arrive .45s ease-out both}
+.blend-study .study-map-card:nth-child(2){animation-delay:.07s}.blend-study .study-map-card:nth-child(3){animation-delay:.12s}.blend-study .study-map-card:nth-child(4){animation-delay:.17s}.blend-study .study-map-card:nth-child(5){animation-delay:.22s}
+.blend-study .study-map-card:hover{transform:translateY(-5px);box-shadow:0 15px 30px #263e321a}
+.blend-study .map-art{height:190px;display:grid;place-items:center;padding:15px 8px 0;overflow:hidden}
+.blend-study .map-art .study-art{width:100%;height:100%;max-height:190px}
+.blend-study .map-number{left:20px;top:18px;font:650 13px var(--sans);color:#526d55;z-index:1}
+.blend-study .theme-M1 .map-art{background:#e5eddb}.blend-study .theme-M2 .map-art{background:#f8e4d0}.blend-study .theme-M3 .map-art{background:#eae4f0}.blend-study .theme-M4 .map-art{background:#f2e9dd}.blend-study .theme-M5 .map-art{background:#e5eadc}
+.blend-study .map-card-copy{min-height:195px;display:flex;flex-direction:column;align-items:flex-start;padding:22px 25px 25px;border:0;background:var(--blend-cream)}
+.blend-study .map-card-kicker{font-size:10px;font-weight:700;letter-spacing:.15em;color:#69796a}
+.blend-study .map-card-copy h2{font-size:clamp(22px,2.4vw,30px);min-height:0;max-width:none;margin:9px 0 0}
+.blend-study .map-card-copy p{font-size:12px;line-height:1.45;margin-top:8px;color:#5c645a}
+.blend-study .map-card-action{display:inline-flex;align-items:center;gap:14px;margin-top:auto;padding-top:17px;color:var(--blend-forest);font-size:13px;font-weight:700}
+.blend-study .map-card-action svg{width:18px;height:18px}
+.blend-study .map-reviewed{font-size:11px;margin-top:6px;color:#59695c}
+.blend-study .map-featured{grid-column:span 2;display:grid;grid-template-columns:44% 56%;min-height:385px;background:#f7dfc2}
+.blend-study .map-featured .map-art{grid-column:2;grid-row:1;height:100%;min-height:385px;background:#f8e4d0}
+.blend-study .map-featured .map-art .study-art{max-height:320px}
+.blend-study .map-featured .map-card-copy{grid-column:1;grid-row:1;min-height:0;background:#f7dfc2;padding:42px 35px}
+.blend-study .map-featured .map-card-copy h2{font-size:clamp(31px,3vw,42px);margin:20px 0 0}
+.blend-study .map-featured .map-card-copy p{font-size:13px;margin-top:16px}
+.blend-study .map-featured .map-card-action{background:var(--blend-forest);color:white;border-radius:999px;padding:13px 20px;margin-top:30px}
+.blend-study .study-map-rehearse{border:0;border-radius:26px;background:#dce9d8;padding:34px;box-shadow:0 7px 22px #263e3208}
+.blend-study .study-map-rehearse h2{font-size:clamp(28px,2.9vw,37px);line-height:1.17;margin:23px 0 27px}
+.blend-study .study-map-rehearse h2 em{font-style:normal;color:#a0554d}
+.blend-study .study-map-rehearse .button{background:var(--blend-forest);border-color:var(--blend-forest);color:white;font-weight:650}
+
+/* A collection keeps the next lesson obvious, with the checklist behind disclosure. */
+.blend-module .module-visual-heading{border-radius:30px;min-height:340px;grid-template-columns:52% 48%;gap:0;overflow:hidden;padding:24px 22px 24px 46px}
+.blend-module .module-visual-heading>div{position:relative;z-index:1}
+.blend-module .module-visual-heading h1{font-size:clamp(40px,4.5vw,59px);margin:18px 0 13px}
+.blend-module .module-visual-heading>div>p:last-of-type{font-size:15px;line-height:1.6;color:#425748}
+.blend-module .module-visual-heading .study-art{max-height:315px}
+.blend-module .module-start{margin-top:26px;background:var(--blend-forest);border-color:var(--blend-forest);font-weight:650}
+.blend-section-heading{display:flex;align-items:end;justify-content:space-between;gap:18px;margin:40px 0 16px}
+.blend-section-heading h2{font-size:31px;margin-top:8px}.blend-section-heading>span{font-size:12px;color:#617366}
+.blend-module .visual-lesson-list{border:0;display:grid;gap:11px}
+.blend-module .visual-lesson-row{border:0;border-radius:19px;padding:20px 23px;gap:20px;background:#fffaf1;box-shadow:0 3px 15px #263e3207;transition:transform .2s,background .2s}
+.blend-module .visual-lesson-row:hover{background:#eef2e8;transform:translateX(3px)}
+.blend-module .lesson-row-number{width:44px;height:44px;display:grid;place-items:center;border-radius:50%;background:#e7eddd;color:var(--blend-forest);font:650 13px var(--sans)}
+.blend-module .visual-lesson-row h2{font-size:22px}.blend-module .visual-lesson-row p{margin-top:5px;color:#68756a}
+.blend-module .visual-lesson-row>svg{color:var(--blend-forest)}
+
+/* Yoga imagery leads the collection; filters stay usable and secondary. */
+.blend-collection .learning-heading{margin:3px 0 31px}
+.blend-collection .learning-heading h1{font-size:clamp(46px,5vw,67px);margin:15px 0 0}
+.blend-collection .collection-toolbar{background:#eeeadd;border-radius:22px;padding:13px;margin:30px 0 22px;gap:16px}
+.blend-collection .lab-tabs button{font-weight:600;color:#4a614e}
+.blend-collection .lab-tabs button[aria-pressed=true]{background:#fffaf0;border:0;box-shadow:0 3px 10px #263e3214;color:#2b513b}
+.blend-collection .collection-search input{background:#fffaf0;border:0;border-radius:999px;min-height:47px}
+.blend-collection .body-card-grid{gap:18px}
+.blend-collection .body-card-grid.single-result{grid-template-columns:minmax(0,min(100%,500px))}
+.blend-collection .body-visual-card{border:0;border-radius:24px;background:#fffaf0;box-shadow:0 5px 20px #263e320a;animation:blend-arrive .4s ease-out both}
+.blend-collection .body-visual-card:hover{transform:translateY(-5px);box-shadow:0 14px 28px #263e3218}
+.blend-collection .body-card-art{background:#e8eddf}
+.blend-collection .body-card-art>img{mix-blend-mode:normal;transform:none;object-fit:cover}
+.blend-collection .card-warrior-ii{background:#f9e4cf}
+.blend-collection .card-warrior-ii .body-card-art{background:#fae6d4;min-height:430px}
+.blend-collection .card-warrior-ii .body-card-art>img{object-fit:cover;object-position:center}
+.blend-collection .body-card-label{background:#fffaf0;border:0;padding:20px 23px}
+.blend-collection .card-warrior-ii .body-card-label{background:#f8dfbd}
+.blend-collection .body-card-label h2{font-size:25px}
+.blend-collection .body-card-label p{color:#58665a}
+.blend-collection .body-card-tag{background:#fffaf0;color:#36523e;padding:6px 11px;font-weight:650}
+.blend-collection .card-open{border:0;background:#fffaf0;color:#315540;width:40px;height:40px}
+.blend-collection .collection-bottom>a{border:0;border-radius:20px;background:#e7edde}
+.blend-collection .collection-bottom>a:nth-child(2){background:#eee7f0}
+.blend-collection .collection-bottom h2{font-size:24px}
+
+/* Recall is a compact loop: visual prompt, a choice, then immediate feedback. */
+.blend-review{max-width:1040px;padding-top:30px}
+.blend-review .back{margin-bottom:18px}
+.blend-review>h1{font-size:clamp(42px,4.3vw,54px);margin:7px 0 0}
+.blend-review .review-filter{background:#f0eee4;border-radius:16px;padding:9px 13px;margin:17px 0 15px}
+.blend-review .review-filter label{font-size:12px;color:#516b56}
+.blend-review .review-filter select{background:#fffaf0;border:0;border-radius:12px;font-weight:600;min-height:44px;max-width:460px}
+.blend-review .review-card{background:#fffaf0;border:0;border-radius:28px;box-shadow:0 8px 28px #263e320c;padding:24px}
+.blend-review .review-card progress{height:8px;margin:9px 0;border-radius:99px;overflow:hidden}
+.blend-review .review-card progress::-webkit-progress-bar{background:#e1e8d8;border-radius:99px}
+.blend-review .review-card progress::-webkit-progress-value{background:#4d7a58;border-radius:99px}
+.blend-review .review-question-stage{display:grid;grid-template-columns:34% 66%;min-height:185px;overflow:hidden;border-radius:22px;background:#f7deb8;margin:13px 0 16px}
+.blend-review .review-question-art{display:grid;place-items:center;overflow:hidden;background:#e7eadf;padding:10px}
+.blend-review .review-art-M1{background:#e6ecd9}.blend-review .review-art-M2{background:#e4e9dc}.blend-review .review-art-M3{background:#e9e2ee}.blend-review .review-art-M4{background:#f1e5dd}.blend-review .review-art-M5{background:#e6e9da}
+.blend-review .review-question-art img{width:100%;height:100%;object-fit:cover}
+.blend-review .review-question-art .study-art,.blend-review .review-question-art .anatomy-svg{width:100%;height:100%;max-height:185px}
+.blend-review .review-question-copy{display:flex;flex-direction:column;justify-content:center;padding:24px 32px}
+.blend-review .review-question-copy .eyebrow{font-size:10px}
+.blend-review .review-card h2{font-size:clamp(26px,2.6vw,35px);line-height:1.23;margin:12px 0 0;max-width:550px}
+.blend-review .answers{counter-reset:answer;gap:10px}
+.blend-review .answer-option{counter-increment:answer;border:1.5px solid #e5e4d9;border-radius:17px;background:#fff;min-height:62px;padding:12px 17px;gap:13px;font-weight:600;transition:background .18s,border-color .18s,transform .18s}
+.blend-review .answer-option:before{content:counter(answer,decimal-leading-zero);display:grid;place-items:center;width:31px;height:31px;border-radius:50%;background:#eaf0e5;color:#4e6c54;font-size:11px;font-weight:700;flex-shrink:0}
+.blend-review .answer-option:hover{background:#f3f5ec;transform:translateX(3px)}
+.blend-review .answer-option.chosen{border-color:#4e7756;background:#eaf0e5}
+.blend-review .answer-option input{margin-left:auto;order:3;flex-shrink:0}
+.blend-review .answer-option span{order:2}
+.blend-review .review-card form>.button{margin-top:20px}
+.blend-review .answer-feedback{background:#e5efdc;border-radius:20px;padding:23px 25px;margin-top:23px}
+.blend-review .answer-feedback.revisit{background:#f5e6d9}
+.blend-review .answer-feedback h3{font-family:var(--sans);font-weight:650;font-size:24px}
+.blend-review .answer-feedback p{line-height:1.6}
+.blend-review .completed{background:#e7efdf;padding:55px 35px}
+.blend-review .completed h2{margin:18px auto 0}
+.blend-review .review-tiny-bow{display:inline-block;margin:10px 0 0;color:#476650;font-size:14px;font-weight:650}
+
+/* The visual lesson and pose screens continue the same reading rhythm. */
+.blend-lesson,.blend-pose,.blend-studio{--blend-forest:#2f5b43;--blend-ink:#263e32;color:var(--blend-ink)}
+.blend-lesson .learning-heading h1,.blend-pose .simple-pose-heading h1,.blend-studio .studio-heading h1{
+ font-family:var(--sans);font-weight:650;letter-spacing:-.045em;line-height:1.1;
+}
+.blend-lesson .learning-heading h1{font-size:clamp(39px,4.3vw,58px)}
+.blend-lesson .learning-heading .pill{background:#e8eddf;color:#3c5c44}
+.blend-lesson .visual-lab,.blend-lesson .style-stage,.blend-lesson .reflection-stage{border-radius:28px;border-color:#e1dfd2;overflow:hidden}
+.blend-lesson .visual-lab{background:#f0efe5}
+.blend-lesson .lab-tabs button[aria-pressed=true],.blend-lesson .style-choices button[aria-pressed=true]{background:#fffaf0;color:#2f5b43;box-shadow:0 4px 13px #263e3214}
+.blend-lesson .diagram-word h2,.blend-lesson .style-copy h2,.blend-lesson .reflection-copy h2,.blend-lesson .lesson-bite h2{
+ font-family:var(--sans);font-weight:650;letter-spacing:-.035em;line-height:1.17;
+}
+.blend-lesson .lesson-bite,.blend-lesson .mini-recall{background:#fffaf0;border:0;border-radius:21px}
+.blend-lesson .learning-next{border-radius:21px;background:#e2ecda}
+.blend-lesson .visual-lesson-actions .button,.blend-lesson .style-play,.blend-lesson .round-next{border-radius:999px;background:var(--blend-forest);border-color:var(--blend-forest);color:#fff}
+.blend-lesson .reflection-stage{border:0}
+.blend-lesson .reflection-steps button[aria-pressed=true]{border-radius:999px;background:#fffaf0}
+.blend-lesson .reflection-next{font-weight:700;color:var(--blend-forest)}
+.blend-lesson .anatomy-tabs a[aria-current=page]{background:var(--blend-forest);border-color:var(--blend-forest)}
+.blend-lesson .recall-options button{border-radius:999px}
+.blend-pose .simple-pose-heading h1{font-size:clamp(38px,4.3vw,58px)}
+.blend-pose .simple-pose-stage{background:#e5ecdc;border:0;border-radius:29px}
+.blend-pose .simple-pose-play{background:var(--blend-forest);font-weight:650}
+.blend-pose .simple-pose-labels button[aria-pressed=true]{background:#fffaf0;border-color:#6c9372;color:#244b34}
+.pose-observation-prompt{max-width:760px;margin:0 0 17px;color:#315640;font-size:14px;font-weight:650;line-height:1.5}
+.studio-observation-prompt{margin:-7px auto 19px;text-align:center}
+.blend-studio .studio-heading h1{font-size:clamp(41px,4.4vw,61px)}
+.blend-studio .pose-identity h2{font-family:var(--sans);font-weight:650;letter-spacing:-.045em}
+.blend-studio .motion-stage{border-radius:30px}
+.blend-rehearsal{--blend-forest:#2f5b43;--blend-ink:#263e32;color:var(--blend-ink)}
+.blend-rehearsal h1,.blend-rehearsal h2,.blend-rehearsal h3{font-family:var(--sans);font-weight:650;letter-spacing:-.04em;line-height:1.16}
+.blend-rehearsal>h1{font-size:clamp(42px,4.6vw,61px)}
+.blend-rehearsal>.lead{font-size:17px;max-width:650px}
+.blend-rehearsal .section-heading h2{font-size:29px}
+.blend-rehearsal .pill{background:#e6eddd;color:#405d46}
+.blend-rehearsal input,.blend-rehearsal select,.blend-rehearsal textarea{background:#fffaf0;border:1px solid #d1d8c9;border-radius:12px}
+.blend-rehearsal .button{background:var(--blend-forest);border-color:var(--blend-forest);border-radius:999px;font-weight:650}
+.rehearsal-selection-hint{margin:12px 0 6px;padding:10px 14px;border-radius:12px;background:#e6eddd;color:#315640;font-size:13px;line-height:1.5}
+.blend-rehearsal .sequence-step{background:#fffaf0;border:0;border-radius:20px;box-shadow:0 4px 16px #263e3209}
+.blend-rehearsal .step-title>span:first-child{font-family:var(--sans);font-size:17px;font-weight:650;color:#9d6257}
+.blend-rehearsal .sequence-thumb{background:#eee9de;border-radius:10px}
+.blend-rehearsal .rehearsal-aside{background:#f6dfbd;border-radius:27px}
+.blend-rehearsal .timer{font-family:var(--sans);font-weight:650;letter-spacing:-.06em}
+.blend-rehearsal .rehearsal-aside .icon-button{background:#fffaf0;border-radius:50%}
+.blend-rehearsal .feedback-form h2{font-size:32px}
+
+@keyframes blend-arrive{from{opacity:.5;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:1050px){
+ .blend-study .map-featured{grid-column:auto;display:flex;flex-direction:column;min-height:0}
+ .blend-study .map-featured .map-art{order:1;height:190px;min-height:190px}
+ .blend-study .map-featured .map-art .study-art{max-height:190px}
+ .blend-study .map-featured .map-card-copy{order:2;min-height:195px;padding:22px 25px 25px}
+ .blend-study .map-featured .map-card-copy h2{font-size:30px;margin-top:9px}
+ .blend-study .map-featured .map-card-action{margin-top:auto}
+ .blend-collection .card-warrior-ii .body-card-art{min-height:390px}
+}
+@media(max-width:700px){
+ .blend-study .learning-heading{display:block;margin:0 0 24px}
+ .blend-study .learning-heading h1{font-size:42px;margin-top:12px}
+ .blend-intro{font-size:14px}
+ .blend-loop{display:inline-flex;margin-top:20px;padding:7px 10px;font-size:11px}
+ .blend-study .study-map-grid{grid-template-columns:1fr;gap:12px}
+ .blend-study .study-map-card{display:grid;grid-template-columns:120px minmax(0,1fr);min-height:160px}
+ .blend-study .map-art{height:100%;min-height:160px;padding:10px 0}
+ .blend-study .map-art .study-art{height:145px;max-height:145px;width:145px;max-width:none}
+ .blend-study .map-number{top:10px;left:12px;font-size:10px}
+ .blend-study .map-card-copy{min-height:0;padding:20px 16px}
+ .blend-study .map-card-copy h2{font-size:21px;line-height:1.16;margin-top:8px}
+ .blend-study .map-card-copy p{font-size:10px;margin-top:8px}
+ .blend-study .map-card-action{font-size:12px;padding-top:9px}
+ .blend-study .map-featured{grid-column:auto;display:flex;flex-direction:column;min-height:0}
+ .blend-study .map-featured .map-art{height:235px;min-height:0;order:1}
+ .blend-study .map-featured .map-art .study-art{width:100%;height:240px;max-height:240px}
+ .blend-study .map-featured .map-card-copy{order:2;min-height:0;padding:22px 25px 25px}
+ .blend-study .map-featured .map-card-copy h2{font-size:30px;margin-top:10px}
+ .blend-study .map-featured .map-card-copy p{font-size:12px}
+ .blend-study .map-featured .map-card-action{margin-top:17px}
+ .blend-study .study-map-rehearse{grid-column:auto;padding:27px}
+ .blend-study .study-map-rehearse h2{font-size:30px}
+ .blend-module .module-visual-heading{display:flex;flex-direction:column;padding:28px 25px 10px;min-height:0}
+ .blend-module .module-visual-heading h1{font-size:39px}
+ .blend-module .module-visual-heading .study-art{max-height:210px;height:210px}
+ .blend-module .module-start{margin-top:20px}
+ .blend-section-heading{margin:30px 0 14px}.blend-section-heading h2{font-size:26px}
+ .blend-module .visual-lesson-row{padding:17px 15px;gap:12px}
+ .blend-module .lesson-row-number{width:36px;height:36px;font-size:11px}
+ .blend-module .visual-lesson-row h2{font-size:19px}
+ .blend-collection .learning-heading h1{font-size:43px}
+ .blend-collection .collection-toolbar{padding:11px;margin:23px 0 16px}
+ .blend-collection .body-card-grid{gap:12px}
+ .blend-collection .card-warrior-ii .body-card-art{min-height:270px;height:270px}
+ .blend-collection .body-card-art{height:172px}
+ .blend-collection .single-result .body-card-art{height:260px}
+ .blend-collection .body-card-label{padding:15px}
+ .blend-collection .body-card-label h2{font-size:20px}
+ .blend-review{padding-top:17px}
+ .blend-review .back{margin-bottom:13px}
+ .blend-review>h1{font-size:35px;line-height:1.08}
+ .blend-review .review-filter{flex-direction:row;align-items:center;gap:9px;padding:9px 11px;margin:16px 0 14px}
+ .blend-review .review-filter label{white-space:normal;line-height:1.2;max-width:82px}
+ .blend-review .review-filter select{min-width:0;flex:1;font-size:13px;padding:9px;min-height:42px}
+ .blend-review .review-card{padding:16px;border-radius:23px}
+ .blend-review .review-card progress{margin:9px 0 7px}
+ .blend-review .review-question-stage{grid-template-columns:112px minmax(0,1fr);min-height:168px;margin:12px 0 13px}
+ .blend-review .review-question-art{height:auto;min-height:168px;padding:2px}
+ .blend-review .review-question-art img{object-position:center 48%}
+ .blend-review .review-question-art .study-art{width:180px;max-width:none;max-height:150px}
+ .blend-review .review-question-art .anatomy-svg{max-height:160px}
+ .blend-review .review-question-copy{padding:13px 15px}
+ .blend-review .review-question-copy .eyebrow{font-size:9px}
+ .blend-review .review-card h2{font-size:21px;margin-top:7px}
+ .blend-review .answer-option{min-height:59px;padding:11px 13px;font-size:14px}
+ .blend-review .answer-feedback{padding:20px}
+ .blend-lesson .learning-heading h1{font-size:37px}
+ .blend-pose .simple-pose-heading h1{font-size:39px}
+ .blend-studio .studio-heading h1{font-size:42px}
+ .blend-rehearsal>h1{font-size:39px}
+ .blend-rehearsal .section-heading h2{font-size:25px}
+}
+@media(max-width:360px){
+ .blend-study .study-map-card{grid-template-columns:103px minmax(0,1fr)}
+ .blend-study .map-art .study-art{width:125px;height:130px}
+ .blend-study .map-card-copy h2{font-size:19px}
+ .blend-collection .body-card-grid{grid-template-columns:1fr}
+ .blend-collection .card-warrior-ii{grid-column:auto;grid-row:auto}
+ .blend-review .review-question-stage{grid-template-columns:94px minmax(0,1fr)}
+ .blend-review .review-question-art .study-art{width:160px}
+ .blend-review .review-card h2{font-size:19px}
+}
+@media(prefers-reduced-motion:reduce){
+ .blend-study .study-map-card,.blend-collection .body-visual-card{animation:none;transition:none}
+ .blend-study .study-map-card:hover,.blend-collection .body-visual-card:hover,.blend-module .visual-lesson-row:hover,.blend-review .answer-option:hover{transform:none}
+ .blend-module .visual-lesson-row,.blend-review .answer-option{transition:none}
+}

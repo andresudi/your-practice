@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Yoga Fieldbook mark">
+  <rect x="2" y="2" width="60" height="60" rx="18" fill="#e7ecdf"/>
+  <path d="M13 18c7-2 13-1 19 3 6-4 12-5 19-3v27c-7-2-13-1-19 3-6-4-12-5-19-3V18Z" fill="#f7f4ed" stroke="#4b6655" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M32 21v27" fill="none" stroke="#4b6655" stroke-width="2" stroke-linecap="round"/>
+  <path d="M19 35c3-4 7-4 10 0m6 0c3-4 7-4 10 0" fill="none" stroke="#b77762" stroke-width="3" stroke-linecap="round"/>
+</svg>

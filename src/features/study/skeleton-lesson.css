@@ -1,0 +1,6 @@
+.skeleton-lesson .style-stage{background:#edf0e5;min-height:485px;padding:18px 34px 25px;gap:24px}
+.skeleton-lesson .skeleton-appendicular{background:#eee8f0;border-color:#d7ccdd}
+.skeleton-lesson .skeleton-art{height:405px;width:100%;max-height:none}
+.skeleton-labels text{font:17px var(--sans);fill:#475440}.skeleton-labels path{fill:none;stroke:#7e8b75;stroke-width:1.5}
+.skeleton-lesson .visual-lesson-actions .text-link{display:inline-flex;align-items:center;gap:10px;font-size:13px}
+@media(max-width:700px){.skeleton-lesson .style-stage{padding:10px 15px 25px;gap:24px}.skeleton-lesson .skeleton-art{height:335px}.skeleton-lesson .style-copy{padding:0 6px}.skeleton-lesson .style-copy .micro{display:block;line-height:1.7}.skeleton-lesson .visual-lesson-actions{align-items:flex-start;flex-direction:column;gap:18px}.skeleton-lesson .style-choices button{font-size:13px}}

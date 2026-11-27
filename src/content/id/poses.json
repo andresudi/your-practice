@@ -1,0 +1,564 @@
+{
+  "warrior-ii": {
+    "summary": "Warrior II adalah pose berdiri yang lebar: satu lutut ditekuk dan kaki belakang diluruskan. Kedua lengan merentang ke arah berlawanan, membentuk garis panjang melintasi bahu. Animasinya membantumu melihat hubungan antara kaki yang ditekuk, kaki yang lurus, dan lengan yang terbuka.",
+    "searchTerms": "prajurit dua kesatria berdiri lebar lengan terbuka"
+  },
+  "mountain": {
+    "summary": "Mountain adalah pose berdiri tegak dengan kedua kaki di lantai dan lengan di samping badan. Bentuknya yang sederhana memudahkanmu melihat posisi kepala, batang tubuh, panggul, dan kaki. Lihat bagaimana figur bergerak ke bentuk berdiri yang rata dan tenang.",
+    "observations": [
+      {
+        "title": "Di samping badan.",
+        "text": "Perhatikan lengan atas di samping batang tubuh pada ilustrasi ini."
+      },
+      {
+        "title": "Hubungkan bagiannya.",
+        "text": "Temukan panggul (pelvis) di antara batang tubuh dan tungkai bawah."
+      },
+      {
+        "title": "Temukan sendinya.",
+        "text": "Temukan setiap lutut di antara pinggul dan pergelangan kaki. Bandingkan dengan ilustrasi Chair yang lututnya ditekuk."
+      }
+    ],
+    "searchTerms": "gunung berdiri tegak"
+  },
+  "chair": {
+    "summary": "Chair menjaga kedua kaki di lantai sementara lutut ditekuk dan pinggul bergerak ke belakang, seolah duduk di kursi yang tak terlihat. Batang tubuh tetap terangkat dan lengan menjangkau ke atas kepala. Animasinya menunjukkan bagaimana lutut, pinggul, dan bahu berubah posisi bersama-sama.",
+    "observations": [
+      {
+        "title": "Tekukan yang terlihat.",
+        "text": "Bentuk lutut yang ditekuk menggambarkan fleksi (flexion): sudut antara paha dan tungkai bawah mengecil."
+      },
+      {
+        "title": "Batang tubuh bertemu paha.",
+        "text": "Temukan area pinggul dan perhatikan sudut antara batang tubuh dan paha."
+      },
+      {
+        "title": "Ikuti lengannya.",
+        "text": "Temukan bahu di bawah lengan yang terangkat. Gambar ini studi bentuk, bukan target posisi tubuh."
+      }
+    ],
+    "searchTerms": "kursi jongkok setengah duduk"
+  },
+  "tree": {
+    "summary": "Tree memindahkan bentuk berdiri ke satu kaki, sementara lutut kaki lainnya membuka ke samping. Kaki penopang membentuk garis vertikal panjang di bawah batang tubuh, sedangkan kaki yang ditekuk mengubah siluetnya. Lihat peralihannya dari dua kaki di lantai ke keseimbangan satu kaki.",
+    "observations": [
+      {
+        "title": "Bandingkan kedua sisi.",
+        "text": "Satu tungkai bawah digambar membuka ke samping. Bandingkan posisinya dengan tungkai penopang."
+      },
+      {
+        "title": "Dua bentuk berbeda.",
+        "text": "Satu lutut digambar menekuk. Sebutkan nama gerakan menekuk ini: fleksi (flexion)."
+      },
+      {
+        "title": "Telusuri lengan.",
+        "text": "Ikuti bahu, siku, dan pergelangan tangan secara berurutan. Mana yang paling distal (distal)?"
+      }
+    ],
+    "searchTerms": "pohon keseimbangan satu kaki"
+  },
+  "downward-dog": {
+    "summary": "Downward-Facing Dog membentuk huruf V terbalik, dengan tangan dan kaki menopang kedua ujungnya. Pinggul berada tinggi di antara lengan dan kaki, dan kepala menggantung di antara lengan atas. Animasinya memudahkanmu mengenali bentuk keseluruhannya.",
+    "observations": [
+      {
+        "title": "Puncak bentuknya.",
+        "text": "Temukan area pinggul di puncak siluet V terbalik ini."
+      },
+      {
+        "title": "Hubungkan lengan dan batang tubuh.",
+        "text": "Telusuri lengan dari tangan ke bahu, tempat lengan bertemu batang tubuh."
+      },
+      {
+        "title": "Temukan, lalu jelaskan.",
+        "text": "Temukan lutut di antara pinggul dan pergelangan kaki. Bentuk pose tiap orang bisa berbeda; ikuti arahan gurumu."
+      }
+    ],
+    "searchTerms": "anjing menghadap ke bawah v terbalik"
+  },
+  "easy-pose": {
+    "summary": "Easy Pose adalah posisi duduk bersila yang sering dipakai sebagai dasar untuk bernapas tenang atau meditasi. Kaki terlipat di depan panggul sementara batang tubuh tetap tegak. Bandingkan posisi pinggul, lutut, dan bahu saat figur menetap dalam bentuk duduk.",
+    "observations": [
+      {
+        "title": "Pertemuan saat duduk.",
+        "text": "Temukan tempat batang tubuh bertemu kaki yang terlipat pada ilustrasi ini."
+      },
+      {
+        "title": "Dua tekukan.",
+        "text": "Kedua lutut ditekuk dalam gambar; bandingkan posisinya dengan Mountain."
+      },
+      {
+        "title": "Telusuri lengan.",
+        "text": "Ikuti setiap lengan dari bahu ke tangan."
+      }
+    ],
+    "searchTerms": "duduk bersila sila meditasi"
+  },
+  "savasana": {
+    "summary": "Corpse Pose adalah bentuk istirahat berbaring telentang, dengan tungkai dan lengan ditopang lantai. Berbeda dari pose berdiri atau keseimbangan, badan tidak perlu menahan dirinya tegak. Animasinya yang lembut menjaga perhatian pada bentuknya yang terbuka dan tenang.",
+    "observations": [
+      {
+        "title": "Di samping batang tubuh.",
+        "text": "Temukan setiap bahu dan ikuti lengan yang menjauh dari batang tubuh."
+      },
+      {
+        "title": "Melintang di panggul.",
+        "text": "Temukan area pinggul di antara batang tubuh dan kaki."
+      },
+      {
+        "title": "Bentuk yang panjang.",
+        "text": "Lutut tampak lurus memanjang dalam gambar contoh ini; bentuk istirahat bisa berbeda-beda."
+      }
+    ],
+    "searchTerms": "berbaring telentang istirahat mayat"
+  },
+  "warrior-i": {
+    "summary": "Warrior I adalah pose berdiri lebar mirip lunge, dengan lutut depan ditekuk dan kaki belakang menjangkau ke belakang. Lengan terulur ke atas kepala, membuat tubuh bagian atas tampak tinggi. Dibandingkan Warrior II, lengannya menjangkau ke atas, bukan ke samping.",
+    "observations": [
+      {
+        "title": "Di atas batang tubuh.",
+        "text": "Ikuti lengan pada ilustrasi ke atas dari bahu."
+      },
+      {
+        "title": "Di antara dua kaki.",
+        "text": "Temukan panggul di antara batang tubuh dan dua kaki yang posisinya berbeda."
+      },
+      {
+        "title": "Bandingkan kakinya.",
+        "text": "Lutut depan ditekuk, sementara kaki belakang tampak lebih panjang dalam gambar ini."
+      }
+    ],
+    "searchTerms": "prajurit satu kesatria lengan ke atas"
+  },
+  "triangle": {
+    "summary": "Triangle memakai alas berdiri yang lebar dengan kedua kaki lurus. Batang tubuh miring ke satu sisi sementara lengan merentang berjauhan, memberi pose ini bentuk bersudut yang khas. Bandingkan garis panjang kaki dan lengan dengan gerakan menyamping batang tubuh.",
+    "observations": [
+      {
+        "title": "Dua arah.",
+        "text": "Telusuri lengan atas dan lengan bawah dari bahunya masing-masing."
+      },
+      {
+        "title": "Tempat batang tubuh berbelok.",
+        "text": "Temukan panggul di bawah batang tubuh yang miring dalam gambar."
+      },
+      {
+        "title": "Alas yang lebar.",
+        "text": "Temukan kedua lutut di antara pinggul dan kaki yang terbuka lebar."
+      }
+    ],
+    "searchTerms": "segitiga miring samping"
+  },
+  "low-lunge": {
+    "summary": "Low Lunge menempatkan satu kaki di depan dengan lututnya ditekuk, dan lutut lainnya diturunkan ke arah lantai. Karena itu, alasnya lebih rendah daripada pose Warrior yang berdiri. Perhatikan bagaimana kaki depan dan kaki belakang membentuk sudut yang berbeda di sekitar panggul.",
+    "observations": [
+      {
+        "title": "Tengah bentuknya.",
+        "text": "Temukan panggul di antara batang tubuh yang tegak dan kedua kaki."
+      },
+      {
+        "title": "Dua tekukan berbeda.",
+        "text": "Bandingkan lutut depan dan lutut belakang pada lunge dalam ilustrasi ini."
+      },
+      {
+        "title": "Ikuti jangkauannya.",
+        "text": "Telusuri lengan atas dari bahu dalam gambar."
+      }
+    ],
+    "searchTerms": "kuda-kuda rendah lutut di lantai"
+  },
+  "cobra": {
+    "summary": "Cobra adalah backbend (melengkung ke belakang) yang dimulai dari posisi tengkurap. Dada terangkat sementara panggul dan kaki tetap dekat lantai, membentuk lengkungan di tubuh bagian atas. Ilustrasinya menonjolkan perbedaan antara dada yang naik dan tubuh bagian bawah yang tetap menempel di lantai.",
+    "observations": [
+      {
+        "title": "Dekat dada.",
+        "text": "Temukan bahu di atas tangan dalam ilustrasi."
+      },
+      {
+        "title": "Dekat lantai.",
+        "text": "Temukan panggul di dekat dasar batang tubuh dalam gambar ini."
+      },
+      {
+        "title": "Di belakang pinggul.",
+        "text": "Telusuri setiap tungkai bawah dari pinggul melewati lutut ke arah kaki."
+      }
+    ],
+    "searchTerms": "ular kobra tengkurap dada terangkat"
+  },
+  "childs-pose": {
+    "summary": "Child’s Pose adalah lipatan sambil berlutut, dengan batang tubuh diturunkan ke arah paha dan lengan menjangkau ke depan. Bentuknya yang rendah dan ringkas berbeda jauh dari pose berdiri yang tinggi. Lihat bagaimana pinggul, tulang belakang, dan lengan membentuk jalur menyambung ke arah lantai.",
+    "observations": [
+      {
+        "title": "Siluet yang terlipat.",
+        "text": "Temukan tempat batang tubuh bertemu tungkai bawah pada ilustrasi ini."
+      },
+      {
+        "title": "Temukan tekukannya.",
+        "text": "Lutut ditekuk di bawah badan dalam gambar."
+      },
+      {
+        "title": "Telusuri ke depan.",
+        "text": "Ikuti setiap lengan dari bahu ke arah tangan."
+      }
+    ],
+    "searchTerms": "anak berlutut istirahat melipat"
+  },
+  "standing-forward-bend": {
+    "summary": "Standing Forward Bend membawa batang tubuh turun ke arah kaki dari posisi berdiri. Kepala dan lengan mengikuti arah lipatan, mengubah figur dari tinggi menjadi menjangkau ke bawah. Animasinya memudahkanmu melihat perubahan bentuk keseluruhan itu.",
+    "observations": [
+      {
+        "title": "Bentuk yang terlipat.",
+        "text": "Temukan panggul di tempat batang tubuh miring ke arah kaki."
+      },
+      {
+        "title": "Di bawah pinggul.",
+        "text": "Telusuri setiap kaki melewati lutut ke arah telapak kaki."
+      },
+      {
+        "title": "Lengan di bawah kepala.",
+        "text": "Ikuti bahu sampai ke lengan yang menggantung dalam gambar ini."
+      }
+    ],
+    "searchTerms": "membungkuk ke depan berdiri melipat"
+  },
+  "extended-side-angle": {
+    "summary": "Extended Side Angle dimulai dari kuda-kuda lebar dengan satu lutut ditekuk. Batang tubuh menjangkau ke sisi itu dan satu lengan terulur diagonal, memanjangkan garis dari kaki belakang sampai ujung jari. Bandingkan kaki depan yang ditekuk dengan kaki Triangle yang lebih lurus.",
+    "observations": [
+      {
+        "title": "Di atas alas yang lebar.",
+        "text": "Temukan panggul di antara kaki depan yang ditekuk dan kaki belakang yang lebih panjang."
+      },
+      {
+        "title": "Bandingkan kakinya.",
+        "text": "Satu lutut ditekuk sementara kaki lainnya membentuk garis yang lebih panjang."
+      },
+      {
+        "title": "Dua jangkauan.",
+        "text": "Telusuri satu lengan ke bawah dan lengan lainnya menjauh dari batang tubuh."
+      }
+    ],
+    "searchTerms": "sudut samping diagonal"
+  },
+  "warrior-iii": {
+    "summary": "Warrior III menyeimbangkan badan di satu kaki sementara batang tubuh condong ke depan dan kaki lainnya menjangkau ke belakang. Bagian-bagian ini membentuk garis panjang yang lebih mendekati horizontal dibanding pose Warrior lainnya. Lihat bagaimana kaki penopang menyangga kedua ujung yang memanjang.",
+    "observations": [
+      {
+        "title": "Pusat keseimbangan.",
+        "text": "Temukan panggul di antara kaki penopang dan kaki yang terangkat."
+      },
+      {
+        "title": "Satu kaki penopang.",
+        "text": "Temukan lutut di antara pinggul dan kaki yang menapak."
+      },
+      {
+        "title": "Jangkauan ke depan.",
+        "text": "Ikuti bahu sampai ke lengan yang terulur ke depan."
+      }
+    ],
+    "searchTerms": "prajurit tiga keseimbangan horizontal"
+  },
+  "eagle": {
+    "summary": "Eagle adalah pose keseimbangan berdiri yang ringkas, dengan lutut ditekuk dan lengan menyilang di depan badan. Tungkai dan lengan berkumpul di dekat pusat, memberi siluet yang berlapis. Dibandingkan Tree, bentuknya melipat ke dalam, bukan membuka kaki yang ditekuk ke samping.",
+    "observations": [
+      {
+        "title": "Bentuk yang menyilang.",
+        "text": "Temukan kedua lutut yang ditekuk, termasuk lutut di kaki yang terangkat."
+      },
+      {
+        "title": "Di atas kaki penopang.",
+        "text": "Temukan panggul di atas kaki yang menopang."
+      },
+      {
+        "title": "Lengan di depan.",
+        "text": "Telusuri setiap lengan atas dari bahu ke arah lengan bawah yang menyilang."
+      }
+    ],
+    "searchTerms": "elang menyilang lilit"
+  },
+  "plank": {
+    "summary": "Plank adalah pose bertumpu pada tangan dengan kaki terulur ke belakang. Dilihat dari samping, bahu, pinggul, dan tumit membentuk garis panjang yang hampir lurus. Tangan dan kaki tetap menyentuh lantai sementara batang tubuh membentang di antaranya.",
+    "observations": [
+      {
+        "title": "Di atas tangan.",
+        "text": "Temukan tempat setiap lengan bertemu batang tubuh pada ilustrasi ini."
+      },
+      {
+        "title": "Sepanjang garis.",
+        "text": "Temukan panggul di antara bahu dan kaki."
+      },
+      {
+        "title": "Ke arah kaki.",
+        "text": "Telusuri tungkai bawah melewati lutut ke arah jari kaki."
+      }
+    ],
+    "searchTerms": "papan tumpuan tangan garis lurus"
+  },
+  "upward-facing-dog": {
+    "summary": "Upward-Facing Dog adalah backbend (melengkung ke belakang) yang bertumpu pada tangan, dengan dada terangkat dan kaki menjangkau ke belakang. Batang tubuh naik membentuk lengkungan, bukan garis lurus seperti Plank. Bandingkan posisi bahu, pinggul, dan kaki pada kedua bentuk itu.",
+    "observations": [
+      {
+        "title": "Di samping dada.",
+        "text": "Temukan bahu di atas tangan dalam ilustrasi."
+      },
+      {
+        "title": "Bagian tengah terangkat.",
+        "text": "Temukan panggul di antara batang tubuh yang melengkung dan kaki yang terulur."
+      },
+      {
+        "title": "Ke belakang sepanjang kaki.",
+        "text": "Telusuri kaki dari pinggul melewati lutut."
+      }
+    ],
+    "searchTerms": "anjing menghadap ke atas dada terangkat"
+  },
+  "cat": {
+    "summary": "Cat adalah pose bertumpu tangan dan lutut, dengan tulang belakang membulat ke atas dan kepala turun. Punggung membentuk kubah di antara bahu dan panggul. Bandingkan dengan Cow untuk melihat bagaimana alas yang sama bisa menampung lengkungan tulang belakang yang berbeda.",
+    "observations": [
+      {
+        "title": "Di atas tangan.",
+        "text": "Telusuri lengan di antara bahu dan lantai."
+      },
+      {
+        "title": "Di atas lutut.",
+        "text": "Temukan tempat batang tubuh yang membulat bertemu tungkai bawah."
+      },
+      {
+        "title": "Alas berlutut.",
+        "text": "Temukan lutut yang ditekuk di bawah panggul."
+      }
+    ],
+    "searchTerms": "kucing merangkak punggung membulat"
+  },
+  "cow": {
+    "summary": "Cow memakai alas tangan dan lutut yang sama dengan Cat, tetapi mengubah lengkungan tulang belakang. Dada bergerak ke depan dan perut turun, membentuk lengkungan ke arah sebaliknya. Bergantian melihat kedua ilustrasi membantu menunjukkan perubahan bentuk keseluruhannya.",
+    "observations": [
+      {
+        "title": "Bagian depan yang lebar.",
+        "text": "Temukan bahu di depan batang tubuh yang melengkung."
+      },
+      {
+        "title": "Di belakang batang tubuh.",
+        "text": "Temukan panggul di atas kaki yang ditekuk."
+      },
+      {
+        "title": "Alas berlutut.",
+        "text": "Bandingkan lutut di sini dengan lutut pada gambar Cat."
+      }
+    ],
+    "searchTerms": "sapi merangkak punggung melengkung"
+  },
+  "bound-angle": {
+    "summary": "Bound Angle adalah pose duduk dengan kedua telapak kaki saling menempel dan lutut membuka ke kedua sisi. Kaki membentuk garis seperti belah ketupat di depan panggul. Bandingkan dengan Easy Pose, yang tungkai bawahnya menyilang.",
+    "observations": [
+      {
+        "title": "Pusat duduk.",
+        "text": "Temukan panggul di atas kaki yang menempel dalam gambar ini."
+      },
+      {
+        "title": "Ke kedua sisi.",
+        "text": "Lutut yang ditekuk tampak di kedua sisi batang tubuh."
+      },
+      {
+        "title": "Di atas tempat duduk.",
+        "text": "Telusuri lengan dari bahu ke arah tungkai bawah."
+      }
+    ],
+    "searchTerms": "kupu-kupu duduk telapak kaki menempel"
+  },
+  "seated-forward-bend": {
+    "summary": "Seated Forward Bend dimulai dengan kedua kaki terulur lurus di depan badan. Batang tubuh melipat ke arah kaki, membentuk garis yang lebih panjang dan lebih rendah daripada pose duduk tegak. Bandingkan posisi tulang belakang, pinggul, dan lutut saat animasi bergerak.",
+    "observations": [
+      {
+        "title": "Titik lipatan.",
+        "text": "Temukan panggul di antara batang tubuh yang menjangkau dan kaki yang panjang."
+      },
+      {
+        "title": "Sepanjang lantai.",
+        "text": "Telusuri lutut di antara pinggul dan kaki."
+      },
+      {
+        "title": "Menjangkau ke depan.",
+        "text": "Ikuti lengan ke depan dari bahu dalam gambar ini."
+      }
+    ],
+    "searchTerms": "duduk membungkuk ke depan melipat"
+  },
+  "bridge": {
+    "summary": "Bridge dimulai dari berbaring telentang dengan lutut ditekuk dan telapak kaki di lantai. Pinggul terangkat membentuk lengkungan sementara bahu tetap ditopang lantai. Lengkungan ke atasnya berbeda dari backbend sambil tengkurap seperti Cobra.",
+    "observations": [
+      {
+        "title": "Titik tertinggi.",
+        "text": "Temukan panggul di atas kaki yang ditekuk pada ilustrasi ini."
+      },
+      {
+        "title": "Dua tekukan.",
+        "text": "Temukan setiap lutut di antara panggul yang terangkat dan kaki yang menapak."
+      },
+      {
+        "title": "Dekat lantai.",
+        "text": "Bahu tampak di bawah batang tubuh yang terangkat."
+      }
+    ],
+    "searchTerms": "jembatan telentang pinggul terangkat"
+  },
+  "supine-twist": {
+    "summary": "Supine Twist dimulai dari berbaring telentang, lalu kaki yang ditekuk dimiringkan melintasi badan. Tubuh bagian atas tetap lebih dekat ke lantai, sehingga arah panggul dan bahu terlihat berbeda. Ilustrasinya menonjolkan hubungan antara tubuh bagian bawah dan atas itu.",
+    "observations": [
+      {
+        "title": "Siluet yang berputar.",
+        "text": "Temukan panggul di tempat kaki yang ditekuk miring menjauh dari batang tubuh."
+      },
+      {
+        "title": "Keduanya ditekuk.",
+        "text": "Telusuri lutut di dalam tungkai bawah yang terlipat."
+      },
+      {
+        "title": "Jangkauan yang lebar.",
+        "text": "Ikuti lengan ke luar dari bahu."
+      }
+    ],
+    "searchTerms": "putar berbaring telentang memutar"
+  },
+  "camel": {
+    "summary": "Camel adalah backbend (melengkung ke belakang) sambil berlutut, dengan paha tegak dan dada terangkat saat tubuh bagian atas melengkung ke belakang. Lengan menjangkau ke belakang ke arah tumit, sehingga bagian depan badan membentuk satu lengkungan panjang. Bandingkan dengan Bridge, yang membuat lengkungan serupa sambil berbaring telentang.",
+    "observations": [
+      {
+        "title": "Di atas lutut.",
+        "text": "Temukan panggul yang tertahan di atas alas berlutut pada ilustrasi ini."
+      },
+      {
+        "title": "Alas berlutut.",
+        "text": "Temukan lutut di lantai dengan tulang kering di belakangnya."
+      },
+      {
+        "title": "Lengan menjangkau ke belakang.",
+        "text": "Ikuti setiap lengan dari bahu ke belakang ke arah tumit."
+      }
+    ],
+    "searchTerms": "unta berlutut melengkung ke belakang"
+  },
+  "fish": {
+    "summary": "Fish adalah backbend (melengkung ke belakang) yang dimulai dari berbaring telentang dengan kaki lurus. Lengan bawah bertumpu di lantai sementara dada terangkat dan kepala menengadah ke arah lantai. Dadanya yang terangkat berbeda dengan Savasana, saat seluruh punggung beristirahat di lantai.",
+    "observations": [
+      {
+        "title": "Dada terangkat.",
+        "text": "Temukan bahu yang terangkat di atas lengan yang ditekuk pada ilustrasi ini."
+      },
+      {
+        "title": "Alas yang menapak.",
+        "text": "Temukan panggul yang beristirahat di lantai dekat tangan."
+      },
+      {
+        "title": "Kaki yang panjang.",
+        "text": "Temukan setiap lutut di sepanjang kaki yang lurus di lantai."
+      }
+    ],
+    "searchTerms": "ikan telentang dada terangkat"
+  },
+  "locust": {
+    "summary": "Locust adalah backbend (melengkung ke belakang) yang dimulai dari posisi tengkurap. Dada dan kaki terangkat dari lantai sementara panggul tetap di bawah dan lengan menjangkau ke belakang. Bandingkan dengan Cobra, yang tangannya menekan lantai dan kakinya tetap di bawah.",
+    "observations": [
+      {
+        "title": "Lengan menjangkau ke belakang.",
+        "text": "Ikuti lengan dari bahu ke belakang di sepanjang sisi badan."
+      },
+      {
+        "title": "Di lantai.",
+        "text": "Temukan panggul yang beristirahat di lantai di antara kedua ujung yang terangkat."
+      },
+      {
+        "title": "Kaki terangkat.",
+        "text": "Temukan setiap lutut di sepanjang kaki yang terangkat di belakang badan."
+      }
+    ],
+    "searchTerms": "belalang tengkurap kaki terangkat"
+  },
+  "boat": {
+    "summary": "Boat adalah keseimbangan duduk, dengan tubuh bagian atas condong ke belakang dan kaki terangkat di depan. Batang tubuh dan kaki membentuk huruf V sementara lengan menjangkau ke depan di samping kaki. Pose ini seimbang di area duduk, berbeda dari Easy Pose dan Bound Angle yang kakinya beristirahat di lantai.",
+    "observations": [
+      {
+        "title": "Titik keseimbangan.",
+        "text": "Temukan panggul di tempat bentuk duduk bertemu lantai."
+      },
+      {
+        "title": "Kaki yang panjang.",
+        "text": "Temukan setiap lutut di sepanjang kaki yang terangkat di depan."
+      },
+      {
+        "title": "Lengan ke depan.",
+        "text": "Ikuti lengan yang menjangkau ke depan dari bahu."
+      }
+    ],
+    "searchTerms": "perahu keseimbangan duduk huruf v"
+  },
+  "happy-baby": {
+    "summary": "Happy Baby adalah bentuk berbaring yang dimulai dari posisi telentang. Lutut ditekuk ke arah dada dengan tulang kering menghadap ke atas, dan tangan memegang kaki. Awalnya sama-sama di lantai seperti Savasana, tetapi kakinya dilipat ke dalam, bukan dibiarkan lurus.",
+    "observations": [
+      {
+        "title": "Lutut ditarik masuk.",
+        "text": "Temukan panggul di lantai dengan paha terlipat ke arah dada."
+      },
+      {
+        "title": "Tulang kering tegak.",
+        "text": "Temukan setiap lutut di bawah pergelangan kaki yang mengarah ke langit-langit."
+      },
+      {
+        "title": "Menjangkau ke atas.",
+        "text": "Ikuti setiap lengan dari bahu ke atas sampai ke kaki yang dipegangnya."
+      }
+    ],
+    "searchTerms": "bayi bahagia telentang pegang kaki"
+  },
+  "dolphin": {
+    "summary": "Dolphin membentuk huruf V terbalik yang ditopang lengan bawah dan kaki. Pinggul terangkat tinggi sementara kepala menggantung di antara lengan atas. Bandingkan dengan Downward-Facing Dog, yang membentuk bentuk serupa dengan bertumpu pada tangan, bukan lengan bawah.",
+    "observations": [
+      {
+        "title": "Di atas siku.",
+        "text": "Temukan bahu di atas lengan bawah yang bertumpu di lantai."
+      },
+      {
+        "title": "Titik tertinggi.",
+        "text": "Temukan panggul di puncak V terbalik."
+      },
+      {
+        "title": "Kaki belakang yang panjang.",
+        "text": "Temukan setiap lutut di sepanjang kaki yang menjangkau ke bawah sampai telapak kaki."
+      }
+    ],
+    "searchTerms": "lumba-lumba lengan bawah v terbalik"
+  },
+  "pigeon": {
+    "summary": "Pigeon adalah bentuk duduk dengan satu kaki ditekuk di depan dan kaki lainnya terulur lurus ke belakang. Tulang kering depan miring melintasi matras sementara batang tubuh tetap tegak di atas panggul. Kedua kakinya mengarah ke arah berlawanan, berbeda dari Easy Pose yang kedua kakinya terlipat di depan.",
+    "observations": [
+      {
+        "title": "Dua arah.",
+        "text": "Temukan panggul di antara kaki depan dan kaki yang menjangkau ke belakang."
+      },
+      {
+        "title": "Tekukan depan.",
+        "text": "Temukan lutut depan dengan tulang keringnya miring melintasi matras."
+      },
+      {
+        "title": "Batang tubuh tegak.",
+        "text": "Ikuti lengan dari bahu turun ke lantai di samping pinggul."
+      }
+    ],
+    "searchTerms": "merpati duduk satu kaki ke belakang"
+  },
+  "crow": {
+    "summary": "Crow adalah keseimbangan lengan yang ringkas, dengan tangan di lantai dan siku ditekuk. Lutut bertumpu di bagian belakang lengan atas sementara kaki terangkat dan badan condong ke depan. Banyak kelas juga menyebutnya Bakasana, nama untuk Crane, versi dengan lengan lebih lurus dari bentuk yang sama.",
+    "observations": [
+      {
+        "title": "Condong ke depan.",
+        "text": "Temukan bahu yang berada di depan tangan di lantai."
+      },
+      {
+        "title": "Titik tumpu.",
+        "text": "Temukan setiap lutut di tempatnya bertemu bagian belakang lengan atas."
+      },
+      {
+        "title": "Terangkat tinggi.",
+        "text": "Temukan panggul di atas lengan dengan kaki terangkat dari lantai."
+      }
+    ],
+    "searchTerms": "gagak keseimbangan lengan bertumpu tangan"
+  }
+}

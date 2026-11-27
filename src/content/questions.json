@@ -1,0 +1,889 @@
+[
+  {
+    "id": "q-body",
+    "lessonId": "body-language",
+    "kind": "choice",
+    "prompt": "Which term means farther from a limb’s attachment?",
+    "explanation": "Distal means farther from the attachment. The wrist is distal to the elbow.",
+    "sourceIds": [
+      "os-terms"
+    ],
+    "answer": "distal",
+    "options": [
+      {
+        "id": "proximal",
+        "text": "Proximal"
+      },
+      {
+        "id": "distal",
+        "text": "Distal"
+      },
+      {
+        "id": "medial",
+        "text": "Medial"
+      }
+    ]
+  },
+  {
+    "id": "q-movement",
+    "lessonId": "movement-words",
+    "kind": "label",
+    "prompt": "What is the movement term for bending at the elbow or knee?",
+    "explanation": "Flexion reduces the angle at these joints; extension increases it.",
+    "sourceIds": [
+      "os-movement"
+    ],
+    "answer": "flexion"
+  },
+  {
+    "id": "q-nervous",
+    "lessonId": "nervous-basics",
+    "kind": "choice",
+    "prompt": "Which structures belong to the central nervous system?",
+    "explanation": "The CNS is the brain and spinal cord. Peripheral nerves and ganglia belong to the PNS.",
+    "sourceIds": [
+      "os-nerves"
+    ],
+    "answer": "cns",
+    "options": [
+      {
+        "id": "pns",
+        "text": "Peripheral nerves and ganglia"
+      },
+      {
+        "id": "cns",
+        "text": "Brain and spinal cord"
+      },
+      {
+        "id": "all",
+        "text": "All muscles and connective tissues"
+      }
+    ]
+  },
+  {
+    "id": "q-pose",
+    "lessonId": "pose-observation",
+    "kind": "label",
+    "prompt": "What is the English name of Virabhadrasana II?",
+    "explanation": "Virabhadrasana II is commonly called Warrior II. This example is not a school-required pose list.",
+    "sourceIds": [
+      "yj-warrior"
+    ],
+    "answer": "Warrior II"
+  },
+  {
+    "id": "q-practice",
+    "lessonId": "practice-map",
+    "kind": "reflection",
+    "prompt": "Which practice term would you like to ask your teacher about?",
+    "explanation": "Name the term, write what you understand, then add one precise question. Your reflection has no right or wrong score.",
+    "sourceIds": [
+      "training-outline"
+    ]
+  },
+  {
+    "id": "q-energy",
+    "lessonId": "energy-context",
+    "kind": "reflection",
+    "prompt": "What would you record beside a traditional energy diagram?",
+    "explanation": "Consider the text or tradition and the interpretation your teacher uses. Keep the framework separate from biomedical anatomy.",
+    "sourceIds": [
+      "training-outline"
+    ]
+  },
+  {
+    "id": "q-cues",
+    "lessonId": "clear-cues",
+    "kind": "reflection",
+    "prompt": "Write one classroom observation and a question about the teacher’s wording.",
+    "explanation": "Separate what you heard from what you inferred. The question can help your teacher explain their choice of cue.",
+    "sourceIds": [
+      "training-outline"
+    ]
+  },
+  {
+    "id": "q-ethics",
+    "lessonId": "ethics-reflection",
+    "kind": "reflection",
+    "prompt": "A student declines an optional activity. What would you ask yourself before responding?",
+    "explanation": "Notice assumptions, boundaries and the student’s own words. Discuss your response with your teacher; this is reflection, not a scored ethics test.",
+    "sourceIds": [
+      "training-outline",
+      "ya-conduct"
+    ]
+  },
+  {
+    "id": "q-feedback",
+    "lessonId": "feedback-loop",
+    "kind": "reflection",
+    "prompt": "What is one specific thing you want a peer to notice in your next rehearsal?",
+    "explanation": "A focused request could concern a pause, clarity of wording or timing. Keep one next step after the feedback.",
+    "sourceIds": [
+      "training-outline"
+    ]
+  },
+  {
+    "id": "q-body-medial",
+    "lessonId": "body-language",
+    "kind": "choice",
+    "prompt": "Which direction is toward the body’s midline?",
+    "options": [
+      {
+        "id": "medial",
+        "text": "Medial"
+      },
+      {
+        "id": "lateral",
+        "text": "Lateral"
+      }
+    ],
+    "answer": "medial",
+    "explanation": "Medial means toward the midline; lateral means away from it.",
+    "sourceIds": [
+      "os-terms"
+    ]
+  },
+  {
+    "id": "q-body-proximal",
+    "lessonId": "body-language",
+    "kind": "choice",
+    "prompt": "The elbow is ___ to the wrist.",
+    "options": [
+      {
+        "id": "proximal",
+        "text": "Proximal"
+      },
+      {
+        "id": "distal",
+        "text": "Distal"
+      }
+    ],
+    "answer": "proximal",
+    "explanation": "The elbow lies closer to the limb’s attachment, so it is proximal to the wrist.",
+    "sourceIds": [
+      "os-terms"
+    ]
+  },
+  {
+    "id": "q-movement-out",
+    "lessonId": "movement-words",
+    "kind": "choice",
+    "prompt": "An arm moves away from the midline. What is the term?",
+    "options": [
+      {
+        "id": "adduction",
+        "text": "Adduction"
+      },
+      {
+        "id": "abduction",
+        "text": "Abduction"
+      }
+    ],
+    "answer": "abduction",
+    "explanation": "Shoulder abduction moves the arm away from the midline.",
+    "sourceIds": [
+      "os-movement"
+    ]
+  },
+  {
+    "id": "q-movement-straight",
+    "lessonId": "movement-words",
+    "kind": "choice",
+    "prompt": "Straightening a bent knee is called…",
+    "options": [
+      {
+        "id": "extension",
+        "text": "Extension"
+      },
+      {
+        "id": "flexion",
+        "text": "Flexion"
+      }
+    ],
+    "answer": "extension",
+    "explanation": "Extension increases the angle between bones at the knee.",
+    "sourceIds": [
+      "os-movement"
+    ]
+  },
+  {
+    "id": "q-nervous-pns",
+    "lessonId": "nervous-basics",
+    "kind": "choice",
+    "prompt": "Peripheral nerves and ganglia belong to…",
+    "options": [
+      {
+        "id": "cns",
+        "text": "CNS"
+      },
+      {
+        "id": "pns",
+        "text": "PNS"
+      }
+    ],
+    "answer": "pns",
+    "explanation": "Nerves and ganglia outside the CNS belong to the peripheral nervous system.",
+    "sourceIds": [
+      "os-nerves"
+    ]
+  },
+  {
+    "id": "q-nervous-function",
+    "lessonId": "nervous-basics",
+    "kind": "choice",
+    "prompt": "Which describes a function, rather than an anatomical division?",
+    "options": [
+      {
+        "id": "cns",
+        "text": "Central nervous system"
+      },
+      {
+        "id": "integration",
+        "text": "Integration"
+      }
+    ],
+    "answer": "integration",
+    "explanation": "Integration is processing information; CNS is an anatomical division.",
+    "sourceIds": [
+      "os-nerves"
+    ]
+  },
+  {
+    "id": "q-pose-knee",
+    "lessonId": "pose-observation",
+    "kind": "choice",
+    "prompt": "Which movement word describes the bent knee in this example?",
+    "options": [
+      {
+        "id": "flexion",
+        "text": "Flexion"
+      },
+      {
+        "id": "extension",
+        "text": "Extension"
+      }
+    ],
+    "answer": "flexion",
+    "explanation": "The knee is flexed: the angle between the bones is smaller than in the straightened position.",
+    "sourceIds": [
+      "os-movement"
+    ]
+  },
+  {
+    "id": "q-breath-diaphragm",
+    "lessonId": "breathing-basics",
+    "kind": "choice",
+    "prompt": "During inspiration, the diaphragm…",
+    "explanation": "Contraction moves the diaphragm downward, increasing chest volume.",
+    "sourceIds": [
+      "os-breath"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Contracts and descends"
+      },
+      {
+        "id": "1",
+        "text": "Relaxes and rises"
+      }
+    ]
+  },
+  {
+    "id": "q-breath-pressure",
+    "lessonId": "breathing-basics",
+    "kind": "choice",
+    "prompt": "Air enters when pressure inside the lungs is…",
+    "explanation": "Air moves down a pressure gradient into the lungs.",
+    "sourceIds": [
+      "os-breath"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Lower than atmospheric pressure"
+      },
+      {
+        "id": "1",
+        "text": "Higher than atmospheric pressure"
+      }
+    ]
+  },
+  {
+    "id": "q-breath-recoil",
+    "lessonId": "breathing-basics",
+    "kind": "choice",
+    "prompt": "Quiet expiration is mainly…",
+    "explanation": "Quiet expiration is largely passive; forced expiration recruits additional muscles.",
+    "sourceIds": [
+      "os-breath"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Passive elastic recoil"
+      },
+      {
+        "id": "1",
+        "text": "A forceful abdominal effort"
+      }
+    ]
+  },
+  {
+    "id": "q-muscle-antagonist",
+    "lessonId": "muscle-roles",
+    "kind": "choice",
+    "prompt": "Which term names a muscle with the opposing action?",
+    "explanation": "An antagonist opposes the action; a synergist assists it.",
+    "sourceIds": [
+      "os-muscles"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Antagonist"
+      },
+      {
+        "id": "1",
+        "text": "Synergist"
+      }
+    ]
+  },
+  {
+    "id": "q-muscle-tendon",
+    "lessonId": "muscle-roles",
+    "kind": "choice",
+    "prompt": "What transmits muscle tension to bone?",
+    "explanation": "Tendons connect muscle to bone and transmit tension.",
+    "sourceIds": [
+      "os-muscles"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Tendon"
+      },
+      {
+        "id": "1",
+        "text": "Airway"
+      }
+    ]
+  },
+  {
+    "id": "q-muscle-role",
+    "lessonId": "muscle-roles",
+    "kind": "choice",
+    "prompt": "Agonist and antagonist roles…",
+    "explanation": "Roles change when the action changes, as with elbow flexion and extension.",
+    "sourceIds": [
+      "os-muscles"
+    ],
+    "answer": "0",
+    "options": [
+      {
+        "id": "0",
+        "text": "Depend on the action"
+      },
+      {
+        "id": "1",
+        "text": "Are permanent labels for each muscle"
+      }
+    ]
+  },
+  {
+    "id": "q-styles-vinyasa",
+    "lessonId": "yoga-styles",
+    "kind": "choice",
+    "prompt": "Which style can vary its flow from class to class?",
+    "options": [
+      {
+        "id": "0",
+        "text": "Vinyasa"
+      },
+      {
+        "id": "1",
+        "text": "Ashtanga Vinyasa"
+      }
+    ],
+    "answer": "0",
+    "explanation": "Vinyasa links movement with breath in sequences that can vary. Ashtanga Vinyasa uses established series.",
+    "sourceIds": [
+      "ye-vinyasa",
+      "ye-ashtanga"
+    ]
+  },
+  {
+    "id": "q-styles-yin",
+    "lessonId": "yoga-styles",
+    "kind": "choice",
+    "prompt": "Which style emphasises longer-held, passive poses?",
+    "options": [
+      {
+        "id": "0",
+        "text": "Yin"
+      },
+      {
+        "id": "1",
+        "text": "Vinyasa"
+      }
+    ],
+    "answer": "0",
+    "explanation": "Yin usually uses passive floor poses with longer periods of stillness.",
+    "sourceIds": [
+      "ye-yin"
+    ]
+  },
+  {
+    "id": "q-styles-hatha",
+    "lessonId": "yoga-styles",
+    "kind": "choice",
+    "prompt": "Does a Hatha class label guarantee an easy class?",
+    "options": [
+      {
+        "id": "0",
+        "text": "No — the teacher and class matter"
+      },
+      {
+        "id": "1",
+        "text": "Yes — Hatha is always easy"
+      }
+    ],
+    "answer": "0",
+    "explanation": "Hatha is a broad term. A class name alone does not tell you its difficulty.",
+    "sourceIds": [
+      "ye-hatha"
+    ]
+  },
+  {
+    "id": "q-connective-tendon",
+    "lessonId": "connective-basics",
+    "kind": "choice",
+    "prompt": "What attaches a muscle to bone?",
+    "options": [
+      {
+        "id": "0",
+        "text": "A ligament"
+      },
+      {
+        "id": "1",
+        "text": "A tendon"
+      },
+      {
+        "id": "2",
+        "text": "Articular cartilage"
+      }
+    ],
+    "answer": "1",
+    "explanation": "A tendon connects muscle to bone and transfers muscle force.",
+    "sourceIds": [
+      "os-connective"
+    ]
+  },
+  {
+    "id": "q-connective-ligament",
+    "lessonId": "connective-basics",
+    "kind": "choice",
+    "prompt": "At a joint, a ligament connects…",
+    "options": [
+      {
+        "id": "0",
+        "text": "Bone to bone"
+      },
+      {
+        "id": "1",
+        "text": "Muscle to muscle"
+      },
+      {
+        "id": "2",
+        "text": "Muscle to bone"
+      }
+    ],
+    "answer": "0",
+    "explanation": "Ligaments connect bones and help support the joint.",
+    "sourceIds": [
+      "os-joints"
+    ]
+  },
+  {
+    "id": "q-connective-cartilage",
+    "lessonId": "connective-basics",
+    "kind": "choice",
+    "prompt": "In this synovial-joint diagram, articular cartilage…",
+    "options": [
+      {
+        "id": "0",
+        "text": "Fills the whole joint space"
+      },
+      {
+        "id": "1",
+        "text": "Pulls on the bone like a muscle"
+      },
+      {
+        "id": "2",
+        "text": "Covers the facing bone surfaces"
+      }
+    ],
+    "answer": "2",
+    "explanation": "Separate cartilage layers cover the facing bone surfaces. The joint space remains between them.",
+    "sourceIds": [
+      "os-joints"
+    ]
+  },
+  {
+    "id": "q-skeleton-ribs",
+    "lessonId": "skeleton-basics",
+    "kind": "choice",
+    "prompt": "The rib cage belongs to which division?",
+    "options": [
+      {
+        "id": "0",
+        "text": "Appendicular"
+      },
+      {
+        "id": "1",
+        "text": "Axial"
+      }
+    ],
+    "answer": "1",
+    "explanation": "The rib cage is part of the axial skeleton, along with the skull and vertebral column.",
+    "sourceIds": [
+      "os-skeleton"
+    ]
+  },
+  {
+    "id": "q-skeleton-shoulder",
+    "lessonId": "skeleton-basics",
+    "kind": "choice",
+    "prompt": "The clavicles and scapulae belong to…",
+    "options": [
+      {
+        "id": "0",
+        "text": "The appendicular skeleton"
+      },
+      {
+        "id": "1",
+        "text": "The axial skeleton"
+      }
+    ],
+    "answer": "0",
+    "explanation": "The clavicles and scapulae are appendicular. They form the shoulder girdles that attach the upper limbs.",
+    "sourceIds": [
+      "os-shoulder-girdle"
+    ]
+  },
+  {
+    "id": "q-skeleton-sacrum",
+    "lessonId": "skeleton-basics",
+    "kind": "choice",
+    "prompt": "Which pair is correctly grouped?",
+    "options": [
+      {
+        "id": "0",
+        "text": "Sacrum — appendicular; hip bones — axial"
+      },
+      {
+        "id": "1",
+        "text": "Sacrum — axial; hip bones — appendicular"
+      }
+    ],
+    "answer": "1",
+    "explanation": "The sacrum is part of the vertebral column. The hip bones form the appendicular pelvic girdle.",
+    "sourceIds": [
+      "os-pelvic-girdle"
+    ]
+  },
+  {
+    "id": "q-circulation-lungs",
+    "lessonId": "circulation-basics",
+    "kind": "choice",
+    "prompt": "Which circuit travels from the right side of the heart to the lungs?",
+    "options": [{"id":"pulmonary","text":"Pulmonary"},{"id":"systemic","text":"Systemic"}],
+    "answer": "pulmonary",
+    "explanation": "The pulmonary circuit goes to the lungs and returns blood to the left side of the heart.",
+    "sourceIds": ["os-circulation"]
+  },
+  {
+    "id": "q-circulation-body",
+    "lessonId": "circulation-basics",
+    "kind": "choice",
+    "prompt": "Which side of the heart sends blood through the body?",
+    "options": [{"id":"left","text":"Left side"},{"id":"right","text":"Right side"}],
+    "answer": "left",
+    "explanation": "The systemic circuit starts on the left side of the heart and returns to its right side.",
+    "sourceIds": ["os-circulation"]
+  },
+  {
+    "id": "q-circulation-vessels",
+    "lessonId": "circulation-basics",
+    "kind": "choice",
+    "prompt": "In either circuit, which vessels carry blood away from the heart?",
+    "options": [{"id":"arteries","text":"Arteries"},{"id":"veins","text":"Veins"}],
+    "answer": "arteries",
+    "explanation": "Arteries carry blood away from the heart; veins return it. Oxygen level does not define the vessel type.",
+    "sourceIds": ["os-circulation"]
+  },
+  {
+    "id": "q-room-group",
+    "lessonId": "read-the-room",
+    "kind": "choice",
+    "prompt": "What belongs to group dynamics in a class?",
+    "options": [
+      {"id": "responses", "text": "How people respond to cues together"},
+      {"id": "solo", "text": "Only the teacher's own pose ability"}
+    ],
+    "answer": "responses",
+    "explanation": "Yoga Alliance places group dynamics within class management. Notice the group, then discuss what you observed with your trainer.",
+    "sourceIds": ["ya-rys200"]
+  },
+  {
+    "id": "q-room-pace",
+    "lessonId": "read-the-room",
+    "kind": "choice",
+    "prompt": "Which question helps you notice a class's pace?",
+    "options": [
+      {"id": "transitions", "text": "How much time did transitions receive?"},
+      {"id": "fixed", "text": "Did everyone move at exactly one speed?"}
+    ],
+    "answer": "transitions",
+    "explanation": "Pace is a teaching-methodology topic. Timing a transition is one concrete thing you can observe in rehearsal.",
+    "sourceIds": ["ya-rys200"]
+  },
+  {
+    "id": "q-room-individual",
+    "lessonId": "read-the-room",
+    "kind": "choice",
+    "prompt": "A learner joins in differently from others. What is a better first response?",
+    "options": [
+      {"id": "ask", "text": "Ask what supports their participation, within your teaching scope"},
+      {"id": "assume", "text": "Assume what they need from appearance alone"}
+    ],
+    "answer": "ask",
+    "explanation": "Yoga Alliance's Code encourages inclusion. Asking avoids guessing; discuss your cohort's approach with your trainer.",
+    "sourceIds": ["ya-code", "ya-rys200"]
+  },
+  {
+    "id": "q-room-reflect",
+    "lessonId": "read-the-room",
+    "kind": "reflection",
+    "prompt": "Which moment in a recent class would you ask your trainer about?",
+    "explanation": "Keep this as a question for your own training. It is not scored or compared with a school rubric.",
+    "sourceIds": ["training-outline", "ya-rys200"]
+  },
+  {
+    "id": "q-ahimsa-text",
+    "lessonId": "ahimsa-in-action",
+    "kind": "choice",
+    "prompt": "Where does Yoga Sūtra II.30 place ahiṃsā?",
+    "options": [
+      {"id": "yamas", "text": "Among the yamas, or ethical restraints"},
+      {"id": "anatomy", "text": "Among the body's anatomical systems"}
+    ],
+    "answer": "yamas",
+    "explanation": "The passage lists ahiṃsā with the yamas. This lesson only introduces one term from that text.",
+    "sourceIds": ["harvard-ahimsa"]
+  },
+  {
+    "id": "q-ahimsa-consent",
+    "lessonId": "ahimsa-in-action",
+    "kind": "choice",
+    "prompt": "A student declines a physical assist. What fits the modern consent principle?",
+    "options": [
+      {"id": "respect", "text": "Respect the choice and leave space"},
+      {"id": "assume", "text": "Continue because the teacher believes it will help"}
+    ],
+    "answer": "respect",
+    "explanation": "Yoga Alliance's Code requires explicit, informed consent before physical assistance. Ask your own trainer how this is taught in your cohort.",
+    "sourceIds": ["ya-code"]
+  },
+  {
+    "id": "q-ahimsa-reflect",
+    "lessonId": "ahimsa-in-action",
+    "kind": "reflection",
+    "prompt": "Where might you ask instead of assume in a class?",
+    "explanation": "Keep this as a personal question for your teacher; it is not scored as a moral or certification assessment.",
+    "sourceIds": ["harvard-ahimsa", "ya-code"]
+  },
+  {
+    "id": "q-benefit-claim",
+    "lessonId": "benefits-and-cautions",
+    "kind": "choice",
+    "prompt": "Which statement describes research more carefully?",
+    "options": [
+      {"id": "possible", "text": "Yoga may support some wellness outcomes; results vary"},
+      {"id": "promise", "text": "Every yoga practice produces the same benefit for everyone"}
+    ],
+    "answer": "possible",
+    "explanation": "NIH summarizes possible benefits while noting differences among programs and people. A possibility is not a promise.",
+    "sourceIds": ["nccih-yoga-safety"]
+  },
+  {
+    "id": "q-benefit-context",
+    "lessonId": "benefits-and-cautions",
+    "kind": "choice",
+    "prompt": "Someone asks whether a pose is suitable for their health condition. What is a responsible next step?",
+    "options": [
+      {"id": "discuss", "text": "Discuss individual needs with their healthcare professional and qualified instructor"},
+      {"id": "guarantee", "text": "Use a generic pose picture as a personal safety decision"}
+    ],
+    "answer": "discuss",
+    "explanation": "Individual circumstances matter. This study aid does not decide what is safe for a particular person.",
+    "sourceIds": ["nccih-yoga-safety", "ya-scope"]
+  },
+  {
+    "id": "q-benefit-reflect",
+    "lessonId": "benefits-and-cautions",
+    "kind": "reflection",
+    "prompt": "What question about benefits or cautions would you bring to your trainer?",
+    "explanation": "Keep this as an ungraded question. Your teacher's protocol and appropriate health professionals guide individual decisions.",
+    "sourceIds": ["training-outline", "nccih-yoga-safety"]
+  },
+  {
+    "id": "q-boundaries-teach",
+    "lessonId": "teaching-boundaries",
+    "kind": "choice",
+    "prompt": "What should shape the yoga you teach?",
+    "options": [
+      {"id": "training", "text": "Your training, experience and teacher guidance"},
+      {"id": "guess", "text": "Whatever sounds helpful, even outside your training"}
+    ],
+    "answer": "training",
+    "explanation": "Yoga Alliance describes teaching within qualified training and experience. Ask your cohort teacher about their expectations.",
+    "sourceIds": ["ya-scope"]
+  },
+  {
+    "id": "q-boundaries-refer",
+    "lessonId": "teaching-boundaries",
+    "kind": "choice",
+    "prompt": "A learner asks for advice beyond your qualifications. What is a better response?",
+    "options": [
+      {"id": "refer", "text": "Pause and suggest an appropriately qualified professional"},
+      {"id": "answer", "text": "Give a confident answer anyway"}
+    ],
+    "answer": "refer",
+    "explanation": "The Scope of Practice limits advice outside a teacher's credentials and competence. This question does not test the school's assessment rules.",
+    "sourceIds": ["ya-scope"]
+  },
+  {
+    "id": "q-boundaries-reflect",
+    "lessonId": "teaching-boundaries",
+    "kind": "reflection",
+    "prompt": "What question would you take to your trainer rather than answer alone?",
+    "explanation": "Keep this as an ungraded prompt to discuss with your teacher.",
+    "sourceIds": ["ya-scope", "training-outline"]
+  },
+  {
+    "id": "q-restorative-concept",
+    "lessonId": "restorative-principles",
+    "kind": "choice",
+    "prompt": "Which feature fits a restorative approach?",
+    "options": [
+      {"id": "supported", "text": "Supported positions with space to rest"},
+      {"id": "fixed", "text": "One fixed setup for every person"}
+    ],
+    "answer": "supported",
+    "explanation": "Restorative classes commonly use props and longer pauses. A teacher guides practical setup and adaptation.",
+    "sourceIds": ["yj-restorative"]
+  },
+  {
+    "id": "q-restorative-reflect",
+    "lessonId": "restorative-principles",
+    "kind": "reflection",
+    "prompt": "Which part of a restorative setup would you ask your trainer to demonstrate?",
+    "explanation": "This is an ungraded course question, not an instruction to set up a pose alone.",
+    "sourceIds": ["training-outline", "yj-restorative"]
+  },
+  {
+    "id": "q-variation-concept",
+    "lessonId": "individual-variation",
+    "kind": "choice",
+    "prompt": "What can an anatomy diagram tell you about a student's movement?",
+    "options": [
+      {"id": "concept", "text": "The kind of movement a joint can make"},
+      {"id": "target", "text": "The exact range every student should reach"}
+    ],
+    "answer": "concept",
+    "explanation": "Joint structure helps describe movement. A drawing is not an individual assessment or target.",
+    "sourceIds": ["os-joints", "ya-rys200"]
+  },
+  {
+    "id": "q-variation-reflect",
+    "lessonId": "individual-variation",
+    "kind": "reflection",
+    "prompt": "What would you ask before assuming one movement cue fits everyone?",
+    "explanation": "Bring your question to your trainer; this does not assess a person's body or teach an adaptation.",
+    "sourceIds": ["ya-rys200"]
+  },
+  {
+    "id": "q-teaching-prepare",
+    "lessonId": "teaching-essentials",
+    "kind": "choice",
+    "prompt": "Which belongs to professional class preparation?",
+    "options": [
+      {"id": "welcome", "text": "A welcoming space and consistent preparation"},
+      {"id": "assume", "text": "Assuming every student needs the same approach"}
+    ],
+    "answer": "welcome",
+    "explanation": "The RYS 200 standards include welcoming environments and general professionalism; ask your trainer for the cohort's own expectations.",
+    "sourceIds": ["ya-rys200"]
+  },
+  {
+    "id": "q-teaching-learn",
+    "lessonId": "teaching-essentials",
+    "kind": "choice",
+    "prompt": "What helps turn a rehearsal into learning?",
+    "options": [
+      {"id": "feedback", "text": "Specific feedback and one next step"},
+      {"id": "repeat", "text": "Repeating without listening or reflection"}
+    ],
+    "answer": "feedback",
+    "explanation": "Yoga Alliance describes mentorship and feedback in practicum; the course trainer determines how it works here.",
+    "sourceIds": ["ya-rys200"]
+  },
+  {
+    "id": "q-teaching-share",
+    "lessonId": "teaching-essentials",
+    "kind": "choice",
+    "prompt": "Which class description is more responsible?",
+    "options": [
+      {"id": "accurate", "text": "A clear approach and accurate account of your training"},
+      {"id": "promise", "text": "An unsupported promise about results"}
+    ],
+    "answer": "accurate",
+    "explanation": "Yoga Alliance's Code calls for honest communication about training and no exaggerated effects claims.",
+    "sourceIds": ["ya-code"]
+  },
+  {
+    "id": "q-teaching-reflect",
+    "lessonId": "teaching-essentials",
+    "kind": "reflection",
+    "prompt": "Which teacher quality or learning step would you ask your trainer to observe?",
+    "explanation": "Use this as an ungraded question for your course trainer, not as a certification assessment.",
+    "sourceIds": ["training-outline", "ya-rys200"]
+  },
+  {
+    "id": "q-hatha-image",
+    "lessonId": "hatha-first-light",
+    "kind": "choice",
+    "prompt": "What image appears in this translation of the opening Haṭha verse?",
+    "options": [
+      {"id": "ladder", "text": "A ladder toward Rāja Yoga"},
+      {"id": "race", "text": "A race toward a perfect pose"}
+    ],
+    "answer": "ladder",
+    "explanation": "The Centre for Yoga Studies translation of chapter 1, verse 1 uses a ladder image for the relationship between Haṭha and Rāja Yoga.",
+    "sourceIds": ["cys-hatha-1"]
+  },
+  {
+    "id": "q-hatha-reflect",
+    "lessonId": "hatha-first-light",
+    "kind": "reflection",
+    "prompt": "Which verse or interpretation would you ask your trainer to explain?",
+    "explanation": "Keep the verse number and translation beside your question; this is not a scored tradition test.",
+    "sourceIds": ["cys-hatha-1", "training-outline"]
+  }
+]

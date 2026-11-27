@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "warrior-ii",
+    "slug": "warrior-ii",
+    "englishName": "Warrior II",
+    "sanskritName": "Virabhadrasana II",
+    "category": "Standing",
+    "aliases": [
+      "Warrior 2",
+      "Virabhadrasana 2",
+      "Vīrabhadrāsana II"
+    ],
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "pose-observation",
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "warrior-ii",
+    "anatomyAssetIds": [
+      "os-regions"
+    ],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-warrior",
+      "os-movement"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "summary": "Warrior II is a wide standing pose with one knee bent and the back leg extended. Both arms reach in opposite directions, creating a long line across the shoulders. The animation helps you see how the bent leg, long leg, and open arms relate to one another."
+  },
+  {
+    "id": "mountain",
+    "slug": "mountain",
+    "englishName": "Mountain",
+    "sanskritName": "Tadasana",
+    "aliases": [
+      "Mountain pose",
+      "Tāḍāsana"
+    ],
+    "category": "Standing",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "mountain-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "ye-mountain",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Beside the body.",
+        "text": "Notice the upper limbs beside the trunk in this illustration."
+      },
+      {
+        "regionId": "hip",
+        "title": "Connect the regions.",
+        "text": "Locate the pelvis between the trunk and the lower limbs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Find the joint.",
+        "text": "Locate each knee between the hip and ankle. Compare with Chair’s bent-knee illustration."
+      }
+    ],
+    "summary": "Mountain is an upright standing pose with both feet on the floor and the arms beside the body. Its simple outline makes the relative positions of the head, trunk, pelvis, and legs easier to see. Watch how the figure moves into an even, quiet standing shape."
+  },
+  {
+    "id": "chair",
+    "slug": "chair",
+    "englishName": "Chair",
+    "sanskritName": "Utkatasana",
+    "aliases": [
+      "Chair pose",
+      "Utkaṭāsana"
+    ],
+    "category": "Standing",
+    "regionIds": [
+      "knee",
+      "hip",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "chair-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "aol-chair",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "knee",
+        "title": "A visible bend.",
+        "text": "The bent-knee shape illustrates flexion: a smaller angle between thigh and lower leg."
+      },
+      {
+        "regionId": "hip",
+        "title": "Trunk meets thigh.",
+        "text": "Locate the hip region and observe the angle between trunk and thigh."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Follow the arms.",
+        "text": "Locate the shoulders below the raised arms. The drawing is a shape study, not an alignment target."
+      }
+    ],
+    "summary": "Chair keeps both feet on the floor while the knees bend and the hips move back, as if sitting toward an unseen seat. The torso stays lifted and the arms reach overhead. The animation shows how the knees, hips, and shoulders change position together."
+  },
+  {
+    "id": "tree",
+    "slug": "tree",
+    "englishName": "Tree",
+    "sanskritName": "Vrksasana",
+    "aliases": [
+      "Tree pose",
+      "Vrikshasana",
+      "Vṛkṣāsana"
+    ],
+    "category": "Balance",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "tree-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "ye-tree",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Compare the sides.",
+        "text": "One lower limb is drawn out to the side. Compare its position with the supporting limb."
+      },
+      {
+        "regionId": "knee",
+        "title": "Two different shapes.",
+        "text": "One knee is drawn bent. Name the bending action: flexion."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Trace the upper limb.",
+        "text": "Follow the shoulder, elbow and wrist in order. Which is most distal?"
+      }
+    ],
+    "summary": "Tree shifts a standing shape onto one leg while the other knee opens to the side. The supporting leg forms a long vertical line beneath the torso, while the bent leg changes the silhouette. Watch the transition from two feet on the floor to a one-leg balance."
+  },
+  {
+    "id": "downward-dog",
+    "slug": "downward-dog",
+    "englishName": "Downward-Facing Dog",
+    "sanskritName": "Adho Mukha Svanasana",
+    "aliases": [
+      "Down dog",
+      "Downward dog",
+      "Adho Mukha Śvānāsana"
+    ],
+    "category": "Hands & feet",
+    "regionIds": [
+      "hip",
+      "shoulder",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "downward-dog-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "ye-dog",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "The top of the shape.",
+        "text": "Find the hip region at the top of this inverted-V silhouette."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Connect arm and trunk.",
+        "text": "Trace the arms from the hands to the shoulders, where they meet the trunk."
+      },
+      {
+        "regionId": "knee",
+        "title": "Locate, then describe.",
+        "text": "Find the knees between the hips and ankles. People’s pose shapes can differ; use your teacher’s guidance."
+      }
+    ],
+    "summary": "Downward-Facing Dog forms an upside-down V, with the hands and feet supporting opposite ends of the shape. The hips sit high between the arms and legs, and the head hangs between the upper arms. The animation makes the whole outline easier to recognize."
+  },
+  {
+    "id": "easy-pose",
+    "slug": "easy-pose",
+    "englishName": "Easy Pose",
+    "sanskritName": "Sukhasana",
+    "aliases": [
+      "Easy Seat",
+      "Sukhāsana"
+    ],
+    "category": "Seated",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "easy-pose-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "ya-rys200",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A seated meeting.",
+        "text": "Find where the trunk meets the folded legs in this illustration."
+      },
+      {
+        "regionId": "knee",
+        "title": "Two bends.",
+        "text": "Both knees are bent in the drawing; compare their position with Mountain."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Trace the arms.",
+        "text": "Follow each upper limb from shoulder to hand."
+      }
+    ],
+    "summary": "Easy Pose is a cross-legged seat often used as a base for quiet breathing or meditation. The legs fold in front of the pelvis while the torso remains upright. Compare the positions of the hips, knees, and shoulders as the figure settles into the seated shape."
+  },
+  {
+    "id": "savasana",
+    "slug": "savasana",
+    "englishName": "Corpse Pose",
+    "sanskritName": "Savasana",
+    "aliases": [
+      "Final Rest",
+      "Shavasana",
+      "Śavāsana"
+    ],
+    "category": "Resting",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "savasana-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "ya-rys200",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Beside the trunk.",
+        "text": "Find each shoulder and follow the arm away from the torso."
+      },
+      {
+        "regionId": "hip",
+        "title": "Across the pelvis.",
+        "text": "Locate the hip region between trunk and legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "A long shape.",
+        "text": "The knees appear lengthened in this sample drawing; resting shapes can differ."
+      }
+    ],
+    "summary": "Corpse Pose is a resting shape lying on the back, with the limbs supported by the floor. Unlike standing or balancing poses, the body does not need to hold itself upright. The gentle animation keeps attention on its open, settled outline."
+  },
+  {
+    "id": "warrior-i",
+    "slug": "warrior-i",
+    "englishName": "Warrior I",
+    "sanskritName": "Virabhadrasana I",
+    "aliases": [
+      "Warrior 1",
+      "Vīrabhadrāsana I"
+    ],
+    "category": "Standing",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "warrior-i-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Above the trunk.",
+        "text": "Follow the illustrated arms upward from the shoulders."
+      },
+      {
+        "regionId": "hip",
+        "title": "Between two legs.",
+        "text": "Find the pelvis between the trunk and the two differently placed legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Compare the legs.",
+        "text": "The front knee is bent while the back leg appears longer in this drawing."
+      }
+    ],
+    "summary": "Warrior I is a wide, lunge-like standing pose with the front knee bent and the back leg reaching behind. The arms extend overhead, making the upper body look tall. Compared with Warrior II, its arms reach upward rather than out to the sides."
+  },
+  {
+    "id": "triangle",
+    "slug": "triangle",
+    "englishName": "Triangle",
+    "sanskritName": "Utthita Trikonasana",
+    "aliases": [
+      "Extended Triangle",
+      "Trikoṇāsana"
+    ],
+    "category": "Standing",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "triangle-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Two directions.",
+        "text": "Trace the upper and lower arms from their shoulders."
+      },
+      {
+        "regionId": "hip",
+        "title": "Where the trunk turns.",
+        "text": "Locate the pelvis beneath the angled torso in the drawing."
+      },
+      {
+        "regionId": "knee",
+        "title": "Wide base.",
+        "text": "Find both knees between the hips and the separated feet."
+      }
+    ],
+    "summary": "Triangle uses a wide standing base with both legs long. The torso angles to one side while the arms extend apart, giving the pose its distinctive angular outline. Compare the long lines of the legs and arms with the sideways movement of the trunk."
+  },
+  {
+    "id": "low-lunge",
+    "slug": "low-lunge",
+    "englishName": "Low Lunge",
+    "sanskritName": "Anjaneyasana",
+    "aliases": [
+      "Anjaneyāsana",
+      "Low Crescent Lunge"
+    ],
+    "category": "Lunge",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "low-lunge-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Middle of the shape.",
+        "text": "Locate the pelvis between the upright trunk and two legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Two different bends.",
+        "text": "Compare the front and back knees in this illustrated lunge."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Follow the reach.",
+        "text": "Trace the upper arms from the shoulders in the drawing."
+      }
+    ],
+    "summary": "Low Lunge places one foot forward with that knee bent and the other knee lowered toward the floor. This makes its base lower than the standing Warrior poses. Notice how the forward and trailing legs create different angles around the pelvis."
+  },
+  {
+    "id": "cobra",
+    "slug": "cobra",
+    "englishName": "Cobra",
+    "sanskritName": "Bhujangasana",
+    "aliases": [
+      "Cobra Pose",
+      "Bhujaṅgāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "cobra-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Near the chest.",
+        "text": "Find the shoulders above the illustrated hands."
+      },
+      {
+        "regionId": "hip",
+        "title": "Close to the floor.",
+        "text": "Locate the pelvis near the base of the torso in this drawing."
+      },
+      {
+        "regionId": "knee",
+        "title": "Behind the hips.",
+        "text": "Trace each lower limb from hip through knee toward foot."
+      }
+    ],
+    "summary": "Cobra is a backbend that begins lying face down. The chest lifts while the pelvis and legs stay close to the floor, creating a curve through the upper body. The illustration highlights the contrast between that rising chest and the grounded lower body."
+  },
+  {
+    "id": "childs-pose",
+    "slug": "childs-pose",
+    "englishName": "Child's Pose",
+    "sanskritName": "Balasana",
+    "aliases": [
+      "Child Pose",
+      "Bālāsana"
+    ],
+    "category": "Resting",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "childs-pose-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A folded silhouette.",
+        "text": "Find where the trunk meets the lower limbs in this illustration."
+      },
+      {
+        "regionId": "knee",
+        "title": "Find the bends.",
+        "text": "The knees are bent beneath the body in the drawing."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Trace forward.",
+        "text": "Follow each arm from shoulder toward hand."
+      }
+    ],
+    "summary": "Child's Pose is a kneeling fold with the torso lowered toward the thighs and the arms extending forward. Its low, compact outline contrasts with the tall standing poses. Look at how the hips, spine, and arms create a continuous path toward the floor."
+  },
+  {
+    "id": "standing-forward-bend",
+    "slug": "standing-forward-bend",
+    "englishName": "Standing Forward Bend",
+    "sanskritName": "Uttanasana",
+    "aliases": [
+      "Standing Forward Fold"
+    ],
+    "category": "Forward fold",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "standing-forward-bend-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A folded shape.",
+        "text": "Find the pelvis where the trunk angles toward the legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Below the hips.",
+        "text": "Trace each leg through the knee toward the foot."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Arms below the head.",
+        "text": "Follow the shoulders into the hanging arms in this drawing."
+      }
+    ],
+    "summary": "Standing Forward Bend brings the torso down toward the legs from a standing base. The head and arms follow the direction of the fold, changing the figure from tall to downward-reaching. The animation makes that change in overall outline easier to see."
+  },
+  {
+    "id": "extended-side-angle",
+    "slug": "extended-side-angle",
+    "englishName": "Extended Side Angle",
+    "sanskritName": "Utthita Parsvakonasana",
+    "aliases": [
+      "Side Angle Pose",
+      "Utthita Pārśvakoṇāsana"
+    ],
+    "category": "Standing",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "extended-side-angle-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Over a wide base.",
+        "text": "Find the pelvis between the bent front leg and the longer back leg."
+      },
+      {
+        "regionId": "knee",
+        "title": "Compare the legs.",
+        "text": "One knee bends while the other leg makes a longer line."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Two reaches.",
+        "text": "Trace one arm down and the other away from the torso."
+      }
+    ],
+    "summary": "Extended Side Angle begins from a wide stance with one knee bent. The torso reaches across that side and one arm extends along a diagonal, lengthening the outline from the back leg to the fingertips. Compare its bent front leg with the straighter legs of Triangle."
+  },
+  {
+    "id": "warrior-iii",
+    "slug": "warrior-iii",
+    "englishName": "Warrior III",
+    "sanskritName": "Virabhadrasana III",
+    "aliases": [
+      "Warrior 3",
+      "Vīrabhadrāsana III"
+    ],
+    "category": "Balance",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "warrior-iii-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A balancing center.",
+        "text": "Locate the pelvis between the supporting and lifted legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "One supporting leg.",
+        "text": "Find the knee between the grounded hip and foot."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Forward reach.",
+        "text": "Follow the shoulders into the arms extending ahead."
+      }
+    ],
+    "summary": "Warrior III balances on one leg while the torso angles forward and the other leg reaches back. These parts form a long shape that is closer to horizontal than the other Warrior poses. Watch how the standing leg supports the two extended ends."
+  },
+  {
+    "id": "eagle",
+    "slug": "eagle",
+    "englishName": "Eagle",
+    "sanskritName": "Garudasana",
+    "aliases": [
+      "Eagle Pose",
+      "Garuḍāsana"
+    ],
+    "category": "Balance",
+    "regionIds": [
+      "knee",
+      "hip",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "eagle-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "knee",
+        "title": "Crossed shapes.",
+        "text": "Find both bent knees, including the one on the lifted leg."
+      },
+      {
+        "regionId": "hip",
+        "title": "Above the standing leg.",
+        "text": "Locate the pelvis over the supporting foot."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Arms in front.",
+        "text": "Trace each upper arm from the shoulder toward the crossed forearms."
+      }
+    ],
+    "summary": "Eagle is a compact standing balance with bent knees and arms crossing in front of the body. Its limbs gather near the center, giving it a layered silhouette. Compared with Tree, the shape folds inward instead of opening the bent leg out to the side."
+  },
+  {
+    "id": "plank",
+    "slug": "plank",
+    "englishName": "Plank",
+    "sanskritName": "Phalakasana",
+    "aliases": [
+      "High Plank",
+      "Phalakāsana"
+    ],
+    "category": "Hands & feet",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "plank-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yi-plank",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Above the hands.",
+        "text": "Find where each arm meets the trunk in this illustration."
+      },
+      {
+        "regionId": "hip",
+        "title": "Along the line.",
+        "text": "Locate the pelvis between the shoulders and legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Toward the feet.",
+        "text": "Trace the lower limbs through the knees toward the toes."
+      }
+    ],
+    "summary": "Plank is a hand-supported pose with the legs extending behind the body. From the side, the shoulders, hips, and heels form a long, nearly straight line. The hands and feet stay in contact with the floor while the torso spans the space between them."
+  },
+  {
+    "id": "upward-facing-dog",
+    "slug": "upward-facing-dog",
+    "englishName": "Upward-Facing Dog",
+    "sanskritName": "Urdhva Mukha Svanasana",
+    "aliases": [
+      "Up Dog",
+      "Ūrdhva Mukha Śvānāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "upward-facing-dog-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Beside the chest.",
+        "text": "Find the shoulders above the illustrated hands."
+      },
+      {
+        "regionId": "hip",
+        "title": "Lifted middle.",
+        "text": "Locate the pelvis between the curved trunk and extended legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Back along the legs.",
+        "text": "Trace the legs from the hips through the knees."
+      }
+    ],
+    "summary": "Upward-Facing Dog is a hand-supported backbend with the chest lifted and the legs reaching behind. The torso rises into an arch instead of Plank's straighter line. Compare the positions of the shoulders, hips, and legs across the two shapes."
+  },
+  {
+    "id": "cat",
+    "slug": "cat",
+    "englishName": "Cat",
+    "sanskritName": "Marjaryasana",
+    "aliases": [
+      "Cat Pose",
+      "Mārjāryāsana"
+    ],
+    "category": "Kneeling",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "cat-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Over the hands.",
+        "text": "Trace the upper limbs between shoulders and floor."
+      },
+      {
+        "regionId": "hip",
+        "title": "Over the knees.",
+        "text": "Find where the rounded trunk meets the lower limbs."
+      },
+      {
+        "regionId": "knee",
+        "title": "A kneeling base.",
+        "text": "Locate the bent knees underneath the pelvis."
+      }
+    ],
+    "summary": "Cat is a hands-and-knees pose in which the spine rounds upward and the head lowers. The back forms a dome between the shoulders and pelvis. Compare it with Cow to see how the same base can hold a different spinal curve."
+  },
+  {
+    "id": "cow",
+    "slug": "cow",
+    "englishName": "Cow",
+    "sanskritName": "Bitilasana",
+    "aliases": [
+      "Cow Pose",
+      "Biṭilāsana"
+    ],
+    "category": "Kneeling",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "cow-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "A broad front.",
+        "text": "Find the shoulders at the front of the curved trunk."
+      },
+      {
+        "regionId": "hip",
+        "title": "Behind the trunk.",
+        "text": "Locate the pelvis above the bent legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "A kneeling base.",
+        "text": "Compare the knees with those in the companion Cat drawing."
+      }
+    ],
+    "summary": "Cow shares Cat's hands-and-knees base but changes the curve of the spine. The chest moves forward and the belly lowers, creating an arch in the opposite direction. Switching between the two illustrations helps show how the overall outline changes."
+  },
+  {
+    "id": "bound-angle",
+    "slug": "bound-angle",
+    "englishName": "Bound Angle",
+    "sanskritName": "Baddha Konasana",
+    "aliases": [
+      "Butterfly Pose",
+      "Baddha Koṇāsana"
+    ],
+    "category": "Seated",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "bound-angle-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A seated center.",
+        "text": "Find the pelvis above the joined feet in this drawing."
+      },
+      {
+        "regionId": "knee",
+        "title": "Out to the sides.",
+        "text": "The bent knees appear on either side of the torso."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Above the seat.",
+        "text": "Trace the arms from shoulders toward the lower legs."
+      }
+    ],
+    "summary": "Bound Angle is a seated pose with the soles of the feet together and the knees opening to either side. The legs form a diamond-like outline in front of the pelvis. Compare it with Easy Pose, where the lower legs cross instead."
+  },
+  {
+    "id": "seated-forward-bend",
+    "slug": "seated-forward-bend",
+    "englishName": "Seated Forward Bend",
+    "sanskritName": "Paschimottanasana",
+    "aliases": [
+      "Seated Forward Fold",
+      "Paścimottānāsana"
+    ],
+    "category": "Forward fold",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "seated-forward-bend-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "The folding point.",
+        "text": "Find the pelvis between the reaching trunk and long legs."
+      },
+      {
+        "regionId": "knee",
+        "title": "Along the floor.",
+        "text": "Trace the knees between the hips and feet."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Reach ahead.",
+        "text": "Follow the arms forward from the shoulders in this drawing."
+      }
+    ],
+    "summary": "Seated Forward Bend begins with both legs stretched out in front of the body. The torso folds toward the legs, creating a longer and lower outline than an upright seated pose. Compare the positions of the spine, hips, and knees as the animation moves."
+  },
+  {
+    "id": "bridge",
+    "slug": "bridge",
+    "englishName": "Bridge",
+    "sanskritName": "Setu Bandha Sarvangasana",
+    "aliases": [
+      "Bridge Pose",
+      "Setu Bandha Sarvāṅgāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "bridge-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "The high point.",
+        "text": "Locate the pelvis above the bent legs in this illustration."
+      },
+      {
+        "regionId": "knee",
+        "title": "Two bends.",
+        "text": "Find each knee between the raised pelvis and grounded foot."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Near the floor.",
+        "text": "The shoulders appear beneath the lifted trunk."
+      }
+    ],
+    "summary": "Bridge begins lying on the back with the knees bent and the feet on the floor. The hips lift to form an arch while the shoulders stay supported by the floor. Its upward curve differs from a face-down backbend such as Cobra."
+  },
+  {
+    "id": "supine-twist",
+    "slug": "supine-twist",
+    "englishName": "Supine Twist",
+    "sanskritName": "Supta Matsyendrasana",
+    "aliases": [
+      "Supine Spinal Twist",
+      "Supta Matsyendrāsana"
+    ],
+    "category": "Resting",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "supine-twist-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-supine-twist",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "A turned silhouette.",
+        "text": "Find the pelvis where the bent legs angle away from the trunk."
+      },
+      {
+        "regionId": "knee",
+        "title": "Both bent.",
+        "text": "Trace the knees within the folded lower limbs."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "A wide reach.",
+        "text": "Follow the arms outward from the shoulders."
+      }
+    ],
+    "summary": "Supine Twist begins lying on the back, then angles the bent legs across the body. The upper body stays closer to the floor, creating a visible change in direction between the pelvis and shoulders. The illustration highlights that relationship between the lower and upper body."
+  },
+  {
+    "id": "camel",
+    "slug": "camel",
+    "englishName": "Camel",
+    "sanskritName": "Ustrasana",
+    "aliases": [
+      "Camel Pose",
+      "Uṣṭrāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "camel-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-camel",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Above the knees.",
+        "text": "Find the pelvis held over the kneeling base in this illustration."
+      },
+      {
+        "regionId": "knee",
+        "title": "Kneeling base.",
+        "text": "Locate the knees on the floor with the shins behind them."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Arms reach back.",
+        "text": "Follow each arm from the shoulder back toward the heels."
+      }
+    ],
+    "summary": "Camel is a kneeling backbend with the thighs upright and the chest lifting as the upper body arches back. The arms reach behind toward the heels, so the front of the body forms one long curve. Compare it with Bridge, which makes a similar arch while lying on the back."
+  },
+  {
+    "id": "fish",
+    "slug": "fish",
+    "englishName": "Fish",
+    "sanskritName": "Matsyasana",
+    "aliases": [
+      "Fish Pose",
+      "Matsyāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "fish-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-fish",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Lifted chest.",
+        "text": "Find the shoulders raised above the bent arms in this illustration."
+      },
+      {
+        "regionId": "hip",
+        "title": "Grounded base.",
+        "text": "Locate the pelvis resting on the floor near the hands."
+      },
+      {
+        "regionId": "knee",
+        "title": "Long legs.",
+        "text": "Find each knee along the straight legs on the floor."
+      }
+    ],
+    "summary": "Fish is a backbend that begins lying on the back with the legs long. The forearms rest on the floor while the chest lifts and the head tilts back toward the floor. Its raised chest contrasts with Savasana, where the whole back rests down."
+  },
+  {
+    "id": "locust",
+    "slug": "locust",
+    "englishName": "Locust",
+    "sanskritName": "Salabhasana",
+    "aliases": [
+      "Locust Pose",
+      "Śalabhāsana"
+    ],
+    "category": "Backbend",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "locust-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-locust",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Arms reach back.",
+        "text": "Follow the arms from the shoulders back along the sides."
+      },
+      {
+        "regionId": "hip",
+        "title": "On the floor.",
+        "text": "Locate the pelvis resting on the floor between the lifted ends."
+      },
+      {
+        "regionId": "knee",
+        "title": "Lifted legs.",
+        "text": "Find each knee along the legs raised behind the body."
+      }
+    ],
+    "summary": "Locust is a backbend that begins lying face down. The chest and the legs lift away from the floor while the pelvis stays down and the arms reach back. Compare it with Cobra, where the hands press into the floor and the legs stay down."
+  },
+  {
+    "id": "boat",
+    "slug": "boat",
+    "englishName": "Boat",
+    "sanskritName": "Paripurna Navasana",
+    "aliases": [
+      "Boat Pose",
+      "Full Boat Pose",
+      "Navasana"
+    ],
+    "category": "Balance",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "boat-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-boat",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "The balance point.",
+        "text": "Find the pelvis where the sitting shape meets the floor."
+      },
+      {
+        "regionId": "knee",
+        "title": "Long legs.",
+        "text": "Locate each knee along the legs raised in front."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Arms forward.",
+        "text": "Follow the arms reaching forward from the shoulders."
+      }
+    ],
+    "summary": "Boat is a seated balance where the upper body leans back and the legs lift in front. The torso and legs make a V shape while the arms reach forward beside the legs. It balances on the sitting area, unlike Easy Pose and Bound Angle, which rest the legs on the floor."
+  },
+  {
+    "id": "happy-baby",
+    "slug": "happy-baby",
+    "englishName": "Happy Baby",
+    "sanskritName": "Ananda Balasana",
+    "aliases": [
+      "Happy Baby Pose",
+      "Ānanda Bālāsana"
+    ],
+    "category": "Resting",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "happy-baby-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-happy-baby",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Knees drawn in.",
+        "text": "Find the pelvis on the floor with the thighs folding toward the chest."
+      },
+      {
+        "regionId": "knee",
+        "title": "Shins upright.",
+        "text": "Locate each knee below an ankle that points toward the ceiling."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Reaching up.",
+        "text": "Follow each arm from the shoulder up to the foot it holds."
+      }
+    ],
+    "summary": "Happy Baby is a reclining shape that begins lying on the back. The knees bend toward the chest with the shins pointing up, and the hands hold the feet. It shares the floor-based start of Savasana but folds the legs in instead of resting them long."
+  },
+  {
+    "id": "dolphin",
+    "slug": "dolphin",
+    "englishName": "Dolphin",
+    "sanskritName": "Ardha Pincha Mayurasana",
+    "aliases": [
+      "Dolphin Pose",
+      "Ardha Piñcha Mayūrāsana"
+    ],
+    "category": "Hands & feet",
+    "regionIds": [
+      "shoulder",
+      "hip",
+      "knee"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "dolphin-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-dolphin",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Over the elbows.",
+        "text": "Find the shoulders above the forearms resting on the floor."
+      },
+      {
+        "regionId": "hip",
+        "title": "The high point.",
+        "text": "Locate the pelvis at the top of the upside-down V."
+      },
+      {
+        "regionId": "knee",
+        "title": "Long back legs.",
+        "text": "Find each knee along the legs reaching down to the feet."
+      }
+    ],
+    "summary": "Dolphin forms an upside-down V supported by the forearms and the feet. The hips lift high while the head hangs between the upper arms. Compare it with Downward-Facing Dog, which makes a similar shape on the hands instead of the forearms."
+  },
+  {
+    "id": "pigeon",
+    "slug": "pigeon",
+    "englishName": "Pigeon",
+    "sanskritName": "Eka Pada Rajakapotasana",
+    "aliases": [
+      "Pigeon Pose",
+      "One-Legged King Pigeon Pose",
+      "Eka Pāda Rājakapotāsana"
+    ],
+    "category": "Seated",
+    "regionIds": [
+      "hip",
+      "knee",
+      "shoulder"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "pigeon-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-pigeon",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "hip",
+        "title": "Two directions.",
+        "text": "Find the pelvis between the front leg and the leg reaching back."
+      },
+      {
+        "regionId": "knee",
+        "title": "Front bend.",
+        "text": "Locate the front knee with its shin angled across the mat."
+      },
+      {
+        "regionId": "shoulder",
+        "title": "Upright trunk.",
+        "text": "Follow the arms from the shoulders down to the floor beside the hips."
+      }
+    ],
+    "summary": "Pigeon is a seated shape with one leg bent in front and the other leg extended straight behind. The front shin angles across the mat while the trunk stays upright above the pelvis. Its legs point in opposite directions, unlike Easy Pose, where both legs fold in front."
+  },
+  {
+    "id": "crow",
+    "slug": "crow",
+    "englishName": "Crow",
+    "sanskritName": "Kakasana",
+    "aliases": [
+      "Crow Pose",
+      "Bakasana",
+      "Kākāsana"
+    ],
+    "category": "Balance",
+    "regionIds": [
+      "shoulder",
+      "knee",
+      "hip"
+    ],
+    "lessonIds": [
+      "movement-words",
+      "body-language"
+    ],
+    "illustrationAssetId": "crow-study",
+    "anatomyAssetIds": [],
+    "cues": [],
+    "variations": [],
+    "sourceIds": [
+      "yj-crow",
+      "yj-pose-finder",
+      "os-movement",
+      "os-terms"
+    ],
+    "review": {
+      "status": "unreviewed"
+    },
+    "observations": [
+      {
+        "regionId": "shoulder",
+        "title": "Forward lean.",
+        "text": "Find the shoulders ahead of the hands on the floor."
+      },
+      {
+        "regionId": "knee",
+        "title": "Resting point.",
+        "text": "Locate each knee where it meets the back of the upper arm."
+      },
+      {
+        "regionId": "hip",
+        "title": "Lifted high.",
+        "text": "Find the pelvis above the arms with the feet off the floor."
+      }
+    ],
+    "summary": "Crow is a compact arm balance with the hands on the floor and the elbows bent. The knees rest on the backs of the upper arms while the feet lift and the body leans forward. Many classes also say Bakasana, the name of Crane, a straighter-arm version of the same shape."
+  }
+]

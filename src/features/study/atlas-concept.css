@@ -1,0 +1,80 @@
+.atlas-home{padding-top:32px}
+.atlas-hero{min-height:500px;display:grid;grid-template-columns:minmax(310px,41%) minmax(0,59%);overflow:hidden;border-radius:18px;background:#e6e9de}
+.atlas-hero-copy{display:flex;flex-direction:column;align-items:flex-start;padding:clamp(34px,5vw,74px) clamp(30px,4.4vw,65px);background:#263d32;color:#fcf9f1}
+.atlas-hero-copy .eyebrow{color:#d0dfcf;font-size:11px;letter-spacing:2px}
+.atlas-hero-copy h1{color:#fcf9f1;font-size:clamp(43px,4.8vw,69px);line-height:1.08;letter-spacing:-2.8px;margin:40px 0 20px;max-width:540px}
+.atlas-hero-copy h1 em{font-weight:400;color:#d8aa96}
+.atlas-hero-lead{color:#e1e9df;font-size:17px;line-height:1.6;max-width:340px}
+.atlas-hero-action{display:inline-flex;align-items:center;gap:14px;min-height:54px;padding:12px 19px;margin-top:34px;border-radius:5px;background:#d9ae9a;color:#253a30;font-weight:650;font-size:14px;transition:background .2s,transform .2s}
+.atlas-hero-action:hover{background:#e7c2ae;transform:translateY(-2px)}
+.atlas-hero-action svg:last-child{margin-left:8px}
+.atlas-hero-foot{color:#bfcdbd;font-size:11px;letter-spacing:.4px;margin-top:auto;padding-top:30px}
+.atlas-hero-figure{position:relative;display:flex;align-items:center;justify-content:center;min-width:0;overflow:hidden;background:#eeeae0}
+.atlas-hero-figure img{width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply;transform:scale(1.14);animation:atlas-image-reveal .8s ease-out both}
+.atlas-figure-caption{position:absolute;bottom:24px;right:26px;font-family:var(--serif);font-size:20px;color:#314a3b;background:#faf8f0dd;padding:6px 12px;border-radius:3px}
+.atlas-figure-caption span{font:650 10px var(--sans);letter-spacing:1.3px;margin-left:7px}
+.atlas-home-next{display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:35px;padding:35px 0;border-bottom:1px solid var(--line)}
+.atlas-home-next .eyebrow{font-size:11px}.atlas-home-next h2{font-size:clamp(25px,2.7vw,34px);margin-top:8px}
+.atlas-next-link{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:18px 0 18px 20px;border-left:3px solid #ce9b87;font:26px var(--serif);line-height:1.2;transition:color .2s}
+.atlas-next-link:hover{color:var(--sage-dark)}
+.atlas-next-link svg{flex-shrink:0;color:#3f624a}
+.atlas-home-routes{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-bottom:1px solid var(--line)}
+.atlas-home-routes>a{display:flex;align-items:center;gap:17px;min-height:122px;padding:22px 25px 22px 0;border-right:1px solid var(--line)}
+.atlas-home-routes>a+a{padding-left:26px}.atlas-home-routes>a:last-child{border-right:0}
+.atlas-home-routes>a>span:nth-child(2){display:flex;flex-direction:column;gap:7px;min-width:0}
+.atlas-route-number{align-self:flex-start;font:24px var(--serif);color:#b17b69}
+.atlas-home-routes .eyebrow{font-size:9px;letter-spacing:1.3px}
+.atlas-home-routes strong{font:23px/1.15 var(--serif)}
+.atlas-home-routes svg{margin-left:auto;flex-shrink:0;color:var(--sage-dark)}
+.atlas-home-routes>a:hover strong{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
+.atlas-home>.learning-details{margin-top:28px}
+
+.atlas-skeleton-lesson{padding-top:33px}
+.atlas-skeleton-lesson .back{margin-bottom:30px}
+.atlas-skeleton-heading{margin-bottom:24px}
+.atlas-skeleton-heading .eyebrow{font-size:11px}
+.atlas-skeleton-heading h1{font-size:clamp(39px,4.5vw,60px);letter-spacing:-2px;margin:10px 0 6px}
+.atlas-skeleton-heading h1 em{color:#4f6b54;font-weight:400}
+.atlas-skeleton-heading>p:last-child{font-size:15px}
+.atlas-skeleton-stage{display:grid;grid-template-columns:minmax(0,58%) minmax(300px,42%);min-height:530px;border-radius:18px;overflow:hidden;background:#e5ebdf}
+.atlas-skeleton-canvas{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:14px 8px 10px;background:#e5ebdf}
+.atlas-skeleton-stage.skeleton-appendicular .atlas-skeleton-canvas{background:#eee5df}
+.atlas-skeleton-canvas .skeleton-art{height:490px;width:100%;max-height:none}
+.atlas-skeleton-canvas .skeleton-labels text{fill:#304d3a;font-size:18px;font-weight:600}
+.atlas-skeleton-canvas .skeleton-labels path{stroke:#536c55;stroke-width:1.7}
+.atlas-canvas-caption{font-size:11px;color:#385542;letter-spacing:.3px;margin-top:-14px}
+.atlas-skeleton-guide{display:flex;flex-direction:column;align-items:flex-start;padding:45px clamp(26px,3.6vw,56px);background:#263d32;color:#fcf9f1}
+.atlas-skeleton-guide .eyebrow{color:#cfddca;font-size:10px;letter-spacing:1.6px}
+.atlas-skeleton-choices{width:100%;margin:25px 0 30px;border-top:1px solid #73887a}
+.atlas-skeleton-choices button{width:100%;display:flex;align-items:center;gap:17px;text-align:left;background:transparent;border:0;border-bottom:1px solid #73887a;color:#f7f5ec;font:25px var(--serif);padding:15px 0;min-height:60px}
+.atlas-skeleton-choices button span{font:12px var(--sans);color:#d1a38f}
+.atlas-skeleton-choices button svg{margin-left:auto;color:#d4ac99;opacity:0;transition:transform .2s,opacity .2s}
+.atlas-skeleton-choices button[aria-pressed=true]{color:#e4b9a4}
+.atlas-skeleton-choices button[aria-pressed=true] svg,.atlas-skeleton-choices button:hover svg{opacity:1}
+.atlas-skeleton-choices button:hover svg{transform:translateX(3px)}
+.atlas-skeleton-copy h2{color:#fcf9f1;font-size:clamp(30px,3vw,42px);line-height:1.14;margin-bottom:14px}
+.atlas-skeleton-copy p{color:#dce7dd;font-size:15px;line-height:1.65;max-width:330px}
+.atlas-skeleton-play{display:inline-flex;align-items:center;gap:9px;color:#f4f1e7;background:none;border:0;padding:8px 0;min-height:44px;font-size:13px;margin-top:auto;text-decoration:underline;text-underline-offset:4px}
+.atlas-skeleton-lesson .visual-lesson-actions{margin-top:25px}
+.atlas-skeleton-lesson .visual-lesson-actions .button{background:#3e6349;border-color:#3e6349}
+
+@keyframes atlas-image-reveal{from{opacity:.45;transform:scale(1.17)}to{opacity:1;transform:scale(1.14)}}
+@media(max-width:1000px){
+ .atlas-hero{grid-template-columns:43% 57%;min-height:475px}.atlas-hero-copy{padding:38px 30px}.atlas-hero-copy h1{font-size:clamp(41px,5vw,54px)}.atlas-hero-foot{display:none}
+ .atlas-home-routes>a{gap:10px;padding-right:14px}.atlas-home-routes>a+a{padding-left:15px}.atlas-home-routes strong{font-size:20px}
+ .atlas-skeleton-stage{grid-template-columns:56% 44%}.atlas-skeleton-guide{padding:35px 27px}.atlas-skeleton-canvas .skeleton-art{height:455px}
+}
+@media(max-width:700px){
+ .atlas-home{padding-top:20px}.atlas-hero{grid-template-columns:1fr;min-height:0;border-radius:14px}
+ .atlas-hero-copy{padding:31px 27px 34px}.atlas-hero-copy h1{font-size:clamp(40px,10vw,54px);margin:22px 0 13px;letter-spacing:-1.8px}.atlas-hero-lead{font-size:14px}.atlas-hero-action{margin-top:23px;min-height:50px}
+ .atlas-hero-figure{height:270px}.atlas-hero-figure img{object-fit:contain;transform:scale(1.08);animation:none}.atlas-figure-caption{bottom:12px;right:14px;font-size:17px}
+ .atlas-home-next{grid-template-columns:1fr;gap:10px;padding:26px 0}.atlas-home-next h2{font-size:27px}.atlas-next-link{font-size:22px;padding:12px 0 12px 14px}
+ .atlas-home-routes{grid-template-columns:1fr}.atlas-home-routes>a{min-height:92px;padding:17px 0;border-right:0;border-bottom:1px solid var(--line)}.atlas-home-routes>a+a{padding-left:0}.atlas-home-routes>a:last-child{border-bottom:0}.atlas-home-routes strong{font-size:23px}
+ .atlas-skeleton-lesson{padding-top:26px}.atlas-skeleton-lesson .back{margin-bottom:23px}.atlas-skeleton-heading h1{font-size:39px;line-height:1.12}.atlas-skeleton-heading>p:last-child{font-size:14px}
+ .atlas-skeleton-stage{grid-template-columns:1fr}.atlas-skeleton-canvas{min-height:335px;padding:7px 3px}.atlas-skeleton-canvas .skeleton-art{height:330px}.atlas-canvas-caption{margin-top:-10px}
+ .atlas-skeleton-guide{padding:27px 27px 30px}.atlas-skeleton-choices{margin:18px 0 24px}.atlas-skeleton-choices button{font-size:23px;min-height:54px;padding:11px 0}
+ .atlas-skeleton-copy h2{font-size:32px}.atlas-skeleton-play{margin-top:22px}
+ .atlas-skeleton-lesson .visual-lesson-actions{flex-direction:column;align-items:flex-start}.atlas-skeleton-lesson .visual-lesson-actions .text-link{margin-left:0}
+}
+@media(max-width:360px){.atlas-hero-action{gap:7px;padding:10px 12px;font-size:12px;white-space:nowrap}.atlas-hero-action svg:last-child{margin-left:2px}}
+@media(prefers-reduced-motion:reduce){.atlas-hero-figure img{animation:none}.atlas-hero-action,.atlas-skeleton-choices button svg{transition:none}}

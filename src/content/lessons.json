@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "practice-map",
+    "slug": "your-practice-vocabulary",
+    "title": "A place for each part of practice",
+    "primaryModuleId": "M1",
+    "topicIds": [
+      "M1-T01",
+      "M1-T06",
+      "M1-T10"
+    ],
+    "goal": "Organise what you hear in class into a few familiar study categories.",
+    "sections": [
+      {
+        "heading": "Three places to begin",
+        "text": "Use three headings for class notes: posture, breathing, and meditation. Place a term you heard under the matching heading. Leave an unfamiliar term beside a question mark."
+      },
+      {
+        "heading": "Capture the class, in your own words",
+        "text": "Choose one class moment. Record its name, what you noticed, and one question. Keep your teacher’s exact words separate from your own interpretation."
+      },
+      {
+        "heading": "A small learning ritual",
+        "text": "Explain one entry aloud without your notes. Check it against your notebook, then save a correction or a question for tomorrow."
+      }
+    ],
+    "activityIds": [
+      "q-practice"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-release.md#study-activities"
+    },
+    "reflection": "Which practice term would you like your teacher to explain again?"
+  },
+  {
+    "id": "yoga-styles",
+    "slug": "four-yoga-styles",
+    "title": "Four styles, different rhythms",
+    "primaryModuleId": "M1",
+    "topicIds": [
+      "M1-T02",
+      "M1-T03",
+      "M1-T04",
+      "M1-T05"
+    ],
+    "goal": "Recognise four class approaches found in yoga teacher training.",
+    "sections": [
+      {
+        "id": "hatha",
+        "heading": "Hatha",
+        "memory": "Pause & explore",
+        "text": "In many modern Hatha classes, postures are explored at a steady pace, with time in each shape and attention to breathing.",
+        "detail": "Hatha also names a broader tradition. A class label describes an approach, not a difficulty level.",
+        "sourceId": "ye-hatha"
+      },
+      {
+        "id": "vinyasa",
+        "heading": "Vinyasa",
+        "memory": "Connect & flow",
+        "text": "Movement connects with breath. The teacher can vary the sequence, pace and theme of the class.",
+        "detail": "Vinyasa does not always mean fast. A flowing class can move slowly and include pauses.",
+        "sourceId": "ye-vinyasa"
+      },
+      {
+        "id": "ashtanga",
+        "heading": "Ashtanga",
+        "memory": "A familiar order",
+        "text": "Ashtanga Vinyasa uses established series of postures, linking movement and breath. Students learn the sequence gradually.",
+        "detail": "Here, Ashtanga means the posture-based Ashtanga Vinyasa method. Its name also refers to the eight limbs of yoga.",
+        "sourceId": "ye-ashtanga"
+      },
+      {
+        "id": "yin",
+        "heading": "Yin",
+        "memory": "Time in stillness",
+        "text": "Yin uses longer-held, passive poses, usually close to the floor. There is more time in a shape and less continuous movement.",
+        "detail": "Longer-held does not mean effortless. Follow the approach and adaptations taught by your teacher.",
+        "sourceId": "ye-yin"
+      }
+    ],
+    "activityIds": [
+      "q-styles-vinyasa",
+      "q-styles-yin",
+      "q-styles-hatha"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "ye-hatha",
+      "ye-vinyasa",
+      "ye-ashtanga",
+      "ye-yin"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-02",
+      "evidence": "docs/yoga-styles.md"
+    },
+    "reflection": "Which approach did you notice in your class today?"
+  },
+  {
+    "id": "body-language",
+    "slug": "read-the-body",
+    "title": "Read the body, one word at a time",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T01"
+    ],
+    "goal": "Use a few directional terms to read an anatomy diagram with confidence.",
+    "sections": [
+      {
+        "heading": "Give the picture an orientation",
+        "text": "Anatomical terminology uses a standard reference position. Directional terms refer to the person’s body, rather than your position looking at a picture."
+      },
+      {
+        "heading": "Find the useful pairs",
+        "text": "Anterior means toward the front; posterior means toward the back. Medial points toward the body’s midline, and lateral away from it. Proximal means closer to the limb’s attachment, while distal means farther from it."
+      },
+      {
+        "heading": "Try a small comparison",
+        "text": "The elbow is proximal to the wrist. Turn that relationship around: the wrist is distal to the elbow. Say both sentences, then locate the regions on the reference diagram."
+      }
+    ],
+    "activityIds": [
+      "q-body",
+      "q-body-medial",
+      "q-body-proximal"
+    ],
+    "relatedPoseIds": [
+      "warrior-ii"
+    ],
+    "sourceIds": [
+      "os-terms"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-09-30",
+      "evidence": "docs/content-release.md#anatomy-foundations"
+    },
+    "reflection": "What anatomical word could replace “over here” in one of your class notes?"
+  },
+  {
+    "id": "movement-words",
+    "slug": "describe-a-movement",
+    "title": "Describe a movement",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T03"
+    ],
+    "goal": "Distinguish four movement terms you may hear in anatomy class.",
+    "sections": [
+      {
+        "heading": "Bending and straightening",
+        "text": "At the elbow and knee, flexion reduces the angle between the bones. Extension increases it. Always name the joint you are describing."
+      },
+      {
+        "heading": "Away and toward",
+        "text": "Abduction moves a limb away from the body’s midline; adduction brings it toward the midline. Raising an arm out to the side is an example of shoulder abduction."
+      },
+      {
+        "heading": "Turn observation into a question",
+        "text": "In the Warrior II illustration, find the bent knee. Write down the movement term it reminds you of, then ask your teacher to connect the vocabulary to the pose as taught in class."
+      }
+    ],
+    "activityIds": [
+      "q-movement",
+      "q-movement-out",
+      "q-movement-straight"
+    ],
+    "relatedPoseIds": [
+      "warrior-ii"
+    ],
+    "sourceIds": [
+      "os-movement"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-09-30",
+      "evidence": "docs/content-release.md#anatomy-foundations"
+    },
+    "reflection": "Which pair of movement words is easiest to confuse?"
+  },
+  {
+    "id": "nervous-basics",
+    "slug": "meet-your-nervous-system",
+    "title": "Meet your nervous system",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T15"
+    ],
+    "goal": "Separate the system’s main anatomical divisions from descriptions of what it does.",
+    "sections": [
+      {
+        "heading": "Two anatomical divisions",
+        "text": "The central nervous system (CNS) includes the brain and spinal cord. The peripheral nervous system (PNS) includes nerves and ganglia beyond them."
+      },
+      {
+        "heading": "Structure and function ask different questions",
+        "text": "Sensation, integration and response describe functions. CNS and PNS describe anatomical organisation. One is not a replacement for the other."
+      },
+      {
+        "heading": "Bring it back to class",
+        "text": "Try two notebook headings: structures and functions. Place “brain” under structures and “sensation” under functions. Ask your teacher which additional terms to add from class."
+      }
+    ],
+    "activityIds": [
+      "q-nervous",
+      "q-nervous-pns",
+      "q-nervous-function"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "os-nerves"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-09-30",
+      "evidence": "docs/content-release.md#anatomy-foundations"
+    },
+    "reflection": "What is one distinction you can now explain without looking?"
+  },
+  {
+    "id": "energy-context",
+    "slug": "energy-in-yoga-traditions",
+    "title": "Energy concepts, in context",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T06",
+      "M2-T07"
+    ],
+    "goal": "Keep a clear record of the framework your teacher is using.",
+    "sections": [
+      {
+        "heading": "Name the framework",
+        "text": "The course outline includes chakras and nadis under energy anatomy. Study these within the yoga tradition and interpretation your teacher presents. They are not labels for anatomical organs or peripheral nerves."
+      },
+      {
+        "heading": "A source-aware notebook",
+        "text": "Create three columns: term, the explanation given in class, and its text or tradition. If a diagram appears, record its source before copying the labels."
+      },
+      {
+        "heading": "Ask for the connection",
+        "text": "Write one question about how the teacher uses this framework in practice. Keep that discussion separate from your biomedical anatomy glossary."
+      }
+    ],
+    "activityIds": [
+      "q-energy"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline"
+    ],
+    "publication": "draft",
+    "review": {
+      "status": "unreviewed"
+    },
+    "reflection": "Which text or tradition supports the energy model being taught?",
+    "traditionLabel": "Traditional yoga framework; not biomedical anatomy"
+  },
+  {
+    "id": "clear-cues",
+    "slug": "find-your-teaching-voice",
+    "title": "Find your teaching voice",
+    "primaryModuleId": "M3",
+    "topicIds": [
+      "M3-T01",
+      "M3-T07"
+    ],
+    "goal": "Turn an observation from class into a cue to discuss with your teacher.",
+    "sections": [
+      {
+        "heading": "Listen before you edit",
+        "text": "Choose a cue you heard in class. Write it down and note what happened next. Did the teacher demonstrate, pause, or rephrase it? Describe only what you could observe."
+      },
+      {
+        "heading": "One intention, two versions",
+        "text": "Write a shorter version of the cue, then one that uses different words. Read both aloud. Ask a peer what action each version suggests, without assuming their response will match yours."
+      },
+      {
+        "heading": "Bring the draft to your teacher",
+        "text": "Save the wording you prefer and one question about it. Ask your teacher to check its meaning and timing before you use it to guide someone’s practice."
+      }
+    ],
+    "activityIds": [
+      "q-cues"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-release.md#study-activities"
+    },
+    "reflection": "What did you notice about how your teacher checked that a cue was understood?"
+  },
+  {
+    "id": "ethics-reflection",
+    "slug": "reflection-in-relationships",
+    "title": "Reflection in relationships",
+    "primaryModuleId": "M4",
+    "topicIds": [
+      "M4-T08",
+      "M4-T09"
+    ],
+    "goal": "Use a classroom scenario to practise thoughtful questions about teacher–student relationships.",
+    "sections": [
+      {
+        "heading": "Consider a moment",
+        "text": "Imagine a student declines an optional class activity. Before writing a response, list what you know and what you are only assuming about their choice."
+      },
+      {
+        "heading": "Make room for a perspective",
+        "text": "Acknowledge the student’s choice without demanding a public explanation. Write a response that leaves space for their boundaries, then discuss it with your teacher."
+      },
+      {
+        "heading": "Connect to your reading",
+        "text": "Yoga Alliance’s code addresses inclusion and respectful student–teacher relationships. Compare those principles with the text or passage used in your class. Record the source and your own question."
+      }
+    ],
+    "activityIds": [
+      "q-ethics"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "ya-conduct"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-release.md#study-activities"
+    },
+    "reflection": "How would you respect a student’s choice while keeping the group informed?"
+  },
+  {
+    "id": "feedback-loop",
+    "slug": "a-small-teaching-rehearsal",
+    "title": "One rehearsal, one next step",
+    "primaryModuleId": "M5",
+    "topicIds": [
+      "M5-T01",
+      "M5-T02",
+      "M5-T03"
+    ],
+    "goal": "Prepare a short rehearsal and a useful feedback question.",
+    "sections": [
+      {
+        "heading": "Choose a familiar excerpt",
+        "text": "Use a sequence your teacher has already taught. In the rehearsal tool, add the poses you can select and discuss other sequence details with your teacher. Enter the cue and time you want to practise for each step."
+      },
+      {
+        "heading": "Observe something specific",
+        "text": "Ask a peer to listen for one thing: a pause, clarity of wording, or the timing of a transition. They can write what they heard before offering an interpretation."
+      },
+      {
+        "heading": "Close the loop",
+        "text": "Record one thing to keep and one thing to change. Rehearse again and compare the two attempts. This is a personal feedback routine; the school’s practicum and written exam have their own requirements."
+      }
+    ],
+    "activityIds": [
+      "q-feedback"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-release.md#study-activities"
+    },
+    "reflection": "Which one part of your next rehearsal would you like feedback on?"
+  },
+  {
+    "id": "pose-observation",
+    "slug": "observe-a-pose",
+    "title": "Observe before you explain",
+    "primaryModuleId": "M1",
+    "topicIds": [
+      "M1-T01"
+    ],
+    "goal": "Describe the Warrior II illustration and save a question for class.",
+    "sections": [
+      {
+        "heading": "Recognise the example",
+        "text": "The pose library begins with Warrior II, also called Virabhadrasana II. In the draft illustration, one knee is bent, the opposite leg is straight, and the arms extend to either side."
+      },
+      {
+        "heading": "Look without prescribing",
+        "text": "Notice the shoulder, hip and knee markers. These are landmarks for discussion, not precise anatomical overlays or a prescription for how every body should look."
+      },
+      {
+        "heading": "Keep your teacher’s words",
+        "text": "Save one cue you heard in class, then add a question about it. Compare the sample with your teacher’s demonstration."
+      }
+    ],
+    "activityIds": [
+      "q-pose",
+      "q-pose-knee"
+    ],
+    "relatedPoseIds": [
+      "warrior-ii"
+    ],
+    "sourceIds": [
+      "yj-warrior"
+    ],
+    "publication": "draft",
+    "review": {
+      "status": "unreviewed"
+    },
+    "reflection": "What would you ask your teacher about this pose?"
+  },
+  {
+    "id": "breathing-basics",
+    "slug": "how-breathing-moves",
+    "title": "How breathing moves",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T02",
+      "M2-T13"
+    ],
+    "goal": "How breathing moves through a simple animated model.",
+    "sections": [
+      {
+        "heading": "Make space",
+        "text": "During quiet inspiration, the diaphragm contracts and moves down. The chest cavity becomes larger."
+      },
+      {
+        "heading": "Follow the pressure",
+        "text": "As lung volume increases, pressure inside falls below atmospheric pressure. Air flows into the lungs."
+      },
+      {
+        "heading": "Notice recoil",
+        "text": "During quiet expiration, the diaphragm relaxes and lung tissue recoils. Air flows out. The animation illustrates physiology; its timing is not a breathing practice."
+      }
+    ],
+    "activityIds": [
+      "q-breath-diaphragm",
+      "q-breath-pressure",
+      "q-breath-recoil"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "os-breath"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-expansion.md"
+    },
+    "reflection": "Which part would you like to discuss with your teacher?"
+  },
+  {
+    "id": "muscle-roles",
+    "slug": "muscles-work-together",
+    "title": "Muscles work together",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T09"
+    ],
+    "goal": "Muscles work together through a simple animated model.",
+    "sections": [
+      {
+        "heading": "Pull through attachments",
+        "text": "Skeletal muscles produce tension. Tendons transmit this force to bones."
+      },
+      {
+        "heading": "Name the role",
+        "text": "An agonist contributes the principal action; an antagonist has the opposing action. A synergist helps. These names describe roles in a particular action."
+      },
+      {
+        "heading": "Change the action",
+        "text": "Biceps flexes the elbow; triceps extends it. Their agonist and antagonist roles change with the action. Real movements also involve other muscles and stabilisation."
+      }
+    ],
+    "activityIds": [
+      "q-muscle-antagonist",
+      "q-muscle-tendon",
+      "q-muscle-role"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "os-muscles"
+    ],
+    "publication": "published",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-01",
+      "evidence": "docs/content-expansion.md"
+    },
+    "reflection": "Which part would you like to discuss with your teacher?"
+  },
+  {
+    "id": "connective-basics",
+    "slug": "what-connects-the-body",
+    "title": "What connects the body?",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T10",
+      "M2-T11"
+    ],
+    "goal": "Tell apart tendon attachment, ligament attachment and articular cartilage using a simple relationship diagram.",
+    "sections": [
+      {
+        "id": "tendon",
+        "heading": "Tendon",
+        "memory": "Muscle to bone.",
+        "text": "A tendon attaches muscle to bone, transmitting the pull produced by the muscle.",
+        "detail": "Tendons are connective tissue. Their attachment helps transfer muscle force to the skeleton; the tendon is not the muscle belly."
+      },
+      {
+        "id": "ligament",
+        "heading": "Ligament",
+        "memory": "Bone to bone.",
+        "text": "At a joint, ligaments connect bones and help support and limit their movement.",
+        "detail": "The illustrated band sits beside the joint space. It represents a ligament connecting bones, not a muscle attachment."
+      },
+      {
+        "id": "cartilage",
+        "heading": "Cartilage",
+        "memory": "A smoother meeting.",
+        "text": "Articular cartilage covers the facing bone surfaces in a synovial joint, helping them move with less friction.",
+        "detail": "The facing layers remain separate, with joint space between them. Synovial fluid also helps lubricate the joint. This example shows articular cartilage, not every type of cartilage."
+      }
+    ],
+    "activityIds": [
+      "q-connective-tendon",
+      "q-connective-ligament",
+      "q-connective-cartilage"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "anatomy-outline",
+      "os-connective",
+      "os-joints"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-02",
+      "evidence": "docs/connective-tissues.md"
+    },
+    "reflection": "Which of these structures did your anatomy teacher mention today?",
+    "overview": "Tendons, ligaments, and cartilage are different tissues associated with movement and joints. A tendon links muscle to bone, a ligament links bone to bone, and articular cartilage covers facing bone surfaces at a synovial joint. Choose a tissue to see where the simplified diagram places it."
+  },
+  {
+    "id": "skeleton-basics",
+    "slug": "two-parts-of-the-skeleton",
+    "title": "One skeleton, two divisions",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T08"
+    ],
+    "goal": "Distinguish axial and appendicular bone groups, including the shoulder and hip attachments.",
+    "sections": [
+      {
+        "id": "axial",
+        "heading": "Axial",
+        "memory": "The central framework.",
+        "text": "The skull, spine and rib cage belong to the axial skeleton: the central framework of the body.",
+        "detail": "The vertebral column includes the sacrum and coccyx. They remain axial even though they sit between the hip bones. The rib cage includes ribs and sternum."
+      },
+      {
+        "id": "appendicular",
+        "heading": "Appendicular",
+        "memory": "Limbs & attachments.",
+        "text": "The appendicular skeleton includes the arms and legs, plus the shoulder girdles and hip bones that attach them.",
+        "detail": "The shoulder girdles include clavicles and scapulae. The two hip bones form the pelvic girdle. The bony pelvis also includes the sacrum and coccyx, which belong to the axial skeleton."
+      }
+    ],
+    "activityIds": [
+      "q-skeleton-ribs",
+      "q-skeleton-shoulder",
+      "q-skeleton-sacrum"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "anatomy-outline",
+      "os-skeleton",
+      "os-shoulder-girdle",
+      "os-pelvic-girdle"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-02",
+      "evidence": "docs/skeleton-map.md"
+    },
+    "reflection": "Can you name one bone group from each division?",
+    "overview": "The skeleton can be described in two broad divisions. The axial skeleton includes the skull, vertebral column, and rib cage; the appendicular skeleton includes the limbs and the girdles that attach them. Choose a layer to see those groups highlighted on the same body map."
+  },
+  {
+    "id": "circulation-basics",
+    "slug": "follow-the-circulation",
+    "title": "Follow the circulation",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T14"
+    ],
+    "goal": "Trace the two main blood-flow circuits without treating the diagram as a full heart anatomy lesson.",
+    "sections": [
+      {
+        "id": "pulmonary",
+        "heading": "Lungs",
+        "memory": "Heart → lungs → heart",
+        "text": "The right side of the heart sends blood to the lungs. Blood returns to the left side of the heart.",
+        "detail": "This is the pulmonary circuit. In the lungs, gas exchange adds oxygen to the blood and removes carbon dioxide. The diagram omits individual chambers and vessels."
+      },
+      {
+        "id": "systemic",
+        "heading": "Body",
+        "memory": "Heart → body → heart",
+        "text": "The left side of the heart sends blood through the body. Blood returns to the right side of the heart.",
+        "detail": "This is the systemic circuit. Blood delivers oxygen to tissues and returns with less oxygen. The illustration simplifies the many vessels and organs involved."
+      }
+    ],
+    "activityIds": [
+      "q-circulation-lungs",
+      "q-circulation-body",
+      "q-circulation-vessels"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "anatomy-outline",
+      "os-circulation"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source comparison (not educator review)",
+      "date": "2026-10-07",
+      "evidence": "docs/circulation-lesson.md"
+    },
+    "reflection": "Can you trace each loop without looking at the diagram?"
+  },
+  {
+    "id": "read-the-room",
+    "slug": "read-the-room",
+    "title": "Read the room",
+    "primaryModuleId": "M3",
+    "topicIds": [
+      "M3-T02",
+      "M3-T03",
+      "M3-T05"
+    ],
+    "goal": "Notice group dynamics, pacing and individual needs without treating this picture as a class plan.",
+    "sections": [
+      {
+        "id": "group",
+        "heading": "People",
+        "memory": "Notice the room.",
+        "text": "Group dynamics is part of class management. Notice how a group responds to cues, then bring your observations to your trainer.",
+        "detail": "The illustration follows attention around a group. It does not assess any learner or prescribe how to manage a real class."
+      },
+      {
+        "id": "pace",
+        "heading": "Time",
+        "memory": "Leave room for time.",
+        "text": "Pace is a teaching skill. Notice the time spent in each part and transition; compare your rehearsal with your teacher's approach.",
+        "detail": "The moving arc is a memory aid, not a recommended class duration or sequence."
+      },
+      {
+        "id": "individual",
+        "heading": "Individual",
+        "memory": "Make room for difference.",
+        "text": "People may need different ways to join a class. Ask what supports participation; discuss responses with your trainer instead of guessing from appearance.",
+        "detail": "An inclusive space is a teaching goal, not a visual diagnosis. This introduction does not suggest condition-specific pose changes or assess a learner's needs. Ask your trainer for a supervised approach."
+      }
+    ],
+    "activityIds": [
+      "q-room-group",
+      "q-room-pace",
+      "q-room-individual",
+      "q-room-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "ya-rys200",
+      "ya-code"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of public course outline, Yoga Alliance RYS 200 standards and Code of Conduct (not educator review)",
+      "date": "2026-10-08",
+      "evidence": "docs/teaching-pace-lesson.md"
+    },
+    "reflection": "What part of a recent class would you ask your trainer to explain?"
+  },
+  {
+    "id": "ahimsa-in-action",
+    "slug": "ahimsa-in-action",
+    "title": "A question of non-harming",
+    "primaryModuleId": "M4",
+    "topicIds": [
+      "M4-T01",
+      "M4-T04"
+    ],
+    "goal": "Locate ahiṃsā in one Yoga Sūtra passage and connect it carefully to a modern teaching question.",
+    "sections": [
+      {
+        "id": "text",
+        "heading": "Text",
+        "memory": "Begin with the source.",
+        "text": "Yoga Sūtra II.30 names ahiṃsā among the yamas, or ethical restraints. Non-harming is one common translation.",
+        "detail": "This is one passage, not a summary of the whole Yoga Sūtras. Translations and traditions may explain the term differently. Ask which edition your teacher uses."
+      },
+      {
+        "id": "intention",
+        "heading": "Intention",
+        "memory": "Notice possible harm.",
+        "text": "Before acting, ask what your words or choices might do to another person. Keep the question open rather than assuming one rule fits everyone.",
+        "detail": "This is a reflection prompt drawn from the ethical theme, not a claim that the ancient passage gives modern classroom instructions."
+      },
+      {
+        "id": "teaching",
+        "heading": "Teaching",
+        "memory": "Ask before you assist.",
+        "text": "In modern teacher ethics, physical assistance requires explicit, informed consent. Notice when a student wants space or another option.",
+        "detail": "Yoga Alliance's Code of Conduct states this requirement for its members. Ask your trainer for your cohort's policy and supervised method; this picture does not teach hands-on assistance."
+      }
+    ],
+    "activityIds": [
+      "q-ahimsa-text",
+      "q-ahimsa-consent",
+      "q-ahimsa-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "harvard-ahimsa",
+      "ya-rys200",
+      "ya-code"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of a scholarly translation and Yoga Alliance standards (not educator review)",
+      "date": "2026-10-07",
+      "evidence": "docs/philosophy-source-brief-2026-10-07.md"
+    },
+    "reflection": "Where might you ask instead of assume in a class?"
+  },
+  {
+    "id": "benefits-and-cautions",
+    "slug": "benefits-and-cautions",
+    "title": "Benefits need context",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T05"
+    ],
+    "goal": "Distinguish a possible benefit from an individual safety decision.",
+    "sections": [
+      {
+        "id": "evidence",
+        "heading": "Evidence",
+        "memory": "Possible is not promised.",
+        "text": "Research suggests yoga may support some aspects of wellness. The studies, styles and people involved differ, so a benefit is not guaranteed for everyone.",
+        "detail": "The NIH summary compares research across varied yoga programs. This view does not claim a particular pose treats a condition."
+      },
+      {
+        "id": "person",
+        "heading": "Person",
+        "memory": "Ask about the person.",
+        "text": "A health condition can change what is suitable. A healthcare professional and a qualified instructor can help discuss individual needs and adaptations.",
+        "detail": "No diagram here can decide a contraindication for a person. Yoga Alliance also places limits on advice given outside a teacher's qualifications. Ask your trainer for your cohort's method."
+      }
+    ],
+    "activityIds": [
+      "q-benefit-claim",
+      "q-benefit-context",
+      "q-benefit-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "nccih-yoga-safety",
+      "ya-rys200",
+      "ya-scope"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of NIH and Yoga Alliance materials (not educator or clinical review)",
+      "date": "2026-10-07",
+      "evidence": "docs/benefits-safety-source-brief-2026-10-07.md"
+    },
+    "reflection": "What safety question would you bring to your trainer before making a claim about a practice?"
+  },
+  {
+    "id": "teaching-boundaries",
+    "slug": "teaching-boundaries",
+    "title": "Know your teaching space",
+    "primaryModuleId": "M3",
+    "topicIds": [
+      "M3-T04"
+    ],
+    "goal": "Recognize a teaching boundary without trying to solve a learner's health question.",
+    "sections": [
+      {
+        "id": "teach",
+        "heading": "Teach",
+        "memory": "Stay with yoga.",
+        "text": "Offer yoga teaching within your training. Your experience and your teacher's guidance shape what you can responsibly teach.",
+        "detail": "Yoga Alliance's Scope of Practice says members teach within their qualified style, training and experience. This view does not define the exact boundaries of your cohort."
+      },
+      {
+        "id": "refer",
+        "heading": "Refer",
+        "memory": "Know when to pause.",
+        "text": "When a question needs clinical or other specialist advice, do not guess. Bring it to your trainer and direct the person to an appropriately qualified professional.",
+        "detail": "Yoga Alliance's Scope of Practice limits advice outside a member's credentials and competence. This diagram is a memory aid, not a triage tool or an instruction to diagnose."
+      }
+    ],
+    "activityIds": [
+      "q-boundaries-teach",
+      "q-boundaries-refer",
+      "q-boundaries-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "ya-rys200",
+      "ya-scope"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of Yoga Alliance Scope of Practice and public course outline (not educator review)",
+      "date": "2026-10-08",
+      "evidence": "docs/teaching-boundaries-source-brief-2026-10-08.md"
+    },
+    "reflection": "What is one question you would bring to your trainer instead of answering alone?"
+  },
+  {
+    "id": "restorative-principles",
+    "slug": "restorative-principles",
+    "title": "Make room for rest",
+    "primaryModuleId": "M1",
+    "topicIds": [
+      "M1-T14"
+    ],
+    "goal": "Recognise support and quiet as two features of a restorative approach.",
+    "sections": [
+      {
+        "id": "support",
+        "heading": "Support",
+        "memory": "The shape can be supported.",
+        "text": "Restorative classes often use props to support a position. The teacher chooses a setup for the person and the class.",
+        "detail": "This is an abstract support diagram, not a pose setup. Ask your trainer which props, positions and adjustments belong to your course method."
+      },
+      {
+        "id": "quiet",
+        "heading": "Quiet",
+        "memory": "Leave space to settle.",
+        "text": "Restorative practice commonly includes few positions and time to rest in them. Slower does not mean one setup fits everyone.",
+        "detail": "No hold time, physiological effect or personal safety claim is taught here. Follow a qualified teacher for practical instruction."
+      }
+    ],
+    "activityIds": [
+      "q-restorative-concept",
+      "q-restorative-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "yj-restorative"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex source and scope comparison (not educator review)",
+      "date": "2026-10-08",
+      "evidence": "docs/restorative-variation-source-brief-2026-10-08.md"
+    },
+    "reflection": "Which part of a restorative setup would you ask your trainer to demonstrate?"
+  },
+  {
+    "id": "individual-variation",
+    "slug": "individual-variation",
+    "title": "One cue, different bodies",
+    "primaryModuleId": "M2",
+    "topicIds": [
+      "M2-T12"
+    ],
+    "goal": "Recognise that a shared movement cue is not a personal range-of-motion target.",
+    "sections": [
+      {
+        "id": "structure",
+        "heading": "Structure",
+        "memory": "Joints move differently.",
+        "text": "Joint shape and supporting tissues influence which movements are available. A diagram can name a movement; it cannot measure a person.",
+        "detail": "OpenStax describes joint types and structural limits. This is a simplified concept drawing, not an anatomical measurement."
+      },
+      {
+        "id": "person",
+        "heading": "Person",
+        "memory": "Observe before you assume.",
+        "text": "The same cue can meet different starting points. Ask your trainer how they notice and discuss adaptations with a student.",
+        "detail": "The teaching implication is an inference from anatomy and Yoga Alliance's attention to physical limitations and adaptations. This lesson offers no personal movement prescription."
+      }
+    ],
+    "activityIds": [
+      "q-variation-concept",
+      "q-variation-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "anatomy-outline",
+      "os-joints",
+      "ya-rys200"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of OpenStax and Yoga Alliance materials (not educator review)",
+      "date": "2026-10-08",
+      "evidence": "docs/restorative-variation-source-brief-2026-10-08.md"
+    },
+    "reflection": "What might you ask before assuming one cue fits everyone?"
+  },
+  {
+    "id": "teaching-essentials",
+    "slug": "grow-as-a-teacher",
+    "title": "Grow as a teacher",
+    "primaryModuleId": "M3",
+    "topicIds": [
+      "M3-T10",
+      "M3-T11",
+      "M3-T12"
+    ],
+    "goal": "Connect teacher qualities, feedback and honest class descriptions.",
+    "sections": [
+      {
+        "id": "prepare",
+        "heading": "Prepare",
+        "memory": "Show up ready.",
+        "text": "A welcoming space and consistent preparation help a class begin well. Ask your trainer which qualities they expect in this cohort.",
+        "detail": "Yoga Alliance RYS 200 professional essentials include a safe, accessible environment and professionalism such as timeliness and consistency. This is a prompt to reflect, not a complete teacher rubric."
+      },
+      {
+        "id": "learn",
+        "heading": "Learn",
+        "memory": "Practice, hear, refine.",
+        "text": "Teaching develops through rehearsal and feedback. Notice one thing you tried, one thing you heard, and one next step.",
+        "detail": "The RYS 200 standards describe a practicum with mentorship or feedback and ongoing learning. Your actual trainer decides the rehearsal and assessment method."
+      },
+      {
+        "id": "share",
+        "heading": "Share",
+        "memory": "Say what you can offer.",
+        "text": "A class description can name its approach and audience plainly. Be accurate about your training and avoid promising effects.",
+        "detail": "RYS 200 professional development includes introductory marketing concepts. Yoga Alliance's Code asks members to communicate honestly about credentials and effects. This is not a business or legal guide."
+      }
+    ],
+    "activityIds": [
+      "q-teaching-prepare",
+      "q-teaching-learn",
+      "q-teaching-share",
+      "q-teaching-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "ya-rys200",
+      "ya-code"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison of Yoga Alliance standards and Code (not educator review)",
+      "date": "2026-10-08",
+      "evidence": "docs/teaching-essentials-source-brief-2026-10-08.md"
+    },
+    "reflection": "Which teacher quality or learning step would you ask your trainer to observe?"
+  },
+  {
+    "id": "hatha-first-light",
+    "slug": "hatha-first-light",
+    "title": "A first light on Haṭha",
+    "primaryModuleId": "M4",
+    "topicIds": [
+      "M4-T02"
+    ],
+    "goal": "Read two opening images from one translation of the Haṭha Pradīpikā without treating them as modern practice instructions.",
+    "sections": [
+      {
+        "id": "ladder",
+        "heading": "Verse 1",
+        "memory": "A ladder toward Rāja Yoga.",
+        "text": "The opening verse pictures knowledge of Haṭha as a way toward Rāja Yoga. This is the text's image, not a modern class sequence.",
+        "detail": "Based on the Centre for Yoga Studies translation of chapter 1, verse 1. Translators and traditions interpret Rāja Yoga differently. Ask your trainer which edition your course uses."
+      },
+      {
+        "id": "asana",
+        "heading": "Verse 17",
+        "memory": "Āsana comes first here.",
+        "text": "Later in the chapter, the text introduces āsana first among Haṭha's limbs. One verse is a doorway into the text, not the whole tradition.",
+        "detail": "Based on the same source's chapter 1, verse 17. The verse also makes historical health claims; this lesson does not repeat them as present-day evidence or prescribe a pose."
+      }
+    ],
+    "activityIds": [
+      "q-hatha-image",
+      "q-hatha-reflect"
+    ],
+    "relatedPoseIds": [],
+    "sourceIds": [
+      "training-outline",
+      "cys-hatha-1"
+    ],
+    "publication": "published",
+    "instructional": false,
+    "traditionLabel": "Text and interpretation",
+    "review": {
+      "status": "fact-checked",
+      "reviewer": "Codex comparison with an attributed translation (not educator or tradition review)",
+      "date": "2026-10-08",
+      "evidence": "docs/philosophy-completion-source-brief-2026-10-08.md"
+    },
+    "reflection": "Which verse or interpretation would you ask your trainer to explain?"
+  }
+]
